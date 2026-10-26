@@ -1,5 +1,5 @@
 // App shell: cache-first. Episode data: network-first with cache fallback. Audio: streamed, cached after first full play.
-const SHELL = 'rb-shell-v1';
+const SHELL = 'rb-shell-v2';
 const DATA = 'rb-data-v1';
 const SHELL_FILES = [
   './', 'index.html', 'styles.css', 'app.js', 'orb.js', 'vendor/three.module.min.js',

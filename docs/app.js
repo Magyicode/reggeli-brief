@@ -48,6 +48,15 @@ async function init() {
   render(ep);
 }
 
+// when the app comes back to the foreground, switch to a newer episode if one was published meanwhile
+document.addEventListener('visibilitychange', async () => {
+  if (document.hidden || !ep || !audio.paused || new URLSearchParams(location.search).has('d')) return;
+  try {
+    const idx = await fetchJSON('episodes/index.json');
+    if (idx.episodes[0] && idx.episodes[0].date !== ep.date) location.reload();
+  } catch {}
+});
+
 async function fetchJSON(url) {
   const r = await fetch(url, { cache: 'no-cache' });
   if (!r.ok) throw new Error(`${url}: ${r.status}`);
