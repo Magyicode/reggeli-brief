@@ -61,15 +61,14 @@ if git cat-file -e "origin/main:docs/episodes/$DATE/script.json" 2>/dev/null; th
       curl -sf "https://magyicode.github.io/reggeli-brief/episodes/index.json?t=$(date +%s)" | grep -q "\"$DATE\"" && break
       sleep 30
     done
-    python3 - "$STATE/ntfy_topic" "docs/episodes/$DATE/episode.json" <<'PY'
-import json, sys, urllib.request
+    python3 - "$STATE/ntfy_topic" "docs/episodes/$DATE/episode.json" <<'PY' | curl -sf -H "Content-Type: application/json" --data-binary @- https://ntfy.sh >/dev/null
+import json, sys
 topic = open(sys.argv[1]).read().strip()
 ep = json.load(open(sys.argv[2], encoding="utf-8"))
 body = {"topic": topic, "title": "🎧 " + ep.get("title", "Reggeli Brief"),
         "message": ep.get("headline", "Kész a mai adás."), "tags": ["headphones"],
         "click": "https://magyicode.github.io/reggeli-brief/"}
-req = urllib.request.Request("https://ntfy.sh", json.dumps(body).encode(), {"Content-Type": "application/json"})
-urllib.request.urlopen(req, timeout=20)
+print(json.dumps(body, ensure_ascii=False))
 PY
     echo "ntfy sent"
   fi
