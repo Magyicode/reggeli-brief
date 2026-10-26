@@ -1,0 +1,1075 @@
+{
+ "date": "2026-10-26",
+ "title": "Drága pénz, drága energia, drága AI – szuperhét előtt a piacok",
+ "coverage": "Lefedett időszak: 2026. okt. 23. (péntek este) – okt. 26. (hétfő reggel); kvantum és pályázatok: okt. 19–26.",
+ "headline": "Az olaj 6%-ot esett az iráni diplomáciára, de a gáz 2022 óta nem volt ilyen drága; a Meta akár 95 milliárd dollár részvénnyel finanszírozná az AI-t, itthon pedig napokon belül jön a 2027-es költségvetés és az új kata.",
+ "markets": [
+  {
+   "label": "EUR/HUF",
+   "value": "367,4",
+   "change": "+0,25%"
+  },
+  {
+   "label": "Brent",
+   "value": "~110 $",
+   "change": "−6%"
+  },
+  {
+   "label": "TTF gáz",
+   "value": "97,4 €/MWh",
+   "change": "+3,2%"
+  },
+  {
+   "label": "S&P 500 (pén.)",
+   "value": "2. heti esés",
+   "change": "−0,52%"
+  },
+  {
+   "label": "US 10 éves",
+   "value": "~5,00%",
+   "change": "+4,6 bp"
+  },
+  {
+   "label": "Arany",
+   "value": "~4 030 $",
+   "change": "+0,8%"
+  },
+  {
+   "label": "Bitcoin",
+   "value": "~80 000 $",
+   "change": "−"
+  },
+  {
+   "label": "BUX (hétfő)",
+   "value": "MOL vezet",
+   "change": "+0,4%"
+  }
+ ],
+ "sections": [
+  {
+   "id": "piacok",
+   "title": "Piacok",
+   "items": [
+    {
+     "title": "Második negatív hét a Wall Streeten, hétfőn emelkedő határidős árak",
+     "body": "Pénteken az S&P 500 0,52%-ot, a Nasdaq 0,21%-ot, a Dow 1,24%-ot esett, így az S&P és a Nasdaq zsinórban második hetét zárta mínuszban. Csütörtökön a Nasdaq 100 közel 3%-ot esett, a félvezető-index (SOX) októberben eddig 15%-ot vesztett. Az S&P 500 év eleje óta még így is kb. 11%-os pluszban van; hétfő reggel a határidős árak 0,4–0,7%-kal emelkedtek.",
+     "why": "Az AI-befektetésekhez kötött rali megtorpant; a hetet a Big Tech gyorsjelentései és a Fed döntése határozza meg.",
+     "sources": [
+      {
+       "name": "Yahoo Finance (IBTimes)",
+       "url": "https://finance.yahoo.com/markets/stocks/articles/investors-keep-risk-off-mood-200241264.html",
+       "date": "okt. 23."
+      },
+      {
+       "name": "Yahoo Finance (Reuters)",
+       "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-edge-oil-100215774.html",
+       "date": "okt. 26."
+      }
+     ]
+    },
+    {
+     "title": "Olaj: pénteki csúcs után 6%-os esés az iráni diplomáciára",
+     "body": "A Brent pénteken 117,4 dolláron zárt (március óta a legmagasabb; a háború előtt 72 dollár körül volt), hétfőn több mint 6%-kal, kb. 110 dollárra esett. A WTI kb. 2%-kal 101 dollár körülre csökkent. Katari közvetítők vasárnap Teheránba utaztak, Trump megállapodást mérlegel – közben a húszik a hétvégén ismét szaúdi létesítményeket támadtak.",
+     "why": "Az olajár most a legfontosabb inflációs és kamatkockázat: egy megállapodás vagy egy eszkaláció 10% feletti elmozdulást is okozhat.",
+     "sources": [
+      {
+       "name": "Euronews",
+       "url": "https://hu.euronews.com/2026/10/26/olajarak-tobb-mint-6-ot-esnek-haborus-csucs-kozelebol-iran-koruli-diplomacia-elenkul",
+       "date": "okt. 26."
+      },
+      {
+       "name": "investingLive",
+       "url": "https://investinglive.com/news/investinglive-americas-market-news-wrap-war-worries-boost-oil-to-the-highest-since-may/",
+       "date": "okt. 23."
+      }
+     ]
+    },
+    {
+     "title": "Szerdán Fed-döntés: kivárás várható, decemberben jöhet emelés",
+     "body": "A Fed szerdán 19:00-kor (magyar idő) dönt; a kamatsáv várhatóan 3,75–4,00% marad. A szeptemberi lépés 2023 óta az első emelés volt, decemberre a piac 70–80% eséllyel áraz újabb 25 bázispontos emelést. Kevin Warsh elnöktől „héja szünetet” várnak; ez az utolsó döntés a november 3-i félidős választás előtt.",
+     "why": "A sajtótájékoztató hangneme mozgatja a dollárt, a hozamokat – és ezen keresztül a forintot is.",
+     "sources": [
+      {
+       "name": "Yahoo Finance (Reuters)",
+       "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-flood-fed-meeting-pose-100557196.html",
+       "date": "okt. 23."
+      },
+      {
+       "name": "Yahoo Finance (AFP)",
+       "url": "https://finance.yahoo.com/economy/policy/articles/fed-expected-hold-rates-steady-012406225.html",
+       "date": "okt. 25."
+      }
+     ]
+    },
+    {
+     "title": "5% körül az amerikai 10 éves hozam, 4000 dollár körül az arany",
+     "body": "Az amerikai 10 éves hozam pénteken 5,00%-ra emelkedett, hétfő reggel 4,99% körül állt. Az arany pénteken 3999 dollárra esett, hétfőn kb. 4030 dollárra emelkedett; a Reuters szerint az olaj esése enyhítette az inflációs félelmeket.",
+     "why": "Az 5%-os amerikai hozam világszerte drágítja a finanszírozást – vállalatoknak, startupoknak és feltörekvő piacoknak egyaránt.",
+     "sources": [
+      {
+       "name": "investingLive",
+       "url": "https://investinglive.com/news/investinglive-americas-market-news-wrap-war-worries-boost-oil-to-the-highest-since-may/",
+       "date": "okt. 23."
+      },
+      {
+       "name": "Yahoo Finance (Reuters)",
+       "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-edge-oil-100215774.html",
+       "date": "okt. 26."
+      }
+     ]
+    },
+    {
+     "title": "Zuhannak az AI-felhőcégek (neocloudok), a bitcoin 80 ezer dollár alá esett",
+     "body": "A CoreWeave október 6. óta 41%-ot, az Iren 40%-ot, a Nebius 36%-ot esett; hétfőn Musk finanszírozási megjegyzései után újabb 4–5%-ot vesztettek. A bitcoin hétfőn 79 300 dollár alá esett, majd 80 ezer körül állt; csütörtökön és pénteken 772 millió dollár áramlott ki az amerikai spot bitcoin-ETF-ekből.",
+     "why": "A hitelből építkező AI-infrastruktúra-cégeket közvetlenül sújtja a magas hozamkörnyezet.",
+     "sources": [
+      {
+       "name": "Yahoo Finance (Bloomberg)",
+       "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-rout-sends-warning-sign-092443918.html",
+       "date": "okt. 26."
+      },
+      {
+       "name": "Yahoo Finance (Bloomberg)",
+       "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-dips-below-80-000-053556739.html",
+       "date": "okt. 26."
+      }
+     ]
+    },
+    {
+     "title": "Lula meglepetésgyőzelme: történelmi esés a brazil eszközökben",
+     "body": "Lula da Silva a közvélemény-kutatásokkal szemben legyőzte Flávio Bolsonarót. A brazil részvényeket követő EWZ ETF nyitás előtt 25–26%-kal esett – ez az alap 2000-es indulása óta a legnagyobb egynapos esés lenne; a Petrobras kb. 20%-ot, a Nubank kb. 26%-ot esett.",
+     "why": "A feltörekvő piacok politikai kockázata azonnal beárazódik, ami átgyűrűzhet más feltörekvő devizákra, a forintra is.",
+     "sources": [
+      {
+       "name": "Yahoo Finance",
+       "url": "https://finance.yahoo.com/markets/article/brazilian-stocks-plunge-after-lulas-surprising-election-victory-114325508.html",
+       "date": "okt. 26."
+      }
+     ]
+    },
+    {
+     "title": "Európa: heti esés a francia zavargások miatt, hétfőn emelkedés",
+     "body": "A Stoxx 600 heti veszteséggel zárt a francia turbulencia és az olajár miatt. A francia 10 éves hozam 2002 óta először 5% fölé ment, a német felár 160–170 bázispont körül van; a Moody's megtartotta Franciaország Aa3-as besorolását. Hétfőn a Stoxx 600 és az Euro Stoxx 50 több mint 0,6%-kal emelkedett.",
+     "why": "A francia adósság- és politikai válság az egész eurózóna kockázati felárait növeli, ami a régiót is érinti.",
+     "sources": [
+      {
+       "name": "Euronews",
+       "url": "https://hu.euronews.com/2026/10/23/francia-kotvenydramaja-kerul-a-kozeppontba-az-ekb-kamatdontese-elott",
+       "date": "okt. 23."
+      },
+      {
+       "name": "Yahoo Finance (Euronews)",
+       "url": "https://finance.yahoo.com/energy/articles/oil-plunges-more-6-near-102341241.html",
+       "date": "okt. 26."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "magyarorszag",
+   "title": "Magyarország",
+   "items": [
+    {
+     "title": "Új kata és vagyonadó: a kormány feldolgozza az észrevételeket",
+     "body": "A tervezet szerint az új kata bevételi határa 18-ról 22 millió forintra nő, és ismét lehet cégeknek számlázni; a cégeknek számlázott rész egy határ fölött (főállásban 8, mellékállásban 4 millió forint) 15%-os kiegészítő adót fizet. A havi tétel 100 ezer (főállás) vagy 50 ezer forint (mellékállás). Nem lehet katás, aki volt munkáltatójának számláz, vagy bevétele több mint fele egy megrendelőtől jön. A vagyonadó 1 milliárd forint nettó vagyon fölött 1%, 100 milliárd fölött 1,5%; évi kb. 200 milliárd forint bevételt várnak tőle.",
+     "why": "Kezdő vállalkozónak a hét legfontosabb híre: 2027-től újra lehet katásként cégeknek dolgozni, de az 50%-os egy-megrendelős szabály kizárja a rejtett munkaviszonyt. A végleges szöveg még változhat.",
+     "sources": [
+      {
+       "name": "Portfolio (MTI)",
+       "url": "https://www.portfolio.hu/gazdasag/20261026/vagyonado-kata-ertekeli-az-eszreveteleket-a-kormany-872030",
+       "date": "okt. 26."
+      }
+     ]
+    },
+    {
+     "title": "2027-es költségvetés: 4,9%-os hiánycél, benyújtás napokon belül",
+     "body": "A Tisza-kormány 2027-ben a GDP 4,9%-ára csökkentené a hiányt (2026-ra 7,5% körüli várható). A kiigazítás kb. kétharmada kiadáscsökkentés; 2,4%-os növekedéssel, 3%-os inflációval és 77,2%-os adósságrátával számolnak. 2030-ra 2,8%-os hiány a cél. Az árrésstop januárban megszűnik, a kiskereskedelmi különadó és a plázastop marad.",
+     "why": "A hiánypálya hitelessége határozza meg a forint és az állampapírhozamok irányát; az árrésstop kivezetése árazási szabadságot, de átmeneti inflációs kockázatot hoz.",
+     "sources": [
+      {
+       "name": "HVG",
+       "url": "https://hvg.hu/gazdasag/20261025_es-akkor-koltsegvetes-matolcsy-mnb-ado-szabalyok-arres",
+       "date": "okt. 25."
+      },
+      {
+       "name": "Portfolio",
+       "url": "https://www.portfolio.hu/gazdasag/20261026/tisza-kormany-a-koltsegvetest-varjuk-washingtonba-utazik-orban-anita-871950",
+       "date": "okt. 26."
+      }
+     ]
+    },
+    {
+     "title": "2027-es adóváltozások: 9%-os szja a minimálbéreseknek, visszatér a reklámadó",
+     "body": "A minimálbéren dolgozók szja-kulcsa 9% lesz, ami 2–2,5 millió ember nettó bérét növeli; 680 ezer forint havi jövedelem alatt csökken az szja. Visszatér a reklámadó 3,75%-kal, nő a kiskereskedelmi különadó középső kulcsa. Az egyenleg: 264 milliárd forint lakossági adócsökkentés és 929 milliárd forint többletbevétel. A családi pótlék 2027-től duplázódik.",
+     "why": "A hirdetésből élő cégeknél a reklámadó az ügyfélre terhelődhet; az alacsony bérek adócsökkentése a belső fogyasztásnak kedvez.",
+     "sources": [
+      {
+       "name": "Portfolio",
+       "url": "https://www.portfolio.hu/gazdasag/20261025/adovaltozasok-2027-egyetlen-kepen-kinek-csokkent-es-kinek-emel-adot-a-tisza-kormany-871832",
+       "date": "okt. 25."
+      },
+      {
+       "name": "HVG",
+       "url": "https://hvg.hu/gazdasag/20261024_csaladi-potlek-2027-gyermek-csalad",
+       "date": "okt. 24."
+      }
+     ]
+    },
+    {
+     "title": "Forint: 367 fölött az euró, kéthetes mélypont",
+     "body": "Hétfő délelőtt az euró 367,3–367,5 forinton állt; az előző héten a forint több mint 1%-ot gyengült, a zloty 2023 óta nem volt ilyen gyenge. Az ING szerint 368 körül eladók jelenhetnek meg. Az MNB október 20-án 5,50%-on hagyta az alapkamatot; pénteken jön az előzetes harmadik negyedéves GDP.",
+     "why": "Importőröknek és exportőröknek érdemes most átgondolni a devizafedezést – a héten Fed, EKB és GDP-adat is mozgathatja az árfolyamot.",
+     "sources": [
+      {
+       "name": "Portfolio",
+       "url": "https://www.portfolio.hu/deviza/20261026/hamarosan-enyhulhet-a-nyomas-a-forinton-871966",
+       "date": "okt. 26."
+      },
+      {
+       "name": "Infostart",
+       "url": "https://infostart.hu/gazdasag/2026/10/20/itt-az-mnb-kamatdontese",
+       "date": "okt. 20."
+      }
+     ]
+    },
+    {
+     "title": "Fitch: Magyarország 2030-ra teljesítheti az euró feltételeit",
+     "body": "A Fitch szerint a 2027-es költségvetés összhangban van a 2030-as euróövezeti céllal: 2026-ra 7,3%, 2027-re 5,4% hiányt vár, 2030-ra 3% alattit. Az adósság 2027–28-ban 77,7%-on tetőzhet (a BBB-s medián 57,5%). Az Eurasia Group szerint 2032 körül jöhet az euró; a horvát jegybank alelnöke szerint Magyarország „nyitott ajtón kopogtat”.",
+     "why": "Az euró hosszabb távon csökkentheti a devizakockázatot és a kamatfelárat – ez befektetési és árazási döntéseket is befolyásol.",
+     "sources": [
+      {
+       "name": "Euronews (MTI)",
+       "url": "https://hu.euronews.com/2026/10/23/fitch-ratings-magyarorszag-2030-ra-teljesitheti-az-euroovezeti-csatlakozas-felteteleit",
+       "date": "okt. 23."
+      },
+      {
+       "name": "Portfolio",
+       "url": "https://www.portfolio.hu/gazdasag/20261026/a-horvat-jegybank-alelnoke-az-eurobevezetesrol-magyarorszag-mar-nyitott-ajton-kopogtat-de-igy-is-hosszu-lesz-az-ut-869180",
+       "date": "okt. 26."
+      }
+     ]
+    },
+    {
+     "title": "Dízel: negatív nagykereskedelmi árrés, emelés lehet indokolt",
+     "body": "A dízel bolti ára szeptember 17. óta nem változott, közben a nagykereskedelmi árrés negatívvá vált (október 1–15. átlag: −9,6 Ft/liter). A Portfolio szerint kb. 14, a holtankoljak.hu szerint 50 forintos literenkénti emelés lenne indokolt. A magyar gáztárolók 77,5%-on állnak, az uniós átlag fölött.",
+     "why": "Szállítással foglalkozó cégeknél üzemanyag-drágulással kell számolni; ez a 3%-os inflációs pályát is veszélyezteti.",
+     "sources": [
+      {
+       "name": "HVG",
+       "url": "https://hvg.hu/gazdasag/20261026_dizel-tankolas-nagykereskedelem-uzemanyag-import-nemzetkozi-arsokk",
+       "date": "okt. 26."
+      }
+     ]
+    },
+    {
+     "title": "Megtorpant a lakáspiac az MNB szerint",
+     "body": "Az MNB lakásárindexe szerint a harmadik negyedévben országosan 0,5%-kal nőttek az árak; az éves drágulás 12,4%-ról 6,6%-ra lassult. Budapesten negyedéves alapon 1,9%-os volt a növekedés, a vidéki városokban 1,4%-os csökkenés. Az MNB az Otthon Start magas bázisával és a szabályokra várakozó vevőkkel magyarázza.",
+     "why": "Az építőiparban és ingatlanpiacon dolgozó vállalkozásoknál hűl a kereslet.",
+     "sources": [
+      {
+       "name": "Portfolio",
+       "url": "https://www.portfolio.hu/ingatlan/20261026/megszolalt-a-jegybank-latvanyos-a-megtorpanas-a-magyar-lakaspiacon-de-tobb-helyen-enyhen-ujra-nottek-az-arak-871982",
+       "date": "okt. 26."
+      }
+     ]
+    },
+    {
+     "title": "MOL: lejár a szerb NIS amerikai működési engedélye, a BUX-ot a MOL húzza",
+     "body": "A MOL által megvenni tervezett szerb NIS amerikai (OFAC) működési engedélye október 30-án lejár, a cég újabb hosszabbítást kért. A hétvégi szerb választáson Vučić vereséget szenvedett, ami az ügyletre is hathat. Hétfő délben a BUX 0,4%-kal emelkedett, a MOL vezetésével.",
+     "why": "A MOL-ra rövid távon a szerb politikai fordulat és az OFAC-engedély a fő kockázat.",
+     "sources": [
+      {
+       "name": "HVG",
+       "url": "https://hvg.hu/gazdasag/20261024_nis-mol-zrt-tranzakcio-szankcio-usa-ujra-hosszabbitani-kell-a-mol-altal-kiszemelt-szerb-olajceg-mukodesi-engedelyet",
+       "date": "okt. 24."
+      },
+      {
+       "name": "Portfolio",
+       "url": "https://www.portfolio.hu/uzlet/20261026/a-mol-huzza-a-magyar-tozsdet-feltavnal-872038",
+       "date": "okt. 26."
+      }
+     ]
+    },
+    {
+     "title": "Letartóztatták Matolcsy Györgyöt; új vízvisszatartási program",
+     "body": "A volt jegybankelnököt és két társát október 24-én letartóztatták, több mint 500 millió forintos gazdasági csalással gyanúsítják őket. Gajdos László miniszter több száz milliárd forintos vízvisszatartási programot jelentett be.",
+     "why": "Az intézményi elszámoltatás és a nagy állami programok (víz, mezőgazdaság) új beszállítói lehetőségeket és kockázatokat is jelentenek.",
+     "sources": [
+      {
+       "name": "HVG",
+       "url": "https://hvg.hu/gazdasag/20261025_es-akkor-koltsegvetes-matolcsy-mnb-ado-szabalyok-arres",
+       "date": "okt. 25."
+      },
+      {
+       "name": "Portfolio",
+       "url": "https://www.portfolio.hu/gazdasag/20261026/uj-programot-jelentett-be-gajdos-laszlo-a-magyar-gazdasag-egyik-egeto-problemajat-kezelne-a-kormany-871976",
+       "date": "okt. 26."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eu",
+   "title": "Európai Unió",
+   "items": [
+    {
+     "title": "Energiaár-sokk: a gáz 97 euró, 2022 óta a legdrágább",
+     "body": "A holland TTF gázár 97 euró/MWh fölé emelkedett – 2022 eleje óta a legmagasabb. Az EU-s tárolók kb. 75%-on állnak (2009 óta a legalacsonyabb ilyenkor), Németország csak 61%-on. A francia következő havi áramár 2023 januárja óta először lépte át a 200 eurót megawattóránként. Okok: közel-keleti konfliktus, várt hideghullám, szűkös LNG.",
+     "why": "A drágább gáz rontja az inflációs kilátásokat és fékezi a növekedést; az energiaintenzív cégek költségei nőnek.",
+     "sources": [
+      {
+       "name": "HVG",
+       "url": "https://hvg.hu/gazdasag/20261026_gaz-gaztozsde-gazar",
+       "date": "okt. 26."
+      },
+      {
+       "name": "Telex",
+       "url": "https://telex.hu/gazdasag/2026/10/26/foldgaz-gazar-futes-rezsikoltseg-europa-ttf-lng",
+       "date": "okt. 26."
+      }
+     ]
+    },
+    {
+     "title": "Orosz gáz: Magyarországra még kb. egy évig jöhet",
+     "body": "A Telex szerint a jelenlegi szabályok mellett Magyarországra nagyjából még egy évig érkezhet orosz gáz. Az FGSZ vezérigazgatója szerint az ellátás nélküle is biztosított, de drágább lesz; kockázat, hogy a 2036-ig szóló, évi 4,5 milliárd köbméteres szerződés miatt kötbért ítélhetnek meg.",
+     "why": "Hosszabb távon drágulhat az energia a magyar cégeknek – az energiahatékonysági beruházások megtérülése javul.",
+     "sources": [
+      {
+       "name": "Telex",
+       "url": "https://telex.hu/gazdasag/2026/10/24/orosz-gaz-vezetek-foldgaz-szankcio-karterites",
+       "date": "okt. 24."
+      }
+     ]
+    },
+    {
+     "title": "Német fordulat? Javult az Ifo-index",
+     "body": "A német Ifo üzleti klímaindex októberben 89,9-ről 90,2-re emelkedett (várakozás: 90). A várakozási alindex 91,6-ra nőtt, a jelenlegi helyzetet mérő alindex 88,8-ra esett. Az euróövezeti infláció szeptemberben 3,8% volt; az EKB csütörtökön várhatóan nem változtat a kamatokon.",
+     "why": "A magyar exportőröknek jó jel a német várakozások javulása, de a magas energiaár és infláció miatt az EKB-nál inkább szigorítási kockázat van.",
+     "sources": [
+      {
+       "name": "Portfolio",
+       "url": "https://www.portfolio.hu/gazdasag/20261026/felcsillant-a-remeny-europa-legerosebb-gazdasagaban-872004",
+       "date": "okt. 26."
+      }
+     ]
+    },
+    {
+     "title": "Megélhetési tüntetéshullám Franciaországtól Albániáig",
+     "body": "Szombaton Franciaországban több mint 400 ezren vonultak utcára; ezres nagyságrendű őrizetbe vétel és közel 1000 sérült rendvédelmi dolgozó volt. Tüntettek Olaszország nyolc városában, Madridban, Lisszabonban, Barcelonában és Tiranában is – nyugdíjak, lakhatás, korrupció és a fegyverkezés ellen.",
+     "why": "A társadalmi nyomás növeli a költségvetési kockázatot (francia hozamok) és erősítheti a protekcionizmust a kínai importtal szemben.",
+     "sources": [
+      {
+       "name": "Euronews",
+       "url": "https://hu.euronews.com/2026/10/25/tunteteshullam-sopor-vegig-europan-franciaorszagtol-albaniaig",
+       "date": "okt. 25."
+      }
+     ]
+    },
+    {
+     "title": "Szerbia: véget ér a Vučić-korszak, győzött az egyetemista lista",
+     "body": "Az előrejelzések szerint az egyetemista lista kb. 52%-ot, Vučić listája kb. 39%-ot kapott; Vučić elismerte a vereséget. A részvétel közel 68% volt. A valószínű miniszterelnök Ilija Srdanović szívsebész; a VMSZ várhatóan 3 mandátumot szerez. Elnökválasztás december 25-én.",
+     "why": "Az EU-tagjelölt szomszédban kormányváltás jön: átrajzolódhatnak a kínai és orosz kötődésű projektek és a magyar–szerb energia- és infrastruktúra-együttműködés.",
+     "sources": [
+      {
+       "name": "Telex",
+       "url": "https://telex.hu/kulfold/2026/10/25/szerbia-parlamenti-valasztas-eredmeny-vucic-egyetemistak-srdanovic",
+       "date": "okt. 25."
+      },
+      {
+       "name": "Euronews",
+       "url": "https://hu.euronews.com/2026/10/26/politikai-foldrenges-szerbiaban-veget-er-a-vucic-korszak-eloretor-az-egyetemista-lista",
+       "date": "okt. 26."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "usa",
+   "title": "USA",
+   "items": [
+    {
+     "title": "Trump megállapodást mérlegel Iránnal",
+     "body": "Trump a Fox Newsnak azt mondta: a választás „vagy megállapodás, vagy a fenyegetés teljes megszüntetése”. A Kpler adatai szerint a nem iráni öbölbeli olajexport szeptemberre visszaállt a háború előtti szintre, de 40%-a már csővezetéken kerüli meg a Hormuzi-szorost (korábban 17%).",
+     "why": "Egy megállapodás tovább csökkentheti az olajárat és az inflációs nyomást – ez a hét legnagyobb bináris kockázata.",
+     "sources": [
+      {
+       "name": "Euronews",
+       "url": "https://hu.euronews.com/2026/10/26/olajarak-tobb-mint-6-ot-esnek-haborus-csucs-kozelebol-iran-koruli-diplomacia-elenkul",
+       "date": "okt. 26."
+      }
+     ]
+    },
+    {
+     "title": "A hélium kritikus nyersanyag lett az USA-ban",
+     "body": "Az amerikai energiaügyi minisztérium pénteken kritikus anyaggá minősítette a héliumot. A kínálatot a Hormuzi-szoros lezárása, a katari infrastruktúrát ért csapások, valamint az orosz (április) és kínai (július) exportkorlátozás szűkítette.",
+     "why": "A hélium nélkülözhetetlen a chipgyártáshoz és a kvantumszámítógépek hűtéséhez – Európa ellátási gondjai nőhetnek.",
+     "sources": [
+      {
+       "name": "Euronews",
+       "url": "https://hu.euronews.com/2026/10/23/usa-kritikus-nyersanyagnak-minositi-a-heliumot-europa-ellatasi-gondokkal-kuzd",
+       "date": "okt. 23."
+      }
+     ]
+    },
+    {
+     "title": "Választási vámalku: levették az 50%-os vámot egyes kanadai termékekről",
+     "body": "Az amerikai kormány pénteken bejelentette, hogy egyes kanadai mezőgazdasági és erdészeti termékekről október 30-tól leveszi az 50%-os vámot, miközben más termékeket felvesz a listára. A Reuters és a WSJ szerint a lépés egy szoros versenyben álló republikánus szenátort segítene a november 3-i félidős választás előtt.",
+     "why": "A vámszintek politikai alku tárgyai és gyorsan változhatnak – ez állandó bizonytalanság az ellátási láncoknak.",
+     "sources": [
+      {
+       "name": "investingLive",
+       "url": "https://investinglive.com/news/investinglive-americas-market-news-wrap-war-worries-boost-oil-to-the-highest-since-may/",
+       "date": "okt. 23."
+      }
+     ]
+    },
+    {
+     "title": "Orbán Anita kedden Rubióval tárgyal; WSJ: Trump-körök Orbán Viktort ENSZ-főtitkárnak javasolnák",
+     "body": "Orbán Anita külügyminiszter kedden Washingtonban találkozik Marco Rubióval – ez első amerikai útja külügyminiszterként. A Wall Street Journal véleményrovata szerint Trump-adminisztrációs tisztviselők felvetették Orbán Viktor ENSZ-főtitkári jelölését; döntés nincs, a Fehér Ház nem erősítette meg.",
+     "why": "A magyar–amerikai viszony hangneme befolyásolhatja a védelmi, beruházási és energiabiztonsági együttműködést.",
+     "sources": [
+      {
+       "name": "Telex",
+       "url": "https://telex.hu/kulfold/2026/10/26/kedden-washingtonban-targyal-orban-anita-marco-rubioval",
+       "date": "okt. 26."
+      },
+      {
+       "name": "Euronews",
+       "url": "https://hu.euronews.com/2026/10/26/trump-ensz-fotitkart-csinalna-orban-viktorbol-otletet-az-orosz-es-a-kinai-elnok-is-tamogat",
+       "date": "okt. 26."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kina",
+   "title": "Kína",
+   "items": [
+    {
+     "title": "Kipukkadt a kínai AI-buborék: 40%-os esés négy hónap alatt",
+     "body": "A Reuters elemzése szerint a kínai AI- és chipcégeket tömörítő STAR50 index négy hónap alatt kb. 40%-ot esett, ez mintegy 480 milliárd dollár értékvesztés. Az index még így is kb. 100-szoros P/E-n forog (a Nasdaq 100 kb. 30-szoroson).",
+     "why": "Előre jelezheti, mi történhet a túlárazott amerikai AI-részvényekkel, ha megreped a megtérülésbe vetett hit.",
+     "sources": [
+      {
+       "name": "Yahoo Finance (Reuters)",
+       "url": "https://finance.yahoo.com/markets/stocks/articles/analysis-china-ai-bubble-already-120038616.html",
+       "date": "okt. 26."
+      }
+     ]
+    },
+    {
+     "title": "Elkezdődött a KKP ötödik plénuma: fegyelem és hűség",
+     "body": "Hétfőn Pekingben négynapos ülést kezdett a Központi Bizottság; a korrupcióellenes tisztogatások miatt rekord kevés tag van jelen. Határozat várható a szigorúbb pártfegyelemről; a Központi Katonai Bizottság hét tagjából ötöt idén lecseréltek. Gazdaságpolitikai napirend nem ismert.",
+     "why": "Nagy ösztönző csomag ettől nem várható; a záróközlemény jelezheti a 2027-es irányokat.",
+     "sources": [
+      {
+       "name": "Telex",
+       "url": "https://telex.hu/kulfold/2026/10/26/kina-kinai-kommunista-part-gyules-partfegyelem-hszi-csin-ping",
+       "date": "okt. 26."
+      },
+      {
+       "name": "SCMP",
+       "url": "https://www.scmp.com/news/china/politics/article/3372134/chinas-communist-party-opens-fifth-plenum-focus-discipline-and-loyalty-xi",
+       "date": "okt. 26."
+      }
+     ]
+    },
+    {
+     "title": "Bővülő amerikai befektetési korlátozások – Peking leállítást kér",
+     "body": "Az amerikai pénzügyminisztérium péntek este rendelettervezetben bővítené a kínai AI- és biotechcégekbe irányuló amerikai befektetések korlátozását; Peking szombaton a terv leállítását kérte (Reuters-cím alapján).",
+     "why": "Az amerikai–kínai tech-szétválás tovább élesedik; a kínai beszállítókra építő cégeknek ellátásilánc-kockázattal kell számolniuk.",
+     "sources": [
+      {
+       "name": "Yahoo Finance (Reuters)",
+       "url": "https://finance.yahoo.com/markets/stocks/articles/analysis-china-ai-bubble-already-120038616.html",
+       "date": "okt. 26."
+      }
+     ]
+    },
+    {
+     "title": "EU–Kína: újabb védintézkedések jöhetnek",
+     "body": "Az EU kereskedelmi biztosa szerint a blokk védintézkedéseket vethet be a hirtelen megugró import ellen; előrehaladott vizsgálatú ágazatként a műanyagipart említette. Diplomaták szerint a Bizottság nyitott vegyipari és gépipari „vészfékekre” is – az október 9-i hibridautó-kvótamegállapodás után. Peking a kvótákat ellenzi.",
+     "why": "Drágulhatnak a vegyipari és gépipari inputok az európai gyártóknak, és kínai ellenlépések jöhetnek.",
+     "sources": [
+      {
+       "name": "SCMP",
+       "url": "https://www.scmp.com/news/china/diplomacy/article/3371807/who-blinked-first-fragile-eu-china-trade-peace-sparks-new-war-words",
+       "date": "okt. 22."
+      },
+      {
+       "name": "EUobserver",
+       "url": "https://euobserver.com/243011/eu-open-to-curbs-on-imports-of-chinese-chemicals-and-machinery-after-hybrid-car-deal/",
+       "date": "okt."
+      }
+     ]
+    },
+    {
+     "title": "Peking szigorít: tőkekiáramlás, üzleti titkok – és nő a hitelkártya-nemfizetés",
+     "body": "Október 23-án Peking szigorította a kifelé irányuló befektetések szabályait, október 26-án rendelettervezetet tett közzé az üzleti titkok „külföldi entitásokkal” szembeni védelméről. Közben ugrásszerűen nő a hitelkártya-nemfizetés, főleg az idősebb adósoknál (SCMP-címek alapján).",
+     "why": "A Kínában működő külföldi cégek jogi kockázata nő, a kínai külföldi befektetések – köztük a közép-európaiak – lassulhatnak.",
+     "sources": [
+      {
+       "name": "SCMP",
+       "url": "https://www.scmp.com/economy/china-economy/article/3371865/beijing-tightens-rules-outbound-capital-better-shield-chinese-assets",
+       "date": "okt. 23."
+      },
+      {
+       "name": "SCMP",
+       "url": "https://www.scmp.com/economy/policy/article/3372161/china-drafts-rules-protect-trade-secrets-foreign-entities",
+       "date": "okt. 26."
+      },
+      {
+       "name": "SCMP",
+       "url": "https://www.scmp.com/economy/china-economy/article/3371943/credit-card-defaults-surge-across-china-older-borrowers-struggle-repay-debt",
+       "date": "okt. 24."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "vilag",
+   "title": "Világpolitika",
+   "items": [
+    {
+     "title": "Ukrajna: novemberben háromoldalú tárgyalás",
+     "body": "Zelenszkij megerősítette, hogy novemberben Ukrajna, az USA és Oroszország háromoldalú tárgyalást tart; a Kreml szerint Putyin „elvben” beleegyezett a november 10. utáni folytatásba. Közben ukrán dróntámadás érte Voronyezst, Oroszország pedig a föld alá költöztetné adatközpontjait.",
+     "why": "Valódi tűzszüneti esély csökkentené az európai energia- és kockázati prémiumot, és felértékelné az újjáépítésre építő közép-európai cégeket.",
+     "sources": [
+      {
+       "name": "Euronews",
+       "url": "https://hu.euronews.com/2026/10/26/zelenszkij-megerositette-novemberben-haromoldalu-targyalast-tartanak-oroszorszaggal-es-az-",
+       "date": "okt. 26."
+      },
+      {
+       "name": "Telex",
+       "url": "https://telex.hu/kulfold/2026/10/26/oroszorszag-foldalatti-adatkozpont-vedelem-ukrajna-drontamadasok",
+       "date": "okt. 26."
+      }
+     ]
+    },
+    {
+     "title": "Brazília: Lula fordított, Bolsonaro nem ismeri el a vereséget",
+     "body": "Lula a második fordulóban legyőzte Trump szövetségesét, Flávio Bolsonarót – Brazíliában először nyert valaki hátrányból a második fordulóban. Bolsonaro a választás megsemmisítését kéri; az európai vezetők üdvözölték az eredményt.",
+     "why": "Brazília Kína mellett marad (BRICS, nyersanyag- és agrárkereskedelem), az EU–Mercosur viszonyban kiszámíthatóbb partner.",
+     "sources": [
+      {
+       "name": "Telex",
+       "url": "https://telex.hu/kulfold/2026/10/26/brazil-elnokvalasztas-flavio-bolsonaro-luiz-inacio-lula-da-silva",
+       "date": "okt. 26."
+      },
+      {
+       "name": "SCMP",
+       "url": "https://www.scmp.com/news/china/article/3372099/lula-pulls-brazils-first-ever-run-comeback-beat-trump-ally-flavio-bolsonaro",
+       "date": "okt. 26."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "title": "Tech & AI",
+   "items": [
+    {
+     "title": "A Meta akár 95 milliárd dollár részvénnyel finanszírozná az AI-t",
+     "body": "A Meta hétfőn indított kb. 35 milliárd dolláros részvénykibocsátást (22,5 milliárd törzsrészvény és kötelezően átváltható elsőbbségi részvény), a teljes program a sajtó szerint akár 95 milliárd dollár. A harmadik negyedéves árbevétel rekord, 64,6 milliárd dollár volt, de a szabad cash flow több mint tíz éve először negatív (−2,1 milliárd). A 2026-os capex 135–145 milliárd dollár.",
+     "why": "Már a legnyereségesebb óriások sem tudják saját pénzből finanszírozni az AI-infrastruktúrát – a beszállítóknak óriási kereslet, a befektetők türelme viszont véges.",
+     "sources": [
+      {
+       "name": "SEC 424B5",
+       "url": "https://www.sec.gov/Archives/edgar/data/0001326801/000119312526431043/d133631d424b5.htm",
+       "date": "okt. 26."
+      },
+      {
+       "name": "Business Recorder (Reuters)",
+       "url": "https://www.brecorder.com/news/40445992/meta-to-raise-up-to-95-billion-in-equity-to-fund-costly-ai-expansion",
+       "date": "okt. 26."
+      },
+      {
+       "name": "Financial Times (fizetős)",
+       "url": "https://www.ft.com/content/94e5a0ae-874d-447a-bbfc-cd465a1a7555",
+       "date": "okt. 26."
+      }
+     ]
+    },
+    {
+     "title": "Big Tech szuperhét: Microsoft, Alphabet, Amazon",
+     "body": "A Microsoft és az Alphabet szerdán, az Amazon csütörtökön jelent zárás után. Konszenzus: Microsoft 90,75 milliárd dollár árbevétel (Azure kb. +45%), Alphabet 127,8 milliárd, Amazon 202,2 milliárd. A Bloomberg szerint a fő kockázat, hogy az AI-költésektől való félelem elnyomja a jó számokat. Az Apple november 2-án jelent.",
+     "why": "A felhőüzletágak növekedése jelzi, mennyit költenek a cégek AI-ra – ettől függ a SaaS- és AI-startupok értékeltsége.",
+     "sources": [
+      {
+       "name": "Yahoo Finance",
+       "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-alphanet-amazon-earnings-meet-113701296.html",
+       "date": "okt. 26."
+      },
+      {
+       "name": "Bloomberg (fizetős)",
+       "url": "https://www.bloomberg.com/news/articles/2026-10-25/ai-spending-fears-threaten-to-swamp-big-tech-s-strong-earnings",
+       "date": "okt. 25."
+      }
+     ]
+    },
+    {
+     "title": "SpaceX: 40 milliárd dolláros GPU-hitel, Musk szerint vége a neocloudok könnyű pénzének",
+     "body": "Musk szerint a SpaceX 40 milliárd dollár, főként visszahívható adósságot zárt le GPU-k vásárlására (a chipek 2027 első felében érkeznek). Úgy látja, a hitelpiacok szinte elzárták a pénzt azok elől, akiknek nincs AI-tól független bevételük, és a több mint 200 neocloudból csak néhány éli túl. A Bloomberg szerint az árazás még vita tárgya.",
+     "why": "Aki GPU-bérlésre vagy kis felhőszolgáltatóra épít, számoljon a beszállító csődjével vagy felvásárlásával.",
+     "sources": [
+      {
+       "name": "CoinDesk",
+       "url": "https://www.coindesk.com/markets/2026/10/26/elon-musk-confirms-usd40-billion-spacex-debt-deal-for-ai-chips-warns-of-neocloud-shakeout",
+       "date": "okt. 26."
+      }
+     ]
+    },
+    {
+     "title": "Apollo: az AI eddig „nulla pénzügyi hasznot” hozott a legtöbb cégnek",
+     "body": "Torsten Slok, az Apollo vezető közgazdásza az S&P 500-at a hét techóriás nélkül vizsgálta: a profitmarzs és az egy dolgozóra jutó árbevétel lényegében nem változott, termelékenységi hatás nem látszik. „Az AI lehet remek számológép, de az üzletben az intelligencia főleg ítélőképesség.”",
+     "why": "A vevők mérhető megtérülést követelnek – az nyer, aki konkrét költségcsökkentést vagy bevételnövekedést tud igazolni.",
+     "sources": [
+      {
+       "name": "TechCrunch",
+       "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+       "date": "okt. 25."
+      }
+     ]
+    },
+    {
+     "title": "Presley-per az Anthropic ellen; közben 965 milliárdos értékelés és IPO-várakozás",
+     "body": "Az Elvis Presley-katalógus jogtulajdonosai szerint az Anthropic 274 dalukat licenc nélkül használta a Claude tanításához; a kártérítési igény 41–50 millió dollár. Az Anthropic vitatja a vádakat. A TechCrunch szerint a cég legutóbbi magánértékelése 965 milliárd dollár volt, a tőzsdei bevezetés akár 2 billiós értékeléssel jöhet.",
+     "why": "A tanítóadatok jogi kockázata megmarad – a licencelt, legális adatforrásoknak piaca van.",
+     "sources": [
+      {
+       "name": "Yahoo News (LA Times)",
+       "url": "https://www.yahoo.com/news/us/articles/elvis-presley-rights-holder-sues-194208952.html",
+       "date": "okt. 25."
+      },
+      {
+       "name": "TechCrunch",
+       "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
+       "date": "okt. 23."
+      }
+     ]
+    },
+    {
+     "title": "Rekord: a kaliforniai startupok 385 milliárd dollárt gyűjtöttek idén",
+     "body": "A Crunchbase szerint 2026-ban a kaliforniai startupok kapták az amerikai kockázati tőke több mint 75%-át – a kb. 385 milliárd dollár több mint kétszerese a tavalyi teljes évnek, és több mint felét az OpenAI és az Anthropic vitte el. A seed- és korai szakasz kb. 62 milliárd dollár.",
+     "why": "A tőke néhány AI-óriásnál és egy régióban koncentrálódik – egy európai, nem AI-központú startupnak más forrás (bootstrapping, uniós támogatás) kellhet.",
+     "sources": [
+      {
+       "name": "Crunchbase News",
+       "url": "https://news.crunchbase.com/venture/california-startups-most-us-funding-2026-openai-anthropic/",
+       "date": "okt. 26."
+      }
+     ]
+    },
+    {
+     "title": "Daytona: egymilliárd dolláros értékelés AI-ügynököknek szánt „saját számítógéppel”",
+     "body": "A New York-i Daytona 60 millió dolláros B-kört zárt 1 milliárd dolláros értékeléssel (FirstMark Growth vezetésével, Qualcomm Ventures, Samsung Next, Okta Ventures részvételével). A termék: elkülönített felhőkörnyezet (Linux, Windows, macOS, GPU) hosszan futó AI-ügynököknek.",
+     "why": "Az AI-ügynökök kiszolgáló infrastruktúrája önálló piaccá válik – a „csákány és lapát” üzletekben van tér kisebb szereplőknek is.",
+     "sources": [
+      {
+       "name": "TechCrunch",
+       "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
+       "date": "okt. 23."
+      }
+     ]
+    },
+    {
+     "title": "Instacart eladná magát; tárgyalt a DoorDash-sel és az Uberrel",
+     "body": "A The Information szerint az Instacart befektetési bankot bízott meg, és felvásárlásról tárgyalt a DoorDash-sel; a Bloomberg szerint az Uberrel is egyeztetett, de az Uber kiszállt. A 13 milliárd dollár feletti piaci értékű cég árfolyama pénteken több mint 9%-ot emelkedett.",
+     "why": "Folytatódik a platformkonszolidáció – a kevesebb nagy szereplő gyengíti a beszállító kiskereskedők alkupozícióját.",
+     "sources": [
+      {
+       "name": "TechCrunch",
+       "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+       "date": "okt. 24."
+      }
+     ]
+    },
+    {
+     "title": "Stratechery: „Az internet vége” – a jövő a kicsi és zárt közösségeké",
+     "body": "Ben Thompson szerint a nyílt, hirdetésből élő internet modellje kifulladt: a figyelem a szűk keresztmetszet, amit algoritmikus platformok uralnak, az AI pedig forgalom-visszaküldés nélkül dolgozza fel a tartalmat. Az életképes modellek: niche-előfizetések, privát csoportok, kis csapatoknak írt szoftverek.",
+     "why": "Kezdő vállalkozónak: a kis, fizetős, bizalmon alapuló közösség fenntarthatóbb lehet, mint a tömeges, ingyenes modell.",
+     "sources": [
+      {
+       "name": "Stratechery",
+       "url": "https://stratechery.com/2026/the-end-of-the-internet/",
+       "date": "okt. 26."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kvantum",
+   "title": "Kvantum & deep tech",
+   "items": [
+    {
+     "title": "New York 360 millió dollárt tesz a kvantumiparba",
+     "body": "New York állam 360 millió dollárt különít el: 300 millió a Stony Brook-i egyetem kvantumközpontjára (2029-re hibrid kvantum-adatközponttal), 60 millió legfeljebb négy regionális központra. Mögötte szövetségi CHIPS-forrás: 1 milliárd dollár az Anderonnak (az IBM újabb 1 milliárddal egészíti ki egy nyílt, 300 mm-es szupravezető kvantumchip-gyárra Albanyben) és 375 millió a GlobalFoundriesnak.",
+     "why": "Klasszikus regionális iparpolitika: a gyártókapacitást közvetlenül összekötik a pénzügyi, védelmi és egészségügyi kereslettel.",
+     "sources": [
+      {
+       "name": "Quantum Computing Report",
+       "url": "https://quantumcomputingreport.com/new-york-deploys-360-million-for-stony-brook-and-regional-hubs-supported-by-1-37b-in-federal-foundry-commitments/",
+       "date": "okt. 24."
+      }
+     ]
+    },
+    {
+     "title": "Fúziós chipek állami tulajdonrészért: Helion 175, CFS 85 millió dollár",
+     "body": "A Helion fúziós startup a CHIPS-törvény alapján 175 millió dollárt kap félvezetők és teljesítményelektronika fejlesztésére, cserébe az állam szavazati jog nélküli részesedést szerez; első erőműve 2028-tól a Microsoftnak szállítana áramot. A Commonwealth Fusion Systems 85 millió dollárt kap hasonló feltételekkel, szilícium-karbid elektronikára és sugárzástűrő vezérlésre.",
+     "why": "Új trend: az amerikai állam tulajdonosként vállalja át a deep tech kockázatát – a chip, az energia és a kvantum egy ellátási lánccá válik.",
+     "sources": [
+      {
+       "name": "TechCrunch",
+       "url": "https://techcrunch.com/2026/10/22/fusion-startup-helion-is-developing-new-semiconductors-that-could-double-output-of-its-power-plants/",
+       "date": "okt. 22."
+      },
+      {
+       "name": "TechCrunch",
+       "url": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/",
+       "date": "okt. 23."
+      }
+     ]
+    },
+    {
+     "title": "Evercore: a kvantumrészvények árazása a 2030-as bevételi szorzókon múlik",
+     "body": "Az Evercore elemzője szerint a tőzsdei kvantumcégeket 2030-as vagy 2035-ös várható bevételük szorzóival, kb. 25%-os diszkontrátával árazzák. Eddig hét kvantumcég ment tőzsdére, többnyire SPAC-on át, főként kisbefektetői és fedezeti alapos tulajdonosi körrel – innen a nagy volatilitás. Konszolidációt vár.",
+     "why": "A kvantumrészvények ára szinte teljesen 5–10 évvel későbbi bevételekre tett fogadás; az interjút készítő Yuval Boger maga is kvantumcég (QuEra) vezetője.",
+     "sources": [
+      {
+       "name": "The Quantum Insider",
+       "url": "https://thequantuminsider.com/2026/10/24/mehmet-sanliol-evercore-why-quantum-valuations-hinge-on-2030-revenue-multiples-and-consolidation/",
+       "date": "okt. 24."
+      }
+     ]
+    },
+    {
+     "title": "A mobilappok 97%-a nem védett a kvantumszámítógépek ellen",
+     "body": "A NowSecure több mint 136 ezer mobilalkalmazásból 97%-nál nem talált poszt-kvantum kriptográfiát (PQC). Ugyanezen a héten a Cloudflare bemutatta poszt-kvantum kulcskezelőjét (hibrid ML-KEM-768), az Egyesült Királyság és Szingapúr pedig összehangolja a pénzügyi szektor PQC-átállását.",
+     "why": "Ez a kvantumtéma ma is pénzt hozó vetülete: biztonsági átállás, megfelelés, tanácsadás – működő kvantumszámítógép nélkül is.",
+     "sources": [
+      {
+       "name": "Quantum Computing Report",
+       "url": "https://quantumcomputingreport.com/nowsecure-benchmark-finds-97-of-mobile-applications-lack-post-quantum-cryptography-ahead-of-mandated-timelines/",
+       "date": "okt. 24."
+      },
+      {
+       "name": "Quantum Computing Report",
+       "url": "https://quantumcomputingreport.com/cloudflare-launches-post-quantum-geokey-manager-with-hybrid-ml-kem-768-encryption-for-regional-data-sovereignty/",
+       "date": "okt. 23."
+      }
+     ]
+    },
+    {
+     "title": "Telefónica és IQM: kvantumszámítógép Madridban",
+     "body": "A finn IQM 5 qubites, szupravezető Spark gépe 2026 végéig a Madridi Műszaki Egyetemre kerül – a Telefónica rendszerintegrátorként és kvantumbiztonsági szolgáltatóként lép be. Az IQM Lengyelországba (Poznań) is szállított már.",
+     "why": "Az európai modell: telekomcég + egyetem + európai hardvergyártó – a régiós piac felé is releváns.",
+     "sources": [
+      {
+       "name": "Quantum Computing Report",
+       "url": "https://quantumcomputingreport.com/telefonica-and-iqm-to-deploy-community-of-madrids-first-on-premises-quantum-computer-at-universidad-politecnica-de-madrid/",
+       "date": "okt. 23."
+      },
+      {
+       "name": "The Quantum Insider",
+       "url": "https://thequantuminsider.com/2026/10/23/madrid-first-quantum-computer-telefonica-iqm/",
+       "date": "okt. 23."
+      }
+     ]
+    },
+    {
+     "title": "Google: 150 ezer dolláros Kaggle-verseny AI-ügynököknek kvantumáramkörök tömörítésére",
+     "body": "A Google Quantum AI 150 000 dolláros díjalapú versenyt indított 2026. október 22. és 2027. január 20. között: MI-ügynököknek kell tömöríteniük a hibatűrő kvantumszámítógépekhez szükséges áramköröket.",
+     "why": "Ha az algoritmusok egyre kevesebb qubitet igényelnek, a hasznos kvantumszámítás közelebb kerül – és a verseny nyitott, bárki indulhat.",
+     "sources": [
+      {
+       "name": "Quantum Computing Report",
+       "url": "https://quantumcomputingreport.com/google-quantum-ai-launches-150k-kaggle-competition-to-compress-fault-tolerant-quantum-circuits-using-ai-agents/",
+       "date": "okt. 22."
+      },
+      {
+       "name": "The Quantum Insider",
+       "url": "https://thequantuminsider.com/2026/10/23/google-launches-150000-ai-competition-to-reduce-quantum-computing-demands/",
+       "date": "okt. 23."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "palyazatok",
+   "title": "Pályázatok & finanszírozás",
+   "items": [
+    {
+     "title": "EIC Pathfinder Challenges: határidő szerdán, október 28-án",
+     "body": "Kutatócsoportoknak és deep-tech cégeknek, egyedül vagy konzorciumban: projektenként legfeljebb 4 millió euró. A 2026-os Challenges-keret a hivatalos EIC-oldal szerint 96 millió euró. Témák többek között: anyagok miniatürizált energiagyűjtéshez, biotechnológia az egészséges öregedésért, megbízható kognitív MI.",
+     "why": "Az év utolsó Pathfinder-lehetősége – akinek majdnem kész az anyaga, annak két napja maradt.",
+     "sources": [
+      {
+       "name": "European Innovation Council",
+       "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-pathfinder_en",
+       "date": "lekérve okt. 26."
+      },
+      {
+       "name": "USI (témák)",
+       "url": "https://www.usi.ch/en/feeds/33535",
+       "date": ""
+      }
+     ]
+    },
+    {
+     "title": "EIC Accelerator: november 4. az idei utolsó határidő",
+     "body": "Startupoknak és kkv-knak TRL 6–8 szintű innovációra: 2,5 millió euró alatti vissza nem térítendő támogatás 24 hónapra, mellé 1–10 millió eurós tőkebefektetés. A 2026-os keret 414 millió (Open) és 220 millió euró (Challenges). Teljes pályázat november 4., 17:00 (brüsszeli idő); a rövid pályázat (űrlap, 10 diás pitch, 3 perces videó) folyamatosan beadható. 2027-es infonapok: november 19–20.",
+     "why": "A legnagyobb uniós startupforrás; a rövid pályázat ingyenes visszajelzést ad és a 2027-es körökre is felkészít.",
+     "sources": [
+      {
+       "name": "European Innovation Council",
+       "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en",
+       "date": "lekérve okt. 26."
+      }
+     ]
+    },
+    {
+     "title": "IPARJOG: 100%-os támogatás szabadalomra és védjegyre – értékelési határnap október 30.",
+     "body": "Vállalkozások, magánszemélyek, egyetemek igényelhetik hazai és nemzetközi iparjogvédelmi bejelentésekre (szabadalom, PCT, használati minta, védjegy, formatervezési minta). 100%-os, tételes elszámolás nélküli támogatás, kérelmenként jellemzően 100 ezer és 7,5 millió forint között; a 2026-os keret 500 millió forint. Következő értékelési határnap október 30., végső határidő december 18., 12:00. A 12 hónapon belül megkezdett tevékenység is elszámolható.",
+     "why": "Kezdő vállalkozó szinte ingyen levédetheti a márkáját vagy találmányát – akár már befizetett díjakra is.",
+     "sources": [
+      {
+       "name": "NKFIH",
+       "url": "https://nkfih.gov.hu/palyazoknak/nkfi-alap/szellemi-alkotasok-szellemi-tulajdon-vedelme-2025-111-iparjog/palyazati-csomag/palyazati-felhivas",
+       "date": "mód. aug. 27."
+      }
+     ]
+    },
+    {
+     "title": "MFB: kamatmentes kkv-hitelek, bővülő bankhálózat",
+     "body": "Az MFB Pont-hálózat (431 egység, OTP, MBH, Gránit) újabb bankokkal bővülhet. A KKV Technológia Plusz 5–150 millió forint (startupoknak legfeljebb 25 millió) 0%-os hitelt ad technológiára, szoftverre, napelemre, hőszivattyúra, elektromos autóra; a Nemzeti Bajnokok program 150 millió–1 milliárd forintos beruházásokhoz akár 45% vissza nem térítendő részt ad. 2027 első negyedévétől kamattámogatás nélküli konstrukciók jönnek.",
+     "why": "Most még kamatmentesen lehet beruházni – később drágább lesz.",
+     "sources": [
+      {
+       "name": "Portfolio",
+       "url": "https://www.portfolio.hu/bank/20261026/atalakitjak-az-mfb-pontok-halozatat-ujabb-bankoknal-lesznek-elerhetok-az-unios-hitelek-872036",
+       "date": "okt. 26."
+      }
+     ]
+    },
+    {
+     "title": "Lezárult a feltételességi eljárás: 4,2 milliárd euró és a Horizont Európa újra nyitva",
+     "body": "Az EU október 13-án lezárta a Magyarország elleni feltételességi eljárást; Magyarország újra hozzáférhet 4,2 milliárd euró kohéziós forráshoz, a modellváltott (KEKVA) egyetemek ismét lehetnek kedvezményezettek, sőt konzorciumvezetők a Horizont Európában és az Erasmus+-ban. A Kormányzati Önerő Alap határideje október 30., 12:00 (8 milliárd forint).",
+     "why": "Egyetemi spin-offoknak és egyetemekkel együttműködő cégeknek újra megnyílnak a nagy uniós konzorciumok; a feloldott kohéziós pénzek új kkv-felhívásokat hozhatnak.",
+     "sources": [
+      {
+       "name": "NKFIH",
+       "url": "https://nkfih.gov.hu/hivatalrol/hivatal-hirei/megszunt-korlatozas",
+       "date": "okt. 14."
+      },
+      {
+       "name": "NKFIH (KÖA)",
+       "url": "https://nkfih.gov.hu/palyazoknak/nkfi-alap/kormanyzati-onero-alap-2026-121-koa/palyazati-felhivas",
+       "date": "márc. 17."
+      }
+     ]
+    },
+    {
+     "title": "Digital Europe: 20 millió euró MI-alapú kiberbiztonságra kkv-knak (AI4SME)",
+     "body": "Az ECCC 96 millió eurós, hét témás csomagjában az AI4SME téma 20 millió eurót ad biztonságos, kkv-k által könnyen bevezethető MI-alapú kibervédelmi megoldásokra. Határidő: 2027. január 14., 17:00; másodlagos források szerint a támogatási intenzitás kkv-knak 75%.",
+     "why": "Az MI és a kiberbiztonság metszetén dolgozó magyar startupoknak a legközelebbi nagy uniós lehetőség – a konzorciumot most kell építeni.",
+     "sources": [
+      {
+       "name": "ECCC",
+       "url": "https://cybersecurity-centre.europa.eu/news/new-eccc-call-proposals-under-digital-europe-programme-open-applications-2026-09-01_en",
+       "date": "szept. 1."
+      },
+      {
+       "name": "FFG",
+       "url": "https://www.ffg.at/europa/dep/calls/SO3_Call11_2026-2027",
+       "date": ""
+      }
+     ]
+    },
+    {
+     "title": "Ingyenes chipes képzések kkv-knak novembertől (HCHiP)",
+     "body": "A Magyar Chip Kompetenciaközpont 1–2 napos elméleti és laborgyakorlatos képzéseket indít félvezető-, elektronikai és mikrotechnológiai témákban, magyar nyelven; kkv-k munkatársainak ingyenes. Jelentkezés a hchip.hu oldalon.",
+     "why": "Ingyenes tudás és kapcsolatépítés egy olyan területen, amelyet a chipiparhoz kötődő uniós felhívások kiemelten kezelnek.",
+     "sources": [
+      {
+       "name": "NKFIH",
+       "url": "https://nkfih.gov.hu/hivatalrol/hazai-nemzetkozi-kfi-hirek/novembertol-indulnak-a-hchip-vallalati-kepzesei",
+       "date": "okt. 21."
+      }
+     ]
+    },
+    {
+     "title": "Módosult az EUREKA-felhívás; Horizont Európa infonap november 5-én",
+     "body": "A nemzetközi ipari K+F-együttműködést támogató NKFIH EUREKA-felhívás október 20-án módosult (támogató, pontozás, az utolsó 2026-os beadási határidő) – az új dátumot a felhívásban kell ellenőrizni. Az NKFIH november 5-én Horizont Európa infonapot tart Budapesten (regisztráció október 26-án 16:00-ig).",
+     "why": "Külföldi partnerrel közös K+F-et tervező kkv-k ezen keresztül kaphatnak hazai finanszírozást.",
+     "sources": [
+      {
+       "name": "NKFIH",
+       "url": "https://nkfih.gov.hu/palyazoknak/palyazati-hirek/nkfi-alap/modosult-2025-122-eureka-2026-10-20",
+       "date": "okt. 20."
+      },
+      {
+       "name": "NKFIH",
+       "url": "https://nkfih.gov.hu/hivatalrol/hivatal-rendezvenyei/6-kutatasmenedzsment-szakmai-nap",
+       "date": ""
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "connections": [
+  {
+   "title": "Olaj → infláció → kamat → forint",
+   "body": "Az iráni konfliktus felhajtotta olajár tartja magasan az amerikai PCE-inflációt, ez indokolja a Fed decemberi emelési szándékát, és ez tartja 5% körül a 10 éves hozamot. A drága dollár és a magas hozam a feltörekvő devizákat, köztük a forintot is nyomja. Ha a hétvégi diplomácia valódi enyhüléshez vezet, az egész lánc megfordulhat."
+  },
+  {
+   "title": "Olaj és gáz ellentétes irányban",
+   "body": "Az olaj esik a diplomáciára, a gáz viszont emelkedik az alacsony európai tárolói szintek és a szűkös LNG miatt. Európának – és Magyarországnak, ahol az orosz gáz kifutóban van – a gáz a nagyobb kockázat, ami az EKB-t is szigorúbb irányba tolja."
+  },
+  {
+   "title": "Drága pénz és AI-költés: a finanszírozási szakadék",
+   "body": "A magas hozamok drágítják az AI-infrastruktúra hitelfinanszírozását. Ezért zuhannak a neocloudok, ezért bocsát ki részvényt a Meta, és ezért csak a stabil, AI-tól független bevételű szereplők (SpaceX, Big Tech) jutnak olcsó pénzhez. A kínai STAR50 40%-os esése és az Apollo „nulla haszon” elemzése jelzi: a megtérülési kérdés a piac középpontjába került."
+  },
+  {
+   "title": "Az állam mint tőkés: USA, Kína, EU",
+   "body": "Az USA tulajdonrészt szerez fúziós és chipcégekben, New York kvantumgyárat finanszíroz, Kína tőkekiviteli és titokvédelmi szabályokkal zár, az EU kvótákkal és védintézkedésekkel védekezik. Az ipar- és kereskedelempolitika mindhárom pólusban egyre inkább a piac helyett dönt – a hélium kritikus nyersanyaggá minősítése ennek legújabb példája."
+  },
+  {
+   "title": "Politikai fordulatok a régióban",
+   "body": "Magyarországon kormányváltás után költségvetés, kata és vagyonadó; Szerbiában véget ér a Vučić-korszak (MOL–NIS ügylet), Washingtonban Orbán Anita–Rubio-találkozó. A politikai kockázat a szokásosnál erősebben mozgatja az árfolyamokat – lásd a brazil −25%-ot."
+  }
+ ],
+ "opportunities": [
+  {
+   "title": "Kamatmentes beruházási hitel 2027 előtt",
+   "body": "Az MFB KKV Technológia Plusz programja 5–150 millió forint (startupoknak legfeljebb 25 millió) 0%-os, költségmentes hitelt ad technológiára, szoftverre, napelemre, hőszivattyúra, elektromos autóra. 2027 első negyedévétől kamattámogatás nélküli konstrukciók jönnek, és az MFB Pont-hálózat új bankokkal bővül.",
+   "risk": "A keret elfogyhat, a feltételek változhatnak; a hitelt vissza kell fizetni.",
+   "source": "https://www.portfolio.hu/bank/20261026/atalakitjak-az-mfb-pontok-halozatat-ujabb-bankoknal-lesznek-elerhetok-az-unios-hitelek-872036"
+  },
+  {
+   "title": "Energiahatékonyság mint üzlet",
+   "body": "97 eurós gáz, negatív dízelárrés, kifutó orosz gáz: gyorsabban megtérül a napelem, a hőszivattyú, az elektromos flotta és az energia-menedzsment szoftver. Szolgáltatóként is: kkv-energiaauditok, tárolós megoldások.",
+   "risk": "Egy iráni megállapodás vagy enyhe tél gyorsan levitheti az energiaárakat."
+  },
+  {
+   "title": "Poszt-kvantum kriptográfia (PQC) tanácsadás",
+   "body": "A mobilappok 97%-a nem PQC-kész, a pénzügyi szabályozók határidőket szabnak. Felmérés, migráció, megfelelés – kkv-méretű szolgáltatási rés, kvantumszámítógép nélkül.",
+   "risk": "A nagy platformok (Cloudflare, felhőcégek) beépítik a megoldást, ami szűkíti a résszolgáltatók terét; a szabványok változhatnak."
+  },
+  {
+   "title": "AI-ügynök infrastruktúra és ROI-bizonyító vertikális AI",
+   "body": "A Daytona értékelése mutatja, hogy az ügynökök biztonságos futtatása (sandbox, jogosultság, megfigyelhetőség) önálló piac. Az Apollo-elemzés szerint a cégek mérhető megtérülést keresnek: egy szűk folyamatra (számlázás, ügyfélszolgálat) szabott, eredményalapú díjazású termék nyerő lehet.",
+   "risk": "A nagy felhőszolgáltatók saját megoldást építhetnek; a modellárak és -képességek gyorsan változnak."
+  },
+  {
+   "title": "Befektetői nézőpont: diverzifikáció a volatilis héten",
+   "body": "Fed, EKB, BoJ, PCE, GDP és a Big Tech jelentései egy héten: nagy kilengések várhatók. Az egyedi AI- és kvantumrészvényekben extrém a kockázat (−40% egy hónap alatt); a stabil cash flow-jú „csákány és lapát” szereplők (memóriagyártók, nagy felhőcégek) defenzívebbek. Hosszabb távon a forint és a forintkötvények profitálhatnak egy hiteles költségvetésből.",
+   "risk": "Nem befektetési tanács; a hét eseményei mindkét irányba nagy elmozdulást okozhatnak."
+  }
+ ],
+ "calendar": [
+  {
+   "when": "Kedd",
+   "what": "Orbán Anita–Rubio találkozó Washingtonban; UPS, Coca-Cola gyorsjelentés; izraeli választás"
+  },
+  {
+   "when": "Szerda 19:00",
+   "what": "Fed kamatdöntés és Warsh sajtótájékoztató; Microsoft, Alphabet gyorsjelentés"
+  },
+  {
+   "when": "Csütörtök",
+   "what": "EKB kamatdöntés; amerikai GDP (Q3) és PCE-infláció; Amazon, Intel gyorsjelentés; KKP-plénum zárása"
+  },
+  {
+   "when": "Péntek",
+   "what": "Magyar előzetes GDP (Q3); Bank of Japan döntés; Exxon, Chevron; lejár a NIS OFAC-engedélye"
+  },
+  {
+   "when": "Napokon belül",
+   "what": "A 2027-es magyar költségvetés benyújtása"
+  },
+  {
+   "when": "November 3.",
+   "what": "Amerikai félidős választás"
+  }
+ ],
+ "audio": "audio.mp3",
+ "duration": 887.6,
+ "chapters": [
+  {
+   "t": 0.0,
+   "title": "Bevezető",
+   "section": "intro"
+  },
+  {
+   "t": 42.0,
+   "title": "Piacok",
+   "section": "piacok"
+  },
+  {
+   "t": 138.6,
+   "title": "Magyarország",
+   "section": "magyarorszag"
+  },
+  {
+   "t": 258.0,
+   "title": "Európai Unió",
+   "section": "eu"
+  },
+  {
+   "t": 328.8,
+   "title": "USA",
+   "section": "usa"
+  },
+  {
+   "t": 384.9,
+   "title": "Kína",
+   "section": "kina"
+  },
+  {
+   "t": 450.6,
+   "title": "Világpolitika",
+   "section": "vilag"
+  },
+  {
+   "t": 483.6,
+   "title": "Tech és AI",
+   "section": "tech"
+  },
+  {
+   "t": 591.8,
+   "title": "Kvantum és deep tech",
+   "section": "kvantum"
+  },
+  {
+   "t": 662.5,
+   "title": "Pályázatok",
+   "section": "palyazatok"
+  },
+  {
+   "t": 747.7,
+   "title": "Összefüggések",
+   "section": "osszefugges"
+  },
+  {
+   "t": 802.3,
+   "title": "Lehetőségek",
+   "section": "lehetoseg"
+  },
+  {
+   "t": 856.4,
+   "title": "Zárás",
+   "section": "zaras"
+  }
+ ],
+ "envelope": "046889999953678899999999536788999999999995788999995311000468899999995367889999999995788999999995311000468899999999999999999953678899999999999999999999999578899999999999999999999999999999999999999995311000468899995311000046889999999999999999999999957889999957889999999999999999999999999953110000468899999578899999999999999999999578899999999999953678899999999999999999953110000468899999999999999999999999999999999531100000046889999999999531100046889999536788999999999995311000468899999999999999999999999995311000468899999999999999999999999536788999999999953110000468899999999999999999999999999999957889999999999999999953110000468899999999999999999999999995788999999999953110000046889999531100000046889999999999999999999999999999578899999999999999531100046889999999999999995788999999999999999953110000468899536788999999999999999999995367889999999999995367889999999999999995311000468899999578899999999999999999999999999999995788999999999995311000046889999999999999999999995788999999999999999999999531100000046889999999999999999999999995311000468899953110004688999999999999999999999995788999999999999999953110004688999999999999999999999999999953110000468899999995788999999999999999999999999999953678899999999999999999999999999999999953110000468899999999999999999999536788999999999999999999999999999999999999999999999999999999999995311000046889999957889999999999999999999999999999999953110000046889999995311000468899999999999999999999999999999999999999999999999999999953110004688999953678899999999999999999999999531100004688999999999999999999999995311000046889999999999999999999999999999999999999957889999999999999999531100004688999999999999999999957889999999999999999953678899999999999999999995311000468899999999999999999999531100004688999999957889999995788999999999999999995367889999999999999999999999999953110004688999999999999999999999999999999531100004688999999999999953110000046889999999999953110000468899999999999999999999999999999999999999999999999999999957889999999999999999531100004688999999999999999999999953110000468899999999999999957889999999999999999999999999999995788999999999995311000046889999999999999999999953678899999999999999999999999999999999999999531100000046889999999999999531100046889999999999999999999999999999999999578899999999953110000468899999999999999999999995311000046889999999999999999999999999999999999999578899999999957889999999999999999999999999999999995311000046889999999536788999999999999999999999536788999999999999995367889999999999999999999578899999999999999999999999999999999995311000046889999999999999999999995367889999999999999999999999531100000046889999995311000468899999999999999999953678899999999999999999999999999995311000046889999999999999999999999999999999953110000468899999999999999999999995367889999999999999999999999578899999999999999953110000468899999999999999999999999999953678899999999999999999999999999531100046889999999957889999995788999999578899999999999999953110000046889999999999999999999999999999999531100046889999999999999999999999999999999578899999999999999999999999999999999999999995788999578899999999999999531100004688999999999999999999999999999999999999995367889999999999999999999999531100004688999999999999999999999999999999999999999578899999999999999953110004688999999999999999999999999995367889999999999999999999999999953110000004688999999999995311000468899999999999999999953110004688999999999531100046889999999999999999999953110000468899999999999999999999999999999999999995367889999999999999999999999999999995311000046889999999999999999999999999999999999999999999531100004688995315788999999999999999999999999999999995367889999999999999999999999999999999999999999999999999999953110004688999999999999999999957889999999995311000000468899999999953678899999999999999999999999999999999999995788999999999999999999999999953678899999999999999999999999999999953110004688999999999999999999995311000004688995311000468899995367889999999999999999999999999953110000468899999999999999999953678899999999999999999999999999999999999999957889999999999999999999999999995311000468899999999999999999999999957889999999999999999995311000468899999999999999999995311000046889999999999999999999999999999999999957889999999957889999999999999999531100000046889999999999999999999999999995311000046889999999999999999999999999999999999999995788999999999999999999995311000046889999999999999999999999995788999999999999999999999999999999999999999953110004688999999999999999999999999999999999999999999999999999578899957889999999999531100004688999999999999999999999999999999995311000000468899999999999999999531100046889999999999999957889999999999999999999999999578899999999999999999999957889999999999999999999995311000468899999999999999999999999999536788999999999999999995311000046889999999999999999999999999999957889999999999953678899999999999999999999999999999999531100004688999999999999999999999578899999995311000046889999999999999999999999999531100046889999999999953110000468899999999999999999999999999999999999531578899999999999999999999999999999999999953110000468899999999999999999999999999999999999999999999995788999999999999999999999999999999953110004688999999999999999999999999999999999999995788999999999999999999531578899999999999999999999999999999953678899999999999999999999999999999999995311000046889999999999999999999999999953110000004688999999999999957889999999999999531100004688999999999999999999999999999999999999953678899999999999999999999999999999999999999999999999999953110000468899531100004688999999999999999999999999999999531100004688999999999999995367889999999999999999999999999995367889999999999999999999999999999995311000004688999999999999536788999999999999999999999999999999999999999999999999999999999999957889999999999995788999999999999953110004688999999957889999999999999999999999999953678899999999999999999999953110004688999999999999999999999999999999999999999999995311000468899999999999999999995367889995788999999999999999999953678899999995788999995788999999999953110000046889999999999953110004688999957889999999999999999531100046889953110000468899999999999999999999999999999999999999999999999995367889999999999999999999999999999999999999999999999999999999953110000468899999999999999999999999999999999999999999999999999995367889999999999999999995311000046889999999999999999999999999999999999999953110004688999999999999999999999999999999999999999999999999999999999999999957889999999999531100000468899999578899999999999531100046889999999999995311000046889999999999999999999999999999999999999999999999999999999999953678899999999999999999999953110000468899999999999995788999999953110004688999999957889999999999999999999999999995788999999999999999999999999957889999999999953110000004688999999531100046889999999999995788999999999999999531100046889999999999953110000468899999999999531100004688995788999999999999999999999999999999999999999999999995788999999999999999999995311000468899999999999999999999999999999999999999578899999999999999999999999999999999999999999995311000468899999995788999999999999999999999578899999999995311000468899957889999999999999999999999999999999999999995367889999999999999999999999999536788999999999999999999999531100000468899999953110000468899999999999999999999999999536788999999999999999999999999999999999999999999999999999957889995788999995311000046889999999999999999999999999999999999995311000046889999578899999999999999999999999953678899999999999999999999999999999995788999999999999999999999999999999999999531100004688999999999999999999999995367889999999999999999999999999999999995788999999999999531100000468899999999999995311000468899995788999999999999999995311000046889999531100004688999536788578899999578899999953110000468899999999999999999999999999536788999999999999957889999999999995788999999999999999999999999953110004688999999999999995788999999999999995311000046889995367889999999999531100004688999999999999999999999999999999999953678899999999999957889999999999999999999999999957889999999999999999531100046889999578899999999995311000046889999999999999999999999999999995788999578899999999999999531100004688999999999999999999999578899999531100000468899999999999999953110000468899999999999999531100004684688999999999953110000468899999999999999999999999999999999999999578899999957889999999995788999999999999999999995311000468895788999999999999999957889999999995311000046889578899999999999999999995788999995367889999999957889999999999999995788999999999999999531100046889578899999953110000468899999999999999999999999531100004688999999999999999999999999999999999999999999999995788999999999995311000046889999999999995367889999999999999999999999999995788999999999999999999999999999999953110000046889999999536788999999999999999999999999999999999578899999999999578899999999995788999999999999999578899999999999999999999999531100046889999999999999999999999999999999999536788999995311000468899999999999999995367889999999999999999999999953110004688999999999953110004688999999531100046889999999999999999953110000"
+}

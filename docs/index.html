@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="hu">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Reggeli Brief</title>
+  <meta name="description" content="15 perces reggeli podcast a legfontosabb gazdasági, tech, AI, kvantum, politikai és pályázati hírekről – forrásokkal.">
+  <meta name="theme-color" content="#070b14">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Reggeli Brief">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon-192.png" type="image/png">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <canvas id="orb" aria-hidden="true"></canvas>
+
+  <header class="top">
+    <div class="brand">
+      <span class="dot"></span>
+      <span>Reggeli Brief</span>
+    </div>
+    <button id="archiveBtn" class="ghost" aria-label="Korábbi adások">Archívum</button>
+  </header>
+
+  <main id="app">
+    <section class="hero">
+      <p class="eyebrow" id="epDate">Betöltés…</p>
+      <h1 id="epTitle">&nbsp;</h1>
+      <p class="coverage" id="epCoverage"></p>
+      <p class="headline" id="epHeadline"></p>
+    </section>
+
+    <section class="player card" aria-label="Lejátszó">
+      <div class="now" id="nowChapter">—</div>
+      <div class="bar" id="bar" role="slider" aria-label="Lejátszási pozíció" tabindex="0">
+        <div class="bar-fill" id="barFill"></div>
+        <div class="bar-marks" id="barMarks"></div>
+      </div>
+      <div class="times"><span id="tCur">0:00</span><span id="tDur">0:00</span></div>
+      <div class="controls">
+        <button id="back" class="round" aria-label="Vissza 15 mp">−15</button>
+        <button id="play" class="play" aria-label="Lejátszás">
+          <svg id="icPlay" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+          <svg id="icPause" viewBox="0 0 24 24" hidden><path d="M6 5h4v14H6zM14 5h4v14h-4z"/></svg>
+        </button>
+        <button id="fwd" class="round" aria-label="Előre 30 mp">+30</button>
+      </div>
+      <div class="controls small">
+        <button id="speed" class="ghost">1×</button>
+        <a id="dl" class="ghost" download>Letöltés</a>
+      </div>
+      <audio id="audio" preload="metadata"></audio>
+    </section>
+
+    <section id="markets" class="markets" hidden></section>
+
+    <nav class="chips" id="chips" aria-label="Rovatok"></nav>
+
+    <section id="sections"></section>
+
+    <section class="card insight" id="connBox" hidden>
+      <h2>Összefüggések</h2>
+      <div id="connections"></div>
+    </section>
+
+    <section class="card insight opp" id="oppBox" hidden>
+      <h2>Lehetőségek</h2>
+      <div id="opportunities"></div>
+      <p class="fine">Nem befektetési tanácsadás. Minden döntés előtt nézz utána a forrásoknak és a kockázatoknak.</p>
+    </section>
+
+    <section class="card" id="calBox" hidden>
+      <h2>A hét naptára</h2>
+      <ul id="calendar" class="cal"></ul>
+    </section>
+
+    <footer class="foot">
+      <p>Összeállította: AI szerkesztőség (kutató ügynökök + szerkesztő). A tartalom a megjelölt források összefoglalása; ellenőrizd az eredetit.</p>
+      <p id="installHint" hidden>Telepítés: Safari → Megosztás → „Főképernyőhöz adás”. Android Chrome → ⋮ → „Alkalmazás telepítése”.</p>
+    </footer>
+  </main>
+
+  <dialog id="archive">
+    <form method="dialog" class="dlg">
+      <h2>Korábbi adások</h2>
+      <ul id="archiveList"></ul>
+      <button class="ghost">Bezárás</button>
+    </form>
+  </dialog>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>
