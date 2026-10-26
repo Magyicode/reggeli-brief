@@ -55,6 +55,24 @@ if git cat-file -e "origin/main:docs/episodes/$DATE/script.json" 2>/dev/null; th
   touch "$STATE/done-$DATE"
   echo "=== $(date '+%F %T') done"
   notify "Kész a mai adás – a hang pár perc múlva frissül az oldalon."
+  # phone notification (ntfy) once the GitHub Action has built the audio and Pages serves the episode
+  if [ -f "$STATE/ntfy_topic" ]; then
+    for i in {1..40}; do
+      curl -sf "https://magyicode.github.io/reggeli-brief/episodes/index.json?t=$(date +%s)" | grep -q "\"$DATE\"" && break
+      sleep 30
+    done
+    python3 - "$STATE/ntfy_topic" "docs/episodes/$DATE/episode.json" <<'PY'
+import json, sys, urllib.request
+topic = open(sys.argv[1]).read().strip()
+ep = json.load(open(sys.argv[2], encoding="utf-8"))
+body = {"topic": topic, "title": "🎧 " + ep.get("title", "Reggeli Brief"),
+        "message": ep.get("headline", "Kész a mai adás."), "tags": ["headphones"],
+        "click": "https://magyicode.github.io/reggeli-brief/"}
+req = urllib.request.Request("https://ntfy.sh", json.dumps(body).encode(), {"Content-Type": "application/json"})
+urllib.request.urlopen(req, timeout=20)
+PY
+    echo "ntfy sent"
+  fi
 else
   echo "=== $(date '+%F %T') FAILED (no episode on origin)"
   notify "Nem sikerült elkészíteni a mai adást – napló: ~/Library/Logs/reggeli-brief.log"
