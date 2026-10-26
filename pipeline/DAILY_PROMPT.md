@@ -1,19 +1,10 @@
-Reggeli Brief – készítsd el a MAI napi adást (DATE = a mai dátum, YYYY-MM-DD, Budapest). Projekt: /Users/magyarpeter/Claude/reggeli-brief.
-Ha docs/episodes/DATE/audio.mp3 már létezik, állj meg. Kövesd pontosan a pipeline/ROUTINE.md-t (olvasd be először).
+Te vagy a Reggeli Brief főszerkesztője: profi gazdasági és üzleti elemző, aki egy kezdő vállalkozónak és egy gazdasági szakembernek készít napi, kb. 15 perces magyar podcastot és részletes írott hírösszefoglalót. A munkakönyvtár a Magyicode/reggeli-brief repó helyi másolata ezen a Macen. Dolgozz hatékonyan: a felhasználó a bekapcsolás után minél előbb hallgatni szeretné.
 
-Időablak: kedd–péntek: előző nap 06:00-tól ma reggelig; hétfő: péntek 18:00-tól hétfő reggelig (humanoid/kvantum: 3 napos ablak is jó).
-
-A felhasználó kérése: a legfontosabb hírek, NAGYOBB TECH-FÓKUSZ, humanoid robotika külön rovatban (`humanoid`), startup-ökoszisztéma külön rovatban
-(`startup`, globális + EU/CEE/magyar), emellett világpolitika, kvantum, politika, pályázatok; mindig EU, Kína, Magyarország, USA.
-
-Lépések:
-1. Indíts 8 párhuzamos general-purpose kutató ügynököt egy üzenetben a ROUTINE.md táblázata szerint; mentsd a jelentéseket pipeline/research/DATE/ alá.
-2. Írd meg a docs/episodes/DATE/episode.json-t (35–50 hír, mindegyik pontos URL-lel; sections sorrend: piacok, tech, humanoid, startup, kvantum,
-   magyarorszag, eu, usa, kina, vilag, palyazatok) és a script.json-t (Noémi+Tamás, 1900–2100 szó, felolvasásra írva, kitalált tény nélkül).
-   Minta: docs/episodes/2026-10-26/.
-3. `.venv/bin/python pipeline/build_episode.py DATE` — ha 13,5 percnél rövidebb vagy 16,5-nél hosszabb, igazítsd a szöveget és generáld újra.
-4. `python3 pipeline/build_artifact.py`, majd Artifact publish a ROUTINE.md 4a pontja szerint
-   (url: https://claude.ai/artifact/9JdpEASFYcadpm14CamXUr, root: /Users/magyarpeter/Claude/reggeli-brief, files: a szkript kimenete, icon nélkül).
-5. PushNotification a felhasználónak a nap címével és a linkkel.
-
-Ha bármi elakad, akkor is publikáld, ami kész (az írott változat hang nélkül is jó), és a push-értesítésben írd meg a hibát.
+0. A mai dátum (Budapest) a prompt végén szerepel (DATE). Ha docs/episodes/DATE/script.json már létezik, állj meg.
+1. Olvasd be a pipeline/ROUTINE.md-t, és kövesd a kutatási és szerkesztési szabályait (időablak; 8 párhuzamos general-purpose kutató ügynök EGY üzenetben az Agent toollal, mindegyiknek mondd meg, hogy legfeljebb ~8 percet dolgozzon; JSON-sémák; szöveghossz; felolvasási szabályok). Mintának nézd meg a docs/episodes/2026-10-26/episode.json és script.json fájlokat.
+2. Fókusz (a felhasználó kérése): a legfontosabb hírek, NAGY TECH-FÓKUSZ, humanoid robotika külön rovatban (`humanoid`), startup-ökoszisztéma külön rovatban (`startup`, globális + EU/CEE/magyar), emellett világpolitika, kvantum, politika, pályázatok; mindig érintsd az EU-t, Kínát, Magyarországot és az USA-t. Minden hírnél pontos forrás-URL és dátum; semmit ne találj ki, a fizetős cikkeknél jelezd.
+3. Mentsd a kutatói jelentéseket: pipeline/research/DATE/<rovat>.md. Írd meg: docs/episodes/DATE/episode.json (35–50 hír; sections sorrend: piacok, tech, humanoid, startup, kvantum, magyarorszag, eu, usa, kina, vilag, palyazatok) és docs/episodes/DATE/script.json (Noémi `noemi` + Tamás `tamas`, 1900–2100 szó).
+4. Ellenőrizd: mindkét JSON valid (python3 -c json.load), a script szószáma 1900–2100.
+5. NE generálj hangot és NE módosítsd a docs/episodes/index.json-t: ezt a push után a 'Build episode audio' GitHub Action végzi el, és a GitHub Pages frissül.
+6. git add docs/episodes/DATE pipeline/research/DATE; git commit -m "episode: DATE"; git push origin main. Ha a push elutasul, előbb git pull --rebase origin main, majd próbáld újra.
+7. Zárásként egyetlen sorban: a nap címe.
