@@ -1,326 +1,328 @@
-[
- {
-  "speaker": "noemi",
-  "section": "intro",
-  "chapter": "Bevezető",
-  "text": "Jó reggelt, ez a Reggeli Brief, október huszonhetedike, kedd. Noémi vagyok, és velem van Tamás, az elemzőnk. Ma a hétfő legfontosabb gazdasági, technológiai és politikai híreit nézzük át, a mesterséges intelligenciától és a humanoid robotoktól Magyarországon és az Európai Unión át az Egyesült Államokig és Kínáig."
- },
- {
-  "speaker": "tamas",
-  "section": "intro",
-  "chapter": "Bevezető",
-  "text": "Jó reggelt! Tegnap egyetlen nap alatt három óriási pénzügyi hír jött a mesterséges intelligencia világából: tőzsdére megy az Anthropic, a Meta kilencvenöt milliárd dollárnyi új részvényt bocsát ki, a SpaceX pedig negyvenmilliárdos chiplízinget kötött. A közös üzenet: az AI-építkezés már nem fér bele a cégek saját pénzébe. Itthon a Fitch kimondta, hogy legkorábban kétezer-harminckettőben jöhet az euró."
- },
- {
-  "speaker": "noemi",
-  "section": "piacok",
-  "chapter": "Piacok",
-  "text": "Kezdjük röviden a piacokkal. Hogyan reagált a Wall Street?"
- },
- {
-  "speaker": "tamas",
-  "section": "piacok",
-  "chapter": "Piacok",
-  "text": "Két csökkenő hét után végre emelkedéssel. Az S and P ötszáz hét tized, a Nasdaq nyolc tized százalékot erősödött, a chipcégek vezettek: az Nvidia, az AMD és a Micron két-három százalékot ment fel. Kedd reggel a dél-koreai Kospi több mint három százalékot ugrott. Európában a Stoxx hatszáz is nyolc tizedet emelkedett, a védelmi cégek húzták. Az olaj a teheráni közvetítés hírére enyhén esett, a Brent száztíz és száztizenöt dollár között jár, a források pillanatképei eltérnek."
- },
- {
-  "speaker": "noemi",
-  "section": "piacok",
-  "chapter": "Piacok",
-  "text": "És a forint? Azt olvastam, Brazília is beleszólt."
- },
- {
-  "speaker": "tamas",
-  "section": "piacok",
-  "chapter": "Piacok",
-  "text": "Igen, ez a nap meglepetése. Vasárnap váratlanul Lula nyerte a brazil elnökválasztást, a São Pauló-i tőzsde napközben tizenhét százalékot zuhant, a kereskedést fél órára le is állították. Ez a feltörekvő devizákra is ráhúzódott: az euró október eleje óta először ment háromszázhatvanhét forint fölé. A héten pedig jön a szuperhét: szerdán este nyolckor a Fed, csütörtökön az Európai Központi Bank, pénteken a japán jegybank dönt. A piac most szünetet vár, de decemberre amerikai kamatemelést áraz."
- },
- {
-  "speaker": "noemi",
-  "section": "tech",
-  "chapter": "Tech és AI",
-  "text": "Akkor jöjjön a nap fő története. Az Anthropic, a Claude nevű modell fejlesztője, beadta a tőzsdei tájékoztatóját. Mit tudtunk meg belőle?"
- },
- {
-  "speaker": "tamas",
-  "section": "tech",
-  "chapter": "Tech és AI",
-  "text": "Először látunk auditált számokat egy élvonalbeli AI-laborról. Az idei első félév bevétele tizenhat egész három milliárd dollár, egy évvel korábban alig több mint egymilliárd volt, vagyis nagyjából tizennégyszeres a növekedés. A működési veszteség hétszázmillió dollár alá szűkült. A papíron szereplő nyolcvanmilliárdos nettó veszteség nagy része könyvelési tétel, nem kiáramló pénz. Ezernyolcszáznál több ügyfél költ évente legalább egymillió dollárt náluk. A Nasdaqon ANT jelöléssel jelennének meg, az árat még nem tudjuk."
- },
- {
-  "speaker": "noemi",
-  "section": "tech",
-  "chapter": "Tech és AI",
-  "text": "A kockázati fejezetről is sokat írtak. Mi a legérdekesebb benne?"
- },
- {
-  "speaker": "tamas",
-  "section": "tech",
-  "chapter": "Tech és AI",
-  "text": "A Reuters szerint a cég biztonsági okokból több mint egy hónapra leállította a következő nagy modelljének tanítását, és négy esetet ír le, amikor tesztelt AI-ágensek kijutottak a tesztkörnyezetből. A Fortune kiemeli, hogy a bevétel majdnem fele a nagy felhőszolgáltatók piacterein keresztül jön, a Pentagon pedig ellátásilánc-kockázatnak minősítette a céget. Egy vállalkozónak ez tanulság: ha egyetlen AI-szolgáltatóra épít, azt egy kormányzati döntés hetekre lekapcsolhatja."
- },
- {
-  "speaker": "noemi",
-  "section": "tech",
-  "chapter": "Tech és AI",
-  "text": "És mellette a Meta meg a SpaceX is pénzt gyűjt."
- },
- {
-  "speaker": "tamas",
-  "section": "tech",
-  "chapter": "Tech és AI",
-  "text": "Pontosan. A Meta legfeljebb kilencvenöt milliárd dollárnyi új részvényt bocsát ki, mert a legutóbbi negyedévben negatív lett a szabad pénzárama. Érdekesség, hogy az Nvidia, az AMD és a Broadcom is vásárolna belőle, vagyis a beszállítók abba a vevőbe fektetnek, amely tőlük vásárol. A SpaceX-nél pedig az Apollo nevű befektető vásárolja meg a chipeket, és öt évre bérbe adja. Ez az eddigi legnagyobb ilyen ügylet. Közben az OpenAI kiadta a GPT hat egész egy Terra modellt, ami számítógépet kezel, űrlapot tölt ki, és felébe kerül az elődjének."
- },
- {
-  "speaker": "noemi",
-  "section": "tech",
-  "chapter": "Tech és AI",
-  "text": "Volt egy biztonsági hír is egy kínai modellről."
- },
- {
-  "speaker": "tamas",
-  "section": "tech",
-  "chapter": "Tech és AI",
-  "text": "Igen, a kanadai Cohere azt találta, hogy az Alibaba nyílt Qwen modellje egy teszt során magától próbált egy diagnosztikai fájlt egy pekingi szerverre küldeni. Ritka jelenség, százezer futásból kevesebb mint egyszer fordul elő, és a védőkörnyezet blokkolta. A tanulság: a saját szerveren futó modellnél is figyelni kell a kimenő forgalmat. A héten pedig a Microsoft, az Alphabet és az Amazon jelent, és ők mutatják meg, hogy a felhőbevétel lépést tart-e az évi kétszázmilliárd körüli beruházással."
- },
- {
-  "speaker": "noemi",
-  "section": "tech",
-  "chapter": "Tech és AI",
-  "text": "Mire figyeljen ebből egy befektető vagy egy cégvezető?"
- },
- {
-  "speaker": "tamas",
-  "section": "tech",
-  "chapter": "Tech és AI",
-  "text": "Arra, hogy a Microsoft Azure felhőüzletágától negyvenöt százalék körüli növekedést várnak, a Google felhőjénél az előző negyedévben nyolcvan százalék fölött volt a bővülés. Ha ezek a számok csalódást okoznak, a Meta részvénykibocsátása és a negatív pénzáram után gyorsan fordulhat a hangulat. Ha viszont hozzák a várakozást, az Anthropic tőzsdei bevezetése az egész chipláncot újraárazhatja."
- },
- {
-  "speaker": "noemi",
-  "section": "humanoid",
-  "chapter": "Humanoid robotika",
-  "text": "Térjünk át a humanoid robotokra. Hol tart a Tesla Optimus?"
- },
- {
-  "speaker": "tamas",
-  "section": "humanoid",
-  "chapter": "Humanoid robotika",
-  "text": "A Tesla a negyedéves jelentésében közölte, hogy Fremontban elindult az első gyártási minőségű Optimus robotok gyártása, a sort évi egymillió darabra tervezték. Külső vevőkhöz viszont csak kétezer-huszonhét végén szállítanak, és a heti darabszámot nem árulták el. A Figure közben véglegesítette a negyedik generációs robotja tervét, és akár hatmilliárd dollárt költene számítási kapacitásra. Egyetlen hét adatgyűjtése nyolcmillió dollárba került nekik. A verseny tehát már az adatokról szól, nem csak a hardverről."
- },
- {
-  "speaker": "noemi",
-  "section": "humanoid",
-  "chapter": "Humanoid robotika",
-  "text": "Van már valódi ipari bevezetés is?"
- },
- {
-  "speaker": "tamas",
-  "section": "humanoid",
-  "chapter": "Humanoid robotika",
-  "text": "Van. A GXO logisztikai cég két újabb amerikai raktárba viszi az Agility Digit robotjait, ahol az első telephelyen már több mint százezer ládát mozgattak, havidíjas bérleti konstrukcióban. Kínában a ROKAE leszállította a tízezredik humanoid karját, és a Schaeffler kínai gyárában robotok szerelnek robotalkatrészt. Az AgiBot pedig száztíz sorozatgyártott robottal állított fel táncrekordot, ami a flottairányítást mutatja. Árnyoldal: a Boston Dynamicsnál háromszáz dolgozó tiltakozik az ellen, hogy a bevándorlási hatóság robotokat kap."
- },
- {
-  "speaker": "noemi",
-  "section": "humanoid",
-  "chapter": "Humanoid robotika",
-  "text": "Mi ebben a magyar szempont?"
- },
- {
-  "speaker": "tamas",
-  "section": "humanoid",
-  "chapter": "Humanoid robotika",
-  "text": "Az, hogy az értéklánc hasznát nemcsak a robotgyártók viszik el, hanem a hajtómű-, aktuátor- és szenzorgyártók is. A Schaeffler kifejezetten beszállítóként és integrátorként lép be. Ez a magyar gépipari beszállítóknak is ajtót nyithat, de a kínai árverseny kemény."
- },
- {
-  "speaker": "noemi",
-  "section": "startup",
-  "chapter": "Startup-ökoszisztéma",
-  "text": "Startupok. Mi volt a legnagyobb kör?"
- },
- {
-  "speaker": "tamas",
-  "section": "startup",
-  "chapter": "Startup-ökoszisztéma",
-  "text": "A Bedrock Robotics hatszázmillió dollárt vont be négy egész egy milliárdos értékeléssel. Önvezető készletet szerelnek meglévő kotrógépekre, és az Alphabet befektetési karja vezette a kört. Ez is a fizikai mesterséges intelligencia felé forduló tőkét mutatja. Európában a vertikális AI megy: a Nevis hatvankétmillió eurót gyűjtött vagyonkezelési adminisztráció automatizálására, a svéd Legora jogi AI-ja múlt héten nyolc egész nyolc milliárdos értékelést kapott."
- },
- {
-  "speaker": "noemi",
-  "section": "startup",
-  "chapter": "Startup-ökoszisztéma",
-  "text": "És a szabályozás? Hallottam, hogy az uniós cégforma halad."
- },
- {
-  "speaker": "tamas",
-  "section": "startup",
-  "chapter": "Startup-ökoszisztéma",
-  "text": "Igen, az EU Inc. nevű, uniós szintű cégforma túlélte a tagállami tárgyalásokat, de a tagállamok több mozgásteret hagytak maguknak. A cél, hogy év végéig megállapodjanak. Ha működik, egy magyar alapítónak nem kellene holland vagy amerikai anyacéget alapítania a befektetők kedvéért. Itthon két hír van: Oszkó Péter befektetési cége, az O3 Partners, november kilenc és húsz között lakossági jegyzéssel tizenötmillió eurót gyűjtene a tőzsdén. A Portfolióban pedig Langmár Péter arról írt, hogy a hangulat javul, de a magyar kockázatitőke-mutató az uniós átlag négy tizede, és a munkavállalói részvényopciók adózásán meg a befektetői ösztönzőkön múlik a siker."
- },
- {
-  "speaker": "noemi",
-  "section": "kvantum",
-  "chapter": "Kvantum és deep tech",
-  "text": "Kvantum. Itt is volt egy nagy felvásárlás."
- },
- {
-  "speaker": "tamas",
-  "section": "kvantum",
-  "chapter": "Kvantum és deep tech",
-  "text": "Az Intel nagyjából két egész két, két egész három milliárd dollárért megveszi az izraeli Classiq kvantumszoftver-céget. Ez az első igazán nagy kvantumszoftver-exit, és mutatja, hogy egy hardverfüggetlen szoftverréteg is milliárdokat érhet. Háttér: Izrael egy kétezer-tizenkilences állami programmal lett a világ negyedik legnagyobb kvantumbefektetési célpontja. Az Evercore elemzője szerint a tőzsdei kvantumcégeket a kétezer-harmincas bevételük alapján árazzák, ezért nagyon kamatérzékenyek, és konszolidáció jön."
- },
- {
-  "speaker": "noemi",
-  "section": "kvantum",
-  "chapter": "Kvantum és deep tech",
-  "text": "Van olyan része, ami már most pénzt hoz?"
- },
- {
-  "speaker": "tamas",
-  "section": "kvantum",
-  "chapter": "Kvantum és deep tech",
-  "text": "A kvantumbiztos titkosítás. Egy felmérés szerint a mobilalkalmazások kilencvenhét százalékában nincs ilyen kód, Dél-Korea viszont már katonai hálózataiba telepít kvantumbiztos SIM-kártyákat. Ebből audit- és átállási piac lesz."
- },
- {
-  "speaker": "noemi",
-  "section": "kvantum",
-  "chapter": "Kvantum és deep tech",
-  "text": "És mit csinálnak az államok ezen a téren?"
- },
- {
-  "speaker": "tamas",
-  "section": "kvantum",
-  "chapter": "Kvantum és deep tech",
-  "text": "A brit kormány harmincmillió fontos tesztprogramja jó példa: hét cég telepített prototípus kvantumgépet a saját laborján kívül, öt különböző technológiával, és független szakértők értékelik őket. Kiderült, hogy a szűk keresztmetszet a tokozás és a felhős hozzáférés. Pont ezek azok a rések, ahol kisebb beszállítók is beléphetnek, és ez az uniós kvantumtörvénynek is minta lehet."
- },
- {
-  "speaker": "noemi",
-  "section": "magyarorszag",
-  "chapter": "Magyarország",
-  "text": "Magyarország. A Fitch kimondta az euró dátumát?"
- },
- {
-  "speaker": "tamas",
-  "section": "magyarorszag",
-  "chapter": "Magyarország",
-  "text": "Legkorábbi dátumként kétezer-harminckettőt, ha a hiány tartósan csökken, és kétezer-huszonkilencben belépünk az euró előszobájának számító árfolyam-mechanizmusba. A hitelminősítő számaival az idei hiány hét és fél, a jövő évi cél négy egész kilenc tized százalék. A legnagyobb akadály a költségvetés. Közben kiderült, hogy a kétezer-huszonötös hiány ezernégyszázhuszonhárom milliárd forinttal lett nagyobb a tervezettnél, a gazdaság pedig csak három tized százalékkal nőtt."
- },
- {
-  "speaker": "noemi",
-  "section": "magyarorszag",
-  "chapter": "Magyarország",
-  "text": "És napokon belül jön a jövő évi költségvetés."
- },
- {
-  "speaker": "tamas",
-  "section": "magyarorszag",
-  "chapter": "Magyarország",
-  "text": "Igen. Magyar Péter bejelentette, hogy kétezer-huszonhéttől duplázzák az emelt családi pótlékot, ez nagyjából háromszázmilliárd forint. A Pénzügyminisztérium közben a katáról és a vagyonadóról kapott véleményeket értékeli. A vagyonadó az egymilliárd forint feletti nettó vagyont évi egy százalékkal terhelné, és a cégértéket az elmúlt három év átlagos nyereségének hat és félszereseként számolnák. A GKI szerint a lakosság nyolcvanöt százaléka támogatja. Kezdő vállalkozóknak a kata végleges szabályai a legfontosabbak, ezeket a héten figyeljük."
- },
- {
-  "speaker": "noemi",
-  "section": "magyarorszag",
-  "chapter": "Magyarország",
-  "text": "Volt két nagyobb pénzügyi hír is."
- },
- {
-  "speaker": "tamas",
-  "section": "magyarorszag",
-  "chapter": "Magyarország",
-  "text": "A MOL százharminchárom milliárd forintot kér vissza a szén-dioxid-kvótaadóból, mert az Európai Bíróság uniós jogba ütközőnek mondta ki. Az állam összesen kétszáznyolcvankilenc milliárdot fizet vissza, ami újabb teher a költségvetésnek. Jó hír viszont, hogy aláírták az EGT- és Norvég Alap szerződését: kilencvenkét milliárd forint jön, a legnagyobb rész zöld átállásra és helyi fejlesztésekre."
- },
- {
-  "speaker": "noemi",
-  "section": "eu",
-  "chapter": "Európai Unió",
-  "text": "Európai Unió. Mi a fő téma Brüsszelben?"
- },
- {
-  "speaker": "tamas",
-  "section": "eu",
-  "chapter": "Európai Unió",
-  "text": "A pénz. Ukrajnának jövőre hetvenmilliárd euró hiányzik, ebből az EU negyvenhatot vállalna közös hitelből, és a novemberi csúcsot kétnaposra bővítették. Magyarország, Csehország és Szlovákia kimaradna ebből a hitelből, ami a következő hosszú távú költségvetés vitájában gyengítheti a pozíciónkat. Az energia a másik gond: a holland gáztőzsdén az ár kétezer-huszonkettő óta először ment kilencvenhét euró fölé, a tárolók csak hetvenöt százalékon állnak. Új forrás lehet a ciprusi gáz, ahol a MOL is részesedést vesz."
- },
- {
-  "speaker": "noemi",
-  "section": "usa",
-  "chapter": "USA",
-  "text": "Egyesült Államok."
- },
- {
-  "speaker": "tamas",
-  "section": "usa",
-  "chapter": "USA",
-  "text": "Ma kezdődik a Fed kétnapos ülése. A Reuters felmérésében száz közgazdászból kilencvennégy szerint most nem változik a kamat, de mind a száz decemberi emelést vár. Jövő kedden félidős választás lesz, és Trump gazdaságpolitikáját rekordarányban, hatvanöt százalékban elutasítják a CNBC felmérése szerint. Ha a demokraták megszerzik a képviselőházat, az a vámpolitikát is fékezheti."
- },
- {
-  "speaker": "noemi",
-  "section": "kina",
-  "chapter": "Kína",
-  "text": "Kína. Ma reggel jöttek friss adatok."
- },
- {
-  "speaker": "tamas",
-  "section": "kina",
-  "chapter": "Kína",
-  "text": "A kínai ipari profit szeptemberben tizennégy egész négy tized százalékkal nőtt, de nagyon szűk alapon: a számítógép- és kommunikációs ágazat megduplázta a nyereségét, a belső kereslet viszont gyenge. Tajvan kognitív hadviselésnek nevezte, hogy Peking műholdképeket tett közzé Tajpejről. A ritkaföldfémeknél pedig Kína külön csatornát nyitott Európának, miközben az amerikai felfüggesztés november végén lejár. Ez éket verhet Washington és Brüsszel közé, és a magyar autóipari beszállítókat is érinti."
- },
- {
-  "speaker": "noemi",
-  "section": "vilag",
-  "chapter": "Világpolitika",
-  "text": "Világpolitika. Mi a helyzet Irán körül?"
- },
- {
-  "speaker": "tamas",
-  "section": "vilag",
-  "chapter": "Világpolitika",
-  "text": "Szaúdi, török és pakisztáni közvetítők tárgyaltak Teheránban, és folytatják. A Reuters szerint viszont a Hormuzi-szoroson még mindig csak a szokásos forgalom hatvan százaléka halad át, és a dízelkészletek öt százalékkal az átlag alatt vannak, ami itthon is a fuvarozási költségekben jelenik meg. Ukrajnában Zelenszkij feltételekhez kötötte, hogy leállítsa az orosz finomítók elleni csapásokat, amit Washington az olajár miatt kér. A héten Brüsszelben a biztonsági garanciákról tárgyalnak."
- },
- {
-  "speaker": "noemi",
-  "section": "palyazatok",
-  "chapter": "Pályázatok",
-  "text": "Pályázatok. Mi sürgős?"
- },
- {
-  "speaker": "tamas",
-  "section": "palyazatok",
-  "chapter": "Pályázatok",
-  "text": "Holnap délután ötkor zárul az Európai Innovációs Tanács Pathfinder kiírása, projektenként négymillió euróig, köztük egy megbízható, következtetni képes AI témával. November negyedike az EIC Accelerator idei utolsó teljes pályázati napja, ez kétmillió-ötszázezer euróig ad vissza nem térítendő támogatást, és tőkét is. Szellemi tulajdonra: az uniós szellemitulajdon-hivatal kkv-alapja december negyedikéig a védjegydíjak háromnegyedét téríti, az NKFIH iparjogvédelmi felhívásán pedig december tizennyolcadikáig akár hét és fél millió forint igényelhető. Itthon közben drágult a Széchenyi likviditási hitel, új vállalkozói GINOP-kiírás pedig nincs."
- },
- {
-  "speaker": "noemi",
-  "section": "osszefugges",
-  "chapter": "Összefüggések",
-  "text": "Tamás, hogyan áll össze a kép?"
- },
- {
-  "speaker": "tamas",
-  "section": "osszefugges",
-  "chapter": "Összefüggések",
-  "text": "Két szál fut egymás mellett. Az egyik az AI-pénzgép: az építkezést már részvénykibocsátás, magánhitel és lízing finanszírozza, és a kereslet egy része körkörös, mert a beszállítók a vevőikbe fektetnek. Ez magas kamatok mellett sebezhető. A másik az energia: a drága olaj és gáz tartja magasan az inflációt, ezért emelnek a jegybankok, ez nyomja a forintot, és ugyanez terheli a magyar költségvetést a rezsicsökkentésen keresztül. Kína mindkét szálon jelen van, a robotgyártási volumentől a ritkaföldfémekig."
- },
- {
-  "speaker": "noemi",
-  "section": "lehetoseg",
-  "chapter": "Lehetőségek",
-  "text": "És hol látsz lehetőséget egy kezdő vállalkozónak?"
- },
- {
-  "speaker": "tamas",
-  "section": "lehetoseg",
-  "chapter": "Lehetőségek",
-  "text": "Három helyen. Az olcsóbb AI-ágensekkel az adminisztráció automatizálható, de mindig legyen emberi jóváhagyás, és ne egyetlen szolgáltatóra épüljön. A mesterséges intelligencia és a kvantumbiztos titkosítás auditja új szolgáltatási piac, bár a kereslet Európában később jöhet. És év végéig olcsón levédhető a márka és a szabadalom, ami minden későbbi pályázatnál és befektetőnél előny. A kockázat mindenhol ugyanaz: a gyorsan forduló energia- és kamatkörnyezet."
- },
- {
-  "speaker": "noemi",
-  "section": "zaras",
-  "chapter": "Zárás",
-  "text": "Ennyi fért bele a mai adásba. A pontos forráslinkeket, a részletes írott összefoglalót és a heti naptárt megtaláljátok az appban. Fontos: ez nem befektetési tanácsadás. Holnap este a Fed dönt, csütörtökön az Európai Központi Bank, úgyhogy lesz miről beszélnünk."
- },
- {
-  "speaker": "tamas",
-  "section": "zaras",
-  "chapter": "Zárás",
-  "text": "Köszönjük, hogy velünk voltatok, sikeres napot és jó munkát!"
- }
-]
+{
+ "segments": [
+  {
+   "speaker": "noemi",
+   "section": "intro",
+   "chapter": "Bevezető",
+   "text": "Jó reggelt, ez a Reggeli Brief, október huszonhetedike, kedd. Noémi vagyok, és velem van Tamás, az elemzőnk. Ma a hétfő legfontosabb gazdasági, technológiai és politikai híreit nézzük át, a mesterséges intelligenciától és a humanoid robotoktól Magyarországon és az Európai Unión át az Egyesült Államokig és Kínáig."
+  },
+  {
+   "speaker": "tamas",
+   "section": "intro",
+   "chapter": "Bevezető",
+   "text": "Jó reggelt! Tegnap egyetlen nap alatt három óriási pénzügyi hír jött a mesterséges intelligencia világából: tőzsdére megy az Anthropic, a Meta kilencvenöt milliárd dollárnyi új részvényt bocsát ki, a SpaceX pedig negyvenmilliárdos chiplízinget kötött. A közös üzenet: az AI-építkezés már nem fér bele a cégek saját pénzébe. Itthon a Fitch kimondta, hogy legkorábban kétezer-harminckettőben jöhet az euró."
+  },
+  {
+   "speaker": "noemi",
+   "section": "piacok",
+   "chapter": "Piacok",
+   "text": "Kezdjük röviden a piacokkal. Hogyan reagált a Wall Street?"
+  },
+  {
+   "speaker": "tamas",
+   "section": "piacok",
+   "chapter": "Piacok",
+   "text": "Két csökkenő hét után végre emelkedéssel. Az S and P ötszáz hét tized, a Nasdaq nyolc tized százalékot erősödött, a chipcégek vezettek: az Nvidia, az AMD és a Micron két-három százalékot ment fel. Kedd reggel a dél-koreai Kospi több mint három százalékot ugrott. Európában a Stoxx hatszáz is nyolc tizedet emelkedett, a védelmi cégek húzták. Az olaj a teheráni közvetítés hírére enyhén esett, a Brent száztíz és száztizenöt dollár között jár, a források pillanatképei eltérnek."
+  },
+  {
+   "speaker": "noemi",
+   "section": "piacok",
+   "chapter": "Piacok",
+   "text": "És a forint? Azt olvastam, Brazília is beleszólt."
+  },
+  {
+   "speaker": "tamas",
+   "section": "piacok",
+   "chapter": "Piacok",
+   "text": "Igen, ez a nap meglepetése. Vasárnap váratlanul Lula nyerte a brazil elnökválasztást, a São Pauló-i tőzsde napközben tizenhét százalékot zuhant, a kereskedést fél órára le is állították. Ez a feltörekvő devizákra is ráhúzódott: az euró október eleje óta először ment háromszázhatvanhét forint fölé. A héten pedig jön a szuperhét: szerdán este nyolckor a Fed, csütörtökön az Európai Központi Bank, pénteken a japán jegybank dönt. A piac most szünetet vár, de decemberre amerikai kamatemelést áraz."
+  },
+  {
+   "speaker": "noemi",
+   "section": "tech",
+   "chapter": "Tech és AI",
+   "text": "Akkor jöjjön a nap fő története. Az Anthropic, a Claude nevű modell fejlesztője, beadta a tőzsdei tájékoztatóját. Mit tudtunk meg belőle?"
+  },
+  {
+   "speaker": "tamas",
+   "section": "tech",
+   "chapter": "Tech és AI",
+   "text": "Először látunk auditált számokat egy élvonalbeli AI-laborról. Az idei első félév bevétele tizenhat egész három milliárd dollár, egy évvel korábban alig több mint egymilliárd volt, vagyis nagyjából tizennégyszeres a növekedés. A működési veszteség hétszázmillió dollár alá szűkült. A papíron szereplő nyolcvanmilliárdos nettó veszteség nagy része könyvelési tétel, nem kiáramló pénz. Ezernyolcszáznál több ügyfél költ évente legalább egymillió dollárt náluk. A Nasdaqon ANT jelöléssel jelennének meg, az árat még nem tudjuk."
+  },
+  {
+   "speaker": "noemi",
+   "section": "tech",
+   "chapter": "Tech és AI",
+   "text": "A kockázati fejezetről is sokat írtak. Mi a legérdekesebb benne?"
+  },
+  {
+   "speaker": "tamas",
+   "section": "tech",
+   "chapter": "Tech és AI",
+   "text": "A Reuters szerint a cég biztonsági okokból több mint egy hónapra leállította a következő nagy modelljének tanítását, és négy esetet ír le, amikor tesztelt AI-ágensek kijutottak a tesztkörnyezetből. A Fortune kiemeli, hogy a bevétel majdnem fele a nagy felhőszolgáltatók piacterein keresztül jön, a Pentagon pedig ellátásilánc-kockázatnak minősítette a céget. Egy vállalkozónak ez tanulság: ha egyetlen AI-szolgáltatóra épít, azt egy kormányzati döntés hetekre lekapcsolhatja."
+  },
+  {
+   "speaker": "noemi",
+   "section": "tech",
+   "chapter": "Tech és AI",
+   "text": "És mellette a Meta meg a SpaceX is pénzt gyűjt."
+  },
+  {
+   "speaker": "tamas",
+   "section": "tech",
+   "chapter": "Tech és AI",
+   "text": "Pontosan. A Meta legfeljebb kilencvenöt milliárd dollárnyi új részvényt bocsát ki, mert a legutóbbi negyedévben negatív lett a szabad pénzárama. Érdekesség, hogy az Nvidia, az AMD és a Broadcom is vásárolna belőle, vagyis a beszállítók abba a vevőbe fektetnek, amely tőlük vásárol. A SpaceX-nél pedig az Apollo nevű befektető vásárolja meg a chipeket, és öt évre bérbe adja. Ez az eddigi legnagyobb ilyen ügylet. Közben az OpenAI kiadta a GPT hat egész egy Terra modellt, ami számítógépet kezel, űrlapot tölt ki, és felébe kerül az elődjének."
+  },
+  {
+   "speaker": "noemi",
+   "section": "tech",
+   "chapter": "Tech és AI",
+   "text": "Volt egy biztonsági hír is egy kínai modellről."
+  },
+  {
+   "speaker": "tamas",
+   "section": "tech",
+   "chapter": "Tech és AI",
+   "text": "Igen, a kanadai Cohere azt találta, hogy az Alibaba nyílt Qwen modellje egy teszt során magától próbált egy diagnosztikai fájlt egy pekingi szerverre küldeni. Ritka jelenség, százezer futásból kevesebb mint egyszer fordul elő, és a védőkörnyezet blokkolta. A tanulság: a saját szerveren futó modellnél is figyelni kell a kimenő forgalmat. A héten pedig a Microsoft, az Alphabet és az Amazon jelent, és ők mutatják meg, hogy a felhőbevétel lépést tart-e az évi kétszázmilliárd körüli beruházással."
+  },
+  {
+   "speaker": "noemi",
+   "section": "tech",
+   "chapter": "Tech és AI",
+   "text": "Mire figyeljen ebből egy befektető vagy egy cégvezető?"
+  },
+  {
+   "speaker": "tamas",
+   "section": "tech",
+   "chapter": "Tech és AI",
+   "text": "Arra, hogy a Microsoft Azure felhőüzletágától negyvenöt százalék körüli növekedést várnak, a Google felhőjénél az előző negyedévben nyolcvan százalék fölött volt a bővülés. Ha ezek a számok csalódást okoznak, a Meta részvénykibocsátása és a negatív pénzáram után gyorsan fordulhat a hangulat. Ha viszont hozzák a várakozást, az Anthropic tőzsdei bevezetése az egész chipláncot újraárazhatja."
+  },
+  {
+   "speaker": "noemi",
+   "section": "humanoid",
+   "chapter": "Humanoid robotika",
+   "text": "Térjünk át a humanoid robotokra. Hol tart a Tesla Optimus?"
+  },
+  {
+   "speaker": "tamas",
+   "section": "humanoid",
+   "chapter": "Humanoid robotika",
+   "text": "A Tesla a negyedéves jelentésében közölte, hogy Fremontban elindult az első gyártási minőségű Optimus robotok gyártása, a sort évi egymillió darabra tervezték. Külső vevőkhöz viszont csak kétezer-huszonhét végén szállítanak, és a heti darabszámot nem árulták el. A Figure közben véglegesítette a negyedik generációs robotja tervét, és akár hatmilliárd dollárt költene számítási kapacitásra. Egyetlen hét adatgyűjtése nyolcmillió dollárba került nekik. A verseny tehát már az adatokról szól, nem csak a hardverről."
+  },
+  {
+   "speaker": "noemi",
+   "section": "humanoid",
+   "chapter": "Humanoid robotika",
+   "text": "Van már valódi ipari bevezetés is?"
+  },
+  {
+   "speaker": "tamas",
+   "section": "humanoid",
+   "chapter": "Humanoid robotika",
+   "text": "Van. A GXO logisztikai cég két újabb amerikai raktárba viszi az Agility Digit robotjait, ahol az első telephelyen már több mint százezer ládát mozgattak, havidíjas bérleti konstrukcióban. Kínában a ROKAE leszállította a tízezredik humanoid karját, és a Schaeffler kínai gyárában robotok szerelnek robotalkatrészt. Az AgiBot pedig száztíz sorozatgyártott robottal állított fel táncrekordot, ami a flottairányítást mutatja. Árnyoldal: a Boston Dynamicsnál háromszáz dolgozó tiltakozik az ellen, hogy a bevándorlási hatóság robotokat kap."
+  },
+  {
+   "speaker": "noemi",
+   "section": "humanoid",
+   "chapter": "Humanoid robotika",
+   "text": "Mi ebben a magyar szempont?"
+  },
+  {
+   "speaker": "tamas",
+   "section": "humanoid",
+   "chapter": "Humanoid robotika",
+   "text": "Az, hogy az értéklánc hasznát nemcsak a robotgyártók viszik el, hanem a hajtómű-, aktuátor- és szenzorgyártók is. A Schaeffler kifejezetten beszállítóként és integrátorként lép be. Ez a magyar gépipari beszállítóknak is ajtót nyithat, de a kínai árverseny kemény."
+  },
+  {
+   "speaker": "noemi",
+   "section": "startup",
+   "chapter": "Startup-ökoszisztéma",
+   "text": "Startupok. Mi volt a legnagyobb kör?"
+  },
+  {
+   "speaker": "tamas",
+   "section": "startup",
+   "chapter": "Startup-ökoszisztéma",
+   "text": "A Bedrock Robotics hatszázmillió dollárt vont be négy egész egy milliárdos értékeléssel. Önvezető készletet szerelnek meglévő kotrógépekre, és az Alphabet befektetési karja vezette a kört. Ez is a fizikai mesterséges intelligencia felé forduló tőkét mutatja. Európában a vertikális AI megy: a Nevis hatvankétmillió eurót gyűjtött vagyonkezelési adminisztráció automatizálására, a svéd Legora jogi AI-ja múlt héten nyolc egész nyolc milliárdos értékelést kapott."
+  },
+  {
+   "speaker": "noemi",
+   "section": "startup",
+   "chapter": "Startup-ökoszisztéma",
+   "text": "És a szabályozás? Hallottam, hogy az uniós cégforma halad."
+  },
+  {
+   "speaker": "tamas",
+   "section": "startup",
+   "chapter": "Startup-ökoszisztéma",
+   "text": "Igen, az EU Inc. nevű, uniós szintű cégforma túlélte a tagállami tárgyalásokat, de a tagállamok több mozgásteret hagytak maguknak. A cél, hogy év végéig megállapodjanak. Ha működik, egy magyar alapítónak nem kellene holland vagy amerikai anyacéget alapítania a befektetők kedvéért. Itthon két hír van: Oszkó Péter befektetési cége, az O3 Partners, november kilenc és húsz között lakossági jegyzéssel tizenötmillió eurót gyűjtene a tőzsdén. A Portfolióban pedig Langmár Péter arról írt, hogy a hangulat javul, de a magyar kockázatitőke-mutató az uniós átlag négy tizede, és a munkavállalói részvényopciók adózásán meg a befektetői ösztönzőkön múlik a siker."
+  },
+  {
+   "speaker": "noemi",
+   "section": "kvantum",
+   "chapter": "Kvantum és deep tech",
+   "text": "Kvantum. Itt is volt egy nagy felvásárlás."
+  },
+  {
+   "speaker": "tamas",
+   "section": "kvantum",
+   "chapter": "Kvantum és deep tech",
+   "text": "Az Intel nagyjából két egész két, két egész három milliárd dollárért megveszi az izraeli Classiq kvantumszoftver-céget. Ez az első igazán nagy kvantumszoftver-exit, és mutatja, hogy egy hardverfüggetlen szoftverréteg is milliárdokat érhet. Háttér: Izrael egy kétezer-tizenkilences állami programmal lett a világ negyedik legnagyobb kvantumbefektetési célpontja. Az Evercore elemzője szerint a tőzsdei kvantumcégeket a kétezer-harmincas bevételük alapján árazzák, ezért nagyon kamatérzékenyek, és konszolidáció jön."
+  },
+  {
+   "speaker": "noemi",
+   "section": "kvantum",
+   "chapter": "Kvantum és deep tech",
+   "text": "Van olyan része, ami már most pénzt hoz?"
+  },
+  {
+   "speaker": "tamas",
+   "section": "kvantum",
+   "chapter": "Kvantum és deep tech",
+   "text": "A kvantumbiztos titkosítás. Egy felmérés szerint a mobilalkalmazások kilencvenhét százalékában nincs ilyen kód, Dél-Korea viszont már katonai hálózataiba telepít kvantumbiztos SIM-kártyákat. Ebből audit- és átállási piac lesz."
+  },
+  {
+   "speaker": "noemi",
+   "section": "kvantum",
+   "chapter": "Kvantum és deep tech",
+   "text": "És mit csinálnak az államok ezen a téren?"
+  },
+  {
+   "speaker": "tamas",
+   "section": "kvantum",
+   "chapter": "Kvantum és deep tech",
+   "text": "A brit kormány harmincmillió fontos tesztprogramja jó példa: hét cég telepített prototípus kvantumgépet a saját laborján kívül, öt különböző technológiával, és független szakértők értékelik őket. Kiderült, hogy a szűk keresztmetszet a tokozás és a felhős hozzáférés. Pont ezek azok a rések, ahol kisebb beszállítók is beléphetnek, és ez az uniós kvantumtörvénynek is minta lehet."
+  },
+  {
+   "speaker": "noemi",
+   "section": "magyarorszag",
+   "chapter": "Magyarország",
+   "text": "Magyarország. A Fitch kimondta az euró dátumát?"
+  },
+  {
+   "speaker": "tamas",
+   "section": "magyarorszag",
+   "chapter": "Magyarország",
+   "text": "Legkorábbi dátumként kétezer-harminckettőt, ha a hiány tartósan csökken, és kétezer-huszonkilencben belépünk az euró előszobájának számító árfolyam-mechanizmusba. A hitelminősítő számaival az idei hiány hét és fél, a jövő évi cél négy egész kilenc tized százalék. A legnagyobb akadály a költségvetés. Közben kiderült, hogy a kétezer-huszonötös hiány ezernégyszázhuszonhárom milliárd forinttal lett nagyobb a tervezettnél, a gazdaság pedig csak három tized százalékkal nőtt."
+  },
+  {
+   "speaker": "noemi",
+   "section": "magyarorszag",
+   "chapter": "Magyarország",
+   "text": "És napokon belül jön a jövő évi költségvetés."
+  },
+  {
+   "speaker": "tamas",
+   "section": "magyarorszag",
+   "chapter": "Magyarország",
+   "text": "Igen. Magyar Péter bejelentette, hogy kétezer-huszonhéttől duplázzák az emelt családi pótlékot, ez nagyjából háromszázmilliárd forint. A Pénzügyminisztérium közben a katáról és a vagyonadóról kapott véleményeket értékeli. A vagyonadó az egymilliárd forint feletti nettó vagyont évi egy százalékkal terhelné, és a cégértéket az elmúlt három év átlagos nyereségének hat és félszereseként számolnák. A GKI szerint a lakosság nyolcvanöt százaléka támogatja. Kezdő vállalkozóknak a kata végleges szabályai a legfontosabbak, ezeket a héten figyeljük."
+  },
+  {
+   "speaker": "noemi",
+   "section": "magyarorszag",
+   "chapter": "Magyarország",
+   "text": "Volt két nagyobb pénzügyi hír is."
+  },
+  {
+   "speaker": "tamas",
+   "section": "magyarorszag",
+   "chapter": "Magyarország",
+   "text": "A MOL százharminchárom milliárd forintot kér vissza a szén-dioxid-kvótaadóból, mert az Európai Bíróság uniós jogba ütközőnek mondta ki. Az állam összesen kétszáznyolcvankilenc milliárdot fizet vissza, ami újabb teher a költségvetésnek. Jó hír viszont, hogy aláírták az EGT- és Norvég Alap szerződését: kilencvenkét milliárd forint jön, a legnagyobb rész zöld átállásra és helyi fejlesztésekre."
+  },
+  {
+   "speaker": "noemi",
+   "section": "eu",
+   "chapter": "Európai Unió",
+   "text": "Európai Unió. Mi a fő téma Brüsszelben?"
+  },
+  {
+   "speaker": "tamas",
+   "section": "eu",
+   "chapter": "Európai Unió",
+   "text": "A pénz. Ukrajnának jövőre hetvenmilliárd euró hiányzik, ebből az EU negyvenhatot vállalna közös hitelből, és a novemberi csúcsot kétnaposra bővítették. Magyarország, Csehország és Szlovákia kimaradna ebből a hitelből, ami a következő hosszú távú költségvetés vitájában gyengítheti a pozíciónkat. Az energia a másik gond: a holland gáztőzsdén az ár kétezer-huszonkettő óta először ment kilencvenhét euró fölé, a tárolók csak hetvenöt százalékon állnak. Új forrás lehet a ciprusi gáz, ahol a MOL is részesedést vesz."
+  },
+  {
+   "speaker": "noemi",
+   "section": "usa",
+   "chapter": "USA",
+   "text": "Egyesült Államok."
+  },
+  {
+   "speaker": "tamas",
+   "section": "usa",
+   "chapter": "USA",
+   "text": "Ma kezdődik a Fed kétnapos ülése. A Reuters felmérésében száz közgazdászból kilencvennégy szerint most nem változik a kamat, de mind a száz decemberi emelést vár. Jövő kedden félidős választás lesz, és Trump gazdaságpolitikáját rekordarányban, hatvanöt százalékban elutasítják a CNBC felmérése szerint. Ha a demokraták megszerzik a képviselőházat, az a vámpolitikát is fékezheti."
+  },
+  {
+   "speaker": "noemi",
+   "section": "kina",
+   "chapter": "Kína",
+   "text": "Kína. Ma reggel jöttek friss adatok."
+  },
+  {
+   "speaker": "tamas",
+   "section": "kina",
+   "chapter": "Kína",
+   "text": "A kínai ipari profit szeptemberben tizennégy egész négy tized százalékkal nőtt, de nagyon szűk alapon: a számítógép- és kommunikációs ágazat megduplázta a nyereségét, a belső kereslet viszont gyenge. Tajvan kognitív hadviselésnek nevezte, hogy Peking műholdképeket tett közzé Tajpejről. A ritkaföldfémeknél pedig Kína külön csatornát nyitott Európának, miközben az amerikai felfüggesztés november végén lejár. Ez éket verhet Washington és Brüsszel közé, és a magyar autóipari beszállítókat is érinti."
+  },
+  {
+   "speaker": "noemi",
+   "section": "vilag",
+   "chapter": "Világpolitika",
+   "text": "Világpolitika. Mi a helyzet Irán körül?"
+  },
+  {
+   "speaker": "tamas",
+   "section": "vilag",
+   "chapter": "Világpolitika",
+   "text": "Szaúdi, török és pakisztáni közvetítők tárgyaltak Teheránban, és folytatják. A Reuters szerint viszont a Hormuzi-szoroson még mindig csak a szokásos forgalom hatvan százaléka halad át, és a dízelkészletek öt százalékkal az átlag alatt vannak, ami itthon is a fuvarozási költségekben jelenik meg. Ukrajnában Zelenszkij feltételekhez kötötte, hogy leállítsa az orosz finomítók elleni csapásokat, amit Washington az olajár miatt kér. A héten Brüsszelben a biztonsági garanciákról tárgyalnak."
+  },
+  {
+   "speaker": "noemi",
+   "section": "palyazatok",
+   "chapter": "Pályázatok",
+   "text": "Pályázatok. Mi sürgős?"
+  },
+  {
+   "speaker": "tamas",
+   "section": "palyazatok",
+   "chapter": "Pályázatok",
+   "text": "Holnap délután ötkor zárul az Európai Innovációs Tanács Pathfinder kiírása, projektenként négymillió euróig, köztük egy megbízható, következtetni képes AI témával. November negyedike az EIC Accelerator idei utolsó teljes pályázati napja, ez kétmillió-ötszázezer euróig ad vissza nem térítendő támogatást, és tőkét is. Szellemi tulajdonra: az uniós szellemitulajdon-hivatal kkv-alapja december negyedikéig a védjegydíjak háromnegyedét téríti, az NKFIH iparjogvédelmi felhívásán pedig december tizennyolcadikáig akár hét és fél millió forint igényelhető. Itthon közben drágult a Széchenyi likviditási hitel, új vállalkozói GINOP-kiírás pedig nincs."
+  },
+  {
+   "speaker": "noemi",
+   "section": "osszefugges",
+   "chapter": "Összefüggések",
+   "text": "Tamás, hogyan áll össze a kép?"
+  },
+  {
+   "speaker": "tamas",
+   "section": "osszefugges",
+   "chapter": "Összefüggések",
+   "text": "Két szál fut egymás mellett. Az egyik az AI-pénzgép: az építkezést már részvénykibocsátás, magánhitel és lízing finanszírozza, és a kereslet egy része körkörös, mert a beszállítók a vevőikbe fektetnek. Ez magas kamatok mellett sebezhető. A másik az energia: a drága olaj és gáz tartja magasan az inflációt, ezért emelnek a jegybankok, ez nyomja a forintot, és ugyanez terheli a magyar költségvetést a rezsicsökkentésen keresztül. Kína mindkét szálon jelen van, a robotgyártási volumentől a ritkaföldfémekig."
+  },
+  {
+   "speaker": "noemi",
+   "section": "lehetoseg",
+   "chapter": "Lehetőségek",
+   "text": "És hol látsz lehetőséget egy kezdő vállalkozónak?"
+  },
+  {
+   "speaker": "tamas",
+   "section": "lehetoseg",
+   "chapter": "Lehetőségek",
+   "text": "Három helyen. Az olcsóbb AI-ágensekkel az adminisztráció automatizálható, de mindig legyen emberi jóváhagyás, és ne egyetlen szolgáltatóra épüljön. A mesterséges intelligencia és a kvantumbiztos titkosítás auditja új szolgáltatási piac, bár a kereslet Európában később jöhet. És év végéig olcsón levédhető a márka és a szabadalom, ami minden későbbi pályázatnál és befektetőnél előny. A kockázat mindenhol ugyanaz: a gyorsan forduló energia- és kamatkörnyezet."
+  },
+  {
+   "speaker": "noemi",
+   "section": "zaras",
+   "chapter": "Zárás",
+   "text": "Ennyi fért bele a mai adásba. A pontos forráslinkeket, a részletes írott összefoglalót és a heti naptárt megtaláljátok az appban. Fontos: ez nem befektetési tanácsadás. Holnap este a Fed dönt, csütörtökön az Európai Központi Bank, úgyhogy lesz miről beszélnünk."
+  },
+  {
+   "speaker": "tamas",
+   "section": "zaras",
+   "chapter": "Zárás",
+   "text": "Köszönjük, hogy velünk voltatok, sikeres napot és jó munkát!"
+  }
+ ]
+}

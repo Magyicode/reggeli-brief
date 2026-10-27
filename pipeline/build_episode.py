@@ -52,6 +52,8 @@ async def synth_retry(text, voice, tries=4):
 async def main(date):
     d = EPISODES / date
     script = json.loads((d / "script.json").read_text("utf-8"))
+    if isinstance(script, list):  # tolerate a bare segment list
+        script = {"segments": script}
     ep = json.loads((d / "episode.json").read_text("utf-8"))
 
     out = io.BytesIO()
