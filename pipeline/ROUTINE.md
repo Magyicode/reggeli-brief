@@ -13,6 +13,7 @@ Cél: 07:00-ra kész legyen a napi adás a PWA-ban.
 - **Humanoid robotika** minden adásban (Tesla Optimus, Figure, Agility, Apptronik, 1X, Boston Dynamics, Unitree, UBTech, AgiBot, Xpeng, Sanctuary; finanszírozás, gyártási volumen, ipari bevezetések, kínai verseny, alkatrész-ellátási lánc).
 - **Startup-ökoszisztéma** minden adásban: nagy körök, exitek, VC-trendek, akcelerátorok globálisan + EU/CEE/magyar startupok (pl. Shapr3D, Bitrise, Commsignia, AImotive, Turbine, Hiventures, Lightyear-portfóliók, Startup Hungary, Hungarian Startup University Program).
 - Továbbra is: világpolitika, kvantum, politika, pályázatok; mindig EU, Kína, Magyarország, USA.
+- **Pályázatok (felhasználói kérés, 2026-10-27)**: különösen figyelj a kezdő startupoknak és ötletekre (ötletfázis, pre-seed) érkező támogatásokra, kiemelten a magyarokra. A rovat elején a magyar korai fázisú lehetőségek álljanak; ha nincs új, a még nyitott, közeli határidejűeket hozd. Minden tételnél: kinek szól (fázis: ötlet / pre-seed / induló cég), mennyi pénz, milyen formában (vissza nem térítendő, hitel, tőke, díj, mentorálás), határidő, és mennyire egyszerű beadni. A podcastban is kapjon a rovat legalább ~90 másodpercet.
 
 ## 1. Kutatás – 8 párhuzamos kutató ügynök
 Indíts EGYSZERRE 8 `general-purpose` ügynököt (Agent tool, egy üzenetben). Mindegyik kapja meg az időablakot, a célközönséget
@@ -30,7 +31,7 @@ Indíts EGYSZERRE 8 `general-purpose` ügynököt (Agent tool, egy üzenetben). 
 | 7 | Humanoid robotika és fizikai AI (`humanoid`); 4–7 tétel, 3 napos ablak is jó | therobotreport.com, ieee spectrum robotics, techcrunch.com/robotics, humanoidsdaily.com, electrek.co, scmp.com tech, reuters.com |
 | 8 | Startup-ökoszisztéma (`startup`) – globális körök/exitek + EU/CEE/magyar startupok; 6–9 tétel | techcrunch.com, news.crunchbase.com, sifted.eu, eu-startups.com, tech.eu, forbes.hu, portfolio.hu, hvg.hu, telex.hu |
 | 4 | Kvantum és deep tech (`kvantum`) – szélesebb, 3–4 napos ablak is jó | quantumcomputingreport.com/news/, thequantuminsider.com/category/daily/ |
-| 5 | Pályázatok, finanszírozás (`palyazatok`) – nyitott felhívások, határidők a következő ~8 hétben | palyazat.gov.hu, NKFIH, MFB, Hiventures, EIC, Horizon Europe, Digital Europe, ec.europa.eu funding & tenders |
+| 5 | Pályázatok, finanszírozás (`palyazatok`) – **elsőként kezdő startupoknak és ötletfázisú projekteknek szóló, kiemelten MAGYAR lehetőségek** (pre-seed/ötlet-támogatás, inkubátor- és akcelerátorprogramok, kockázati tőke első körök, egyetemi startup-programok, fiatal vállalkozói és induló kkv-támogatások, pitch-versenyek díjakkal), utána EU-s/nemzetközi felhívások; nyitott felhívások, határidők a következő ~8 hétben; 6–10 tétel | palyazat.gov.hu, NKFIH (nkfih.gov.hu), Hiventures, MFB, MVA/HIPA, Startup Hungary, Hungarian Startup University Program (HSUP), egyetemi inkubátorok (BME, ELTE, Corvinus, SZTE, DE), akcelerátorok és pitch-versenyek, forbes.hu, portfolio.hu, penzcentrum.hu; EU: EIC, EIT, Horizon Europe, Digital Europe, ec.europa.eu funding & tenders |
 | 6 | Kína, USA, EU, világpolitika (`kina`, `usa`, `eu`, `vilag`) | reuters.com, bbc.com, ft.com, economist.com, nytimes.com, politico.eu, spiegel.de, scmp.com, caixinglobal.com |
 
 Mentsd a 6 jelentést: `pipeline/research/DATE/<rovat>.md` (a későbbi ellenőrizhetőségért).
