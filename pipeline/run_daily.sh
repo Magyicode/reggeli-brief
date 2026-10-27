@@ -43,6 +43,8 @@ TRIES=$(cat "$STATE/tries-$DATE" 2>/dev/null || echo 0)
 echo $((TRIES + 1)) > "$STATE/tries-$DATE"
 
 notify "A mai adás készül (~20 perc)…"
+# print mode must keep waiting for the background research agents (default ceiling is 10 min)
+export CLAUDE_CODE_PRINT_BG_WAIT_CEILING_MS=2400000
 caffeinate -i -s "$CLAUDE" -p "$(cat pipeline/DAILY_PROMPT.md)
 
 DATE=$DATE" \
