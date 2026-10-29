@@ -1,6 +1,12 @@
 {
  "episodes": [
   {
+   "date": "2026-10-29",
+   "title": "Szigorú Fed, 115 dolláros olaj, Kármán-terv: irány az euró",
+   "headline": "A Fed 10–2-es szavazással tartotta a kamatot, de decemberre emelést áraz a piac, miközben a Brent 115 dollár, a gáz 100 euró fölött van. A Google felhője megduplázódott, a szabad cash flow viszont negatívba fordult; itthon a kormány 2030-ig szóló tervvel, új KATA-val és az euró felé mutató lépésekkel jelentkezett.",
+   "duration": 906.6
+  },
+  {
    "date": "2026-10-27",
    "title": "Tőzsdére megy az Anthropic – az AI-építkezés már a tőkepiacból él",
    "headline": "Egyetlen nap alatt jött az Anthropic tőzsdei tájékoztatója, a Meta 95 milliárd dolláros részvénykibocsátása és a SpaceX 40 milliárdos GPU-lízingje: az AI-építkezés már nem fér bele a cégek saját cash flow-jába. Itthon a Fitch 2032-re teszi a legkorábbi euróbevezetést, a forint 367 körül várja a Fed szerdai és az EKB csütörtöki döntését.",
@@ -10,7 +16,7 @@
    "date": "2026-10-26",
    "title": "Drága pénz, drága energia, drága AI – szuperhét előtt a piacok",
    "headline": "Az olaj 6%-ot esett az iráni diplomáciára, de a gáz 2022 óta nem volt ilyen drága; a Meta akár 95 milliárd dollár részvénnyel finanszírozná az AI-t, itthon pedig napokon belül jön a 2027-es költségvetés és az új kata.",
-   "duration": 887.6
+   "duration": 887.4
   }
  ]
 }
