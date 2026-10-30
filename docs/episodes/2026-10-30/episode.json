@@ -1,0 +1,927 @@
+{
+ "date": "2026-10-30",
+ "title": "Az AI-számla napja: Alphabet-zuhanás, EKB-patt, lassuló magyar GDP",
+ "coverage": "Lefedett időszak: 2026. okt. 29. (csütörtök reggel) – okt. 30. (péntek délelőtt); humanoid robotika és kvantum: okt. 26–30.; pályázatok: nyitott felhívások a következő ~8 hétben.",
+ "headline": "A piac először bünteti keményen, ha az AI-beruházás felfalja a pénzáramot: az Alphabet a történetének legrosszabb napján kb. 500 milliárd dollárt veszített, miközben a Microsoft és az AWS gyorsult. Itthon a GDP csak 1,5%-kal nőtt, az EKB kivár, Lagarde idő előtt távozik, a gáz 2022 óta nem volt ilyen drága.",
+ "markets": [
+  {
+   "label": "S&P 500",
+   "value": "csüt. zárás",
+   "change": "−0,30%"
+  },
+  {
+   "label": "Dow Jones",
+   "value": "52 342,56",
+   "change": "−0,25%"
+  },
+  {
+   "label": "Nasdaq 100",
+   "value": "csüt. zárás",
+   "change": "−1,38%"
+  },
+  {
+   "label": "Stoxx 600",
+   "value": "649,11",
+   "change": "+0,77%"
+  },
+  {
+   "label": "Nikkei (pént.)",
+   "value": "63 020",
+   "change": "−2,55%"
+  },
+  {
+   "label": "KOSPI (pént.)",
+   "value": "5630",
+   "change": "−5,2%"
+  },
+  {
+   "label": "BUX (pént. reggel)",
+   "value": "146 393",
+   "change": "−0,5%"
+  },
+  {
+   "label": "Brent (dec.)",
+   "value": "114,88 $",
+   "change": "−0,38%"
+  },
+  {
+   "label": "WTI",
+   "value": "102,00 $",
+   "change": "−0,76%"
+  },
+  {
+   "label": "TTF gáz",
+   "value": ">101 €/MWh",
+   "change": "2022 óta csúcs"
+  },
+  {
+   "label": "EUR/USD",
+   "value": "1,1130",
+   "change": "−0,03%"
+  },
+  {
+   "label": "EUR/HUF",
+   "value": "365,95",
+   "change": "−0,25%"
+  },
+  {
+   "label": "USA 10 éves",
+   "value": "4,966%",
+   "change": "−5,2 bp"
+  }
+ ],
+ "sections": [
+  {
+   "id": "piacok",
+   "title": "Piacok",
+   "items": [
+    {
+     "title": "Rekordzuhanás az Alphabetnél, gyenge nap a Wall Streeten",
+     "body": "Csütörtökön az Alphabet kb. 12,6%-ot esett, ez a cég történetének legnagyobb egynapos vesztesége, közel 500 milliárd dollárnyi piaci értékkel. Az S&P 500 0,30%-ot, a Nasdaq 100 1,38%-ot esett, a kisvállalati Russell 2000 viszont 1,2%-ot emelkedett. Az amerikai GDP a 3. negyedévben évesítve 3,4%-kal nőtt (várakozás: 3,1–3,2%), a szeptemberi maginfláció (PCE) 3,1% volt.",
+     "why": "A piac már a pénzáramot nézi, nem csak az AI-növekedést; a pénz a techóriásokból a kisebb cégek felé fordul.",
+     "sources": [
+      {
+       "name": "Yahoo Finance",
+       "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-earnings-130305714.html",
+       "date": "okt. 29."
+      },
+      {
+       "name": "Barchart / TradingView",
+       "url": "https://www.tradingview.com/news/barchart:ba8ccce7c094b:0-stocks-close-lower-as-alphabet-disappoints-and-chip-stocks-fall/",
+       "date": "okt. 29."
+      }
+     ]
+    },
+    {
+     "title": "Az EKB 2,5%-on tart, Lagarde 2027 februárjában távozik",
+     "body": "Az Európai Központi Bank egyhangúlag 2,5%-on hagyta a betéti kamatot; Lagarde szerint az emelés is szóba került. Az euróövezeti infláció 3,8%. Christine Lagarde bejelentette, hogy 2027. február 7-én, kb. kilenc hónappal mandátuma lejárta előtt távozik. A piac decemberre kb. 84%-os eséllyel áraz 25 bázispontos emelést; a francia 10 éves hozam 2002 óta először lépte át az 5%-ot.",
+     "why": "Az euróövezeti szigorítás szűkíti a forint kamatelőnyét, a vezetőváltás pedig bizonytalanságot visz a kamatpályába.",
+     "sources": [
+      {
+       "name": "Euronews",
+       "url": "https://hu.euronews.com/2026/10/29/ekb-25-on-tartja-a-kamatot-lagarde-korai-tavozast-jelent-be-inflacio-kozel-duplaja-a-celna",
+       "date": "okt. 29."
+      },
+      {
+       "name": "FXStreet",
+       "url": "https://www.fxstreet.com/news/ecb-recap-on-hold-amid-tighter-financial-conditions-and-rising-energy-costs-202610291935",
+       "date": "okt. 29."
+      }
+     ]
+    },
+    {
+     "title": "Olaj 115 dollár körül, hétfőtől „technikailag” olcsóbb",
+     "body": "A decemberi Brent 114,88 dolláron zárt, mert Vance alelnök levélben próbálta újraindítani az iráni tárgyalásokat; péntek reggel kb. 116 dollárig emelkedett a hormuzi tankertámadások hírére. A decemberi szerződés pénteken lejár, hétfőtől a kb. 4 dollárral olcsóbb januári az irányadó.",
+     "why": "A magas olajár hajtja az inflációt és a kamatemeléseket; a kisvállalkozásoknál az üzemanyag- és szállítási költségben jelenik meg.",
+     "sources": [
+      {
+       "name": "FinanceFeeds",
+       "url": "https://financefeeds.com/brent-crude-oil-price-116-friday-hormuz-mine-strikes-december-expiry-fourth-monthly-gain-bull-120-bear-108/",
+       "date": "okt. 30."
+      },
+      {
+       "name": "BigGo Finance (másodlagos)",
+       "url": "https://finance.biggo.com/news/d50be2fb-80b1-4bb6-9515-bef42612e8b2",
+       "date": "okt. 29."
+      }
+     ]
+    },
+    {
+     "title": "Ázsia: a KOSPI 5%-ot zuhant, a japán jegybank kivár",
+     "body": "Az Amazon és az Intel zárás utáni esése után pénteken a KOSPI 5,2%-ot, a Nikkei 2,55%-ot esett. A Bank of Japan 8–1 arányban 1,25%-on hagyta a kamatot, és 2013 óta először mondta ki, hogy az alapinfláció nagyjából összhangban van a 2%-os céllal.",
+     "why": "A japán kamatemelés közeledése és az AI-hangulat romlása a chipexportőr piacokat üti a legjobban.",
+     "sources": [
+      {
+       "name": "FXStreet",
+       "url": "https://www.fxstreet.com/news/asian-stocks-trade-mixed-kospi-leads-losses-as-worries-about-ai-grow-202610300439",
+       "date": "okt. 30."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "title": "Tech & AI",
+   "items": [
+    {
+     "title": "Alphabet: rekord felhő, gyengülő keresés, negatív pénzáram",
+     "body": "Az Alphabet bevétele 25%-kal 127,6 milliárd dollárra nőtt, de elmaradt a várakozástól. A Google Cloud 103%-kal 30,7 milliárdra ugrott, a keresési bevétel növekedése viszont 12%-ra lassult; a cég ezt az AI Mode gyengébb monetizációjával magyarázta. Másodlagos forrás szerint a negyedéves beruházás 51,4 milliárd dollár, a szabad pénzáram −9,1 milliárd. A Bloomberg szerint a cég AI-hoz kötődő kötelezettségei meghaladják az 1000 milliárd dollárt.",
+     "why": "Első jel, hogy az AI-alapú keresés kannibalizálja a klasszikus hirdetési üzletet, és a piac bünteti a negatív pénzáramot.",
+     "sources": [
+      {
+       "name": "Alphabet Q3 jelentés",
+       "url": "https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf",
+       "date": "okt. 28."
+      },
+      {
+       "name": "The Register",
+       "url": "https://www.theregister.com/ai-and-ml/2026/10/29/google-struggling-to-make-ai-mode-searches-pay/5306181",
+       "date": "okt. 29."
+      },
+      {
+       "name": "Bloomberg (fizetős)",
+       "url": "https://www.bloomberg.com/news/articles/2026-10-29/alphabet-s-ai-risk-extends-beyond-1-trillion-filing-shows",
+       "date": "okt. 29."
+      }
+     ]
+    },
+    {
+     "title": "Microsoft: négyéves csúcson az Azure, duplázódó beruházás",
+     "body": "A Microsoft bevétele 19%-kal kb. 92,3 milliárd dollárra nőtt, az Azure 48%-kal 33,2 milliárdra, az iránymutatás felett. A beruházás 103%-kal 39,4 milliárdra emelkedett. A részvény a zárás után 3–4%-ot emelkedett. A jelentés előtt a cég önkéntes távozási csomagot ajánlott kb. 60 ezer munkatársának.",
+     "why": "Ugyanazon az estén az Alphabet és a Microsoft ellentétes irányba mozdult: a piac azt díjazza, ahol az AI-költés gyorsan bevétellé válik.",
+     "sources": [
+      {
+       "name": "XTB",
+       "url": "https://www.xtb.com/en/market-analysis/microsoft-results-cloud-growth-overshadows-capex-questions",
+       "date": "okt. 28."
+      }
+     ]
+    },
+    {
+     "title": "Amazon: öt éve nem nőtt ilyen gyorsan az AWS, de gyenge az előrejelzés",
+     "body": "Az AWS 39%-kal 46 milliárd dollárra nőtt, a csoport működési marzsa rekord 13,9%. A teljes bevétel (201,9 milliárd) és a hirdetési bevétel kissé elmaradt, a 4. negyedéves előrejelzés gyenge lett, a részvény a zárás után 7–10%-ot esett. A Bloomberg szerint az elmúlt 12 hónap szabad pénzárama −42,4 milliárd dollár, az idei beruházási terv kb. 220 milliárd.",
+     "why": "Az AI-kereslet valódi bevételt hoz a felhőben, a fogyasztói oldal viszont lassul.",
+     "sources": [
+      {
+       "name": "Amazon 8-K (SEC)",
+       "url": "https://www.sec.gov/Archives/edgar/data/0001018724/000101872426000038/amzn-20260930xex991.htm",
+       "date": "okt. 29."
+      },
+      {
+       "name": "Bloomberg (fizetős)",
+       "url": "https://www.bloomberg.com/news/articles/2026-10-29/amazon-spending-soars-on-effort-to-meet-demand-for-ai-services",
+       "date": "okt. 29."
+      }
+     ]
+    },
+    {
+     "title": "Az Intel több mint 20%-ot zuhant a gyenge kilátások miatt",
+     "body": "Az Intel bevétele 21%-kal 16,5 milliárd dollárra nőtt, de a 4. negyedéves előrejelzése a PC-piac gyengülése miatt elmaradt a várakozástól; a részvény a zárás után 20–23%-ot esett.",
+     "why": "Kettévált a chippiac: az AI-adatközponti chipek iránt erős a kereslet, a PC és a fogyasztói eszközök gyengülnek.",
+     "sources": [
+      {
+       "name": "CNBC (lead)",
+       "url": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html",
+       "date": "okt. 29."
+      }
+     ]
+    },
+    {
+     "title": "Az Nvidia hitelgaranciát adhat az Anthropic egyik adatközpontjához",
+     "body": "A The Information értesülése szerint az Nvidia több mint 5 milliárd dolláros hitelgaranciáról tárgyal a brit Nscale adósságára; a 460 megawattos adatközpontot az Anthropic használná. A megállapodást még nem írták alá. A Bloomberg szerint az Anthropic adta a SpaceX 3. negyedéves bevételének 34,5%-át.",
+     "why": "A chipgyártó már a vevője adósságáért is kezességet vállal: a körkörös AI-finanszírozás kevés szereplőnél koncentrálja a kockázatot.",
+     "sources": [
+      {
+       "name": "Reuters",
+       "url": "https://www.reuters.com/technology/nvidia-talks-give-credit-support-nscales-deal-with-anthropic-information-reports-2026-10-30/",
+       "date": "okt. 30."
+      },
+      {
+       "name": "Bloomberg (fizetős)",
+       "url": "https://www.bloomberg.com/news/articles/2026-10-29/spacex-s-largest-revenue-source-is-a-finite-deal-with-anthropic",
+       "date": "okt. 29."
+      }
+     ]
+    },
+    {
+     "title": "Kémügy Jensen Huang környezetében",
+     "body": "A New York Times szerint az amerikai hírszerzés kínai hírszerzési eszköznek tartja Alice Huangot, a Megaspeed volt vezetőjét, aki közel áll az Nvidia vezérigazgatójához. A cég malajziai testvércége legalább 4,8 milliárd dollárnyi Nvidia-chipet vásárolt. Az Nvidia szerint a chipeltérítési vádakat kivizsgálták és megcáfolták; Warren szenátor szigorúbb exportkontrollt sürget.",
+     "why": "Napirendre kerülhet az AI-chipek délkelet-ázsiai továbbértékesítésének szigorítása.",
+     "sources": [
+      {
+       "name": "New York Times (fizetős)",
+       "url": "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html",
+       "date": "okt. 29."
+      },
+      {
+       "name": "CNBC (lead)",
+       "url": "https://www.cnbc.com/2026/10/29/nvidia-jensen-huang-chinese-intelligence-asset.html",
+       "date": "okt. 29."
+      }
+     ]
+    },
+    {
+     "title": "Mistral Large 4: a legerősebb nem kínai nyílt modell",
+     "body": "A francia Mistral nyílt súlyokkal kiadta a Large 4 modellt: kb. 1,05 billió összes és 52 milliárd aktív paraméter. Az Artificial Analysis indexén szűken a legjobb Kínán kívüli nyílt modell; a VentureBeat 63%-kal olcsóbb feladatonkénti futtatásról ír.",
+     "why": "Európai, saját infrastruktúrán is futtatható alternatíva – az adatszuverenitást igénylő ügyfeleknek fontos.",
+     "sources": [
+      {
+       "name": "Mistral",
+       "url": "https://mistral.ai/news/mistral-large-4-oss/",
+       "date": "okt. 29."
+      },
+      {
+       "name": "VentureBeat",
+       "url": "https://venturebeat.com/technology/mistral-large-4-le-chonk-arrives-as-the-top-open-model-outside-china-with-improved-coding-performance-and-63-lower-cost-per-task",
+       "date": "okt. 29."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "humanoid",
+   "title": "Humanoid robotika",
+   "items": [
+    {
+     "title": "Unitree: 70%-os bevételnövekedés, eső profit",
+     "body": "Az első tőzsdén jegyzett humanoidgyártó első negyedéves jelentése: a Unitree 3. negyedéves bevétele 70%-kal 665 millió jüanra nőtt, a nettó eredmény viszont 17,4%-kal 112,7 millió jüanra esett, mert a K+F-kiadás 250%-kal nőtt.",
+     "why": "Nő a kereslet, de a robot-AI fejlesztése felemészti a haszon egy részét.",
+     "sources": [
+      {
+       "name": "Humanoids Daily",
+       "url": "https://www.humanoidsdaily.com/news/unitree-q3-2026-revenue-growth-rd-profit",
+       "date": "okt. 28."
+      }
+     ]
+    },
+    {
+     "title": "Physical Intelligence: 20 milliárdos értékelésről tárgyal bevétel nélkül",
+     "body": "A Bloomberg értesülése szerint a robot-alapmodelleket fejlesztő Physical Intelligence legalább 1 milliárd dolláros körről tárgyal kb. 20 milliárd dolláros értékelésen; az év elején 11,5 milliárdot ért. A kör még nem zárult.",
+     "why": "A robotok „agyába” bevétel nélkül is milliárdok áramlanak – a befektetők itt is néhány nagy modellszolgáltatóra fogadnak.",
+     "sources": [
+      {
+       "name": "Humanoids Daily (Bloomberg alapján)",
+       "url": "https://www.humanoidsdaily.com/news/physical-intelligence-funding-talks-20-billion-valuation",
+       "date": "okt. 28."
+      }
+     ]
+    },
+    {
+     "title": "Boston Dynamics: koreai beszállítók készüljenek 10 ezer Atlasra",
+     "body": "A KED Global szerint a Boston Dynamics 10 ezer Atlas robot alkatrészeire kérte fel készülésre koreai beszállítóit; az első rendelések 2027 végén jöhetnek. Mind a 31 aktuátort a Hyundai Mobis szállítaná – ez az alkatrészköltség kb. 70%-a.",
+     "why": "A humanoidok ellátási lánca geopolitikai blokkok mentén válik szét, a kínai alkatrészek elkerülésével.",
+     "sources": [
+      {
+       "name": "Humanoids Daily (KED Global alapján)",
+       "url": "https://www.humanoidsdaily.com/news/boston-dynamics-atlas-korean-suppliers-10000-preparations",
+       "date": "okt. 27."
+      }
+     ]
+    },
+    {
+     "title": "Xpeng IRON: kis szériában gyártják a szilárdtest-akkumulátort",
+     "body": "Az Xpeng elindította humanoidja akkumulátorának kis szériás gyártását; műszaki adatot nem közölt. A tömeggyártás 2026 végére, az európai bevezetés 2027 második felére várható.",
+     "why": "Az üzemidő a humanoidok egyik gyenge pontja – a kínai autógyártók akkumulátortudása itt előnyt adhat.",
+     "sources": [
+      {
+       "name": "Humanoids Daily",
+       "url": "https://www.humanoidsdaily.com/news/xpeng-iron-solid-state-battery-small-batch-production",
+       "date": "okt. 28."
+      }
+     ]
+    },
+    {
+     "title": "Az Audi mobil humanoidokat tesztel alkatrész-előkészítésre",
+     "body": "Az Audi ingolstadti laborjában az Agile Robots kétkarú, mobil robotjai szedik ki és rendezik sorba az alkatrészeket; a folyamatot előbb virtuális ikerben modellezték. Egyelőre koncepcióteszt, menetrend nélkül.",
+     "why": "Az autóipar a humanoidok első vevője – és Közép-Európa, köztük Győr, az Audi ellátási láncának része.",
+     "sources": [
+      {
+       "name": "Humanoids Daily",
+       "url": "https://www.humanoidsdaily.com/news/audi-agile-robots-mobile-humanoids-parts-sequencing",
+       "date": "okt. 28."
+      }
+     ]
+    },
+    {
+     "title": "Európa a betanítási szoftverre fogad: Machenta és Bleu Robotics",
+     "body": "A londoni, 11 fős Machenta 40 millió dolláros magvető kört zárt (Creandum, Union Square Ventures); modelljük szimulációban tanul, és egyetlen bemutatásból végrehajt új feladatot. A Bleu Robotics 5 millió eurót gyűjtött ipari humanoidok gyors betanítására. Az AgiBot közben új ipari robotot és nyílt operációs rendszert jelentett be (szponzorált cikk).",
+     "why": "Egy humanoid annyit ér, amilyen gyorsan új feladatra betanítható – Európa itt keres helyet.",
+     "sources": [
+      {
+       "name": "Humanoids Daily",
+       "url": "https://www.humanoidsdaily.com/news/machenta-40-million-instant-robot-learning",
+       "date": "okt. 27."
+      },
+      {
+       "name": "Humanoids Daily",
+       "url": "https://www.humanoidsdaily.com/news/bleu-robotics-5m-industrial-humanoid-training",
+       "date": "okt. 29."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "startup",
+   "title": "Startup-ökoszisztéma",
+   "items": [
+    {
+     "title": "Az OpenAI-hoz kötődő Thrive Holdings 15,3 milliárd dollárért veszi meg az ADT-t",
+     "body": "A Thrive Capitalból kivált Thrive Holdings részvényenként 10 dollárt fizet a biztonságtechnikai ADT-ért; a vállalatérték adóssággal 15,3 milliárd dollár. A holding AI-modellekkel és mérnökökkel alakítja át a portfóliócégeit, már több mint 75 céget birtokol.",
+     "why": "Új modell: a kockázati pénz nem startupot épít, hanem hagyományos cégeket vesz meg és AI-val alakítja át őket.",
+     "sources": [
+      {
+       "name": "TechCrunch",
+       "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+       "date": "okt. 29."
+      }
+     ]
+    },
+    {
+     "title": "Volt Palantir-vezetők 17 millió dollárral indítják a Dreamet",
+     "body": "Az Andreessen Horowitz vezette seed körből építőipari AI-világmodelleket fejlesztenek, amelyek teljes épület- és gépészeti terveket generálnak; már 10 projektben használják őket.",
+     "why": "A világmodell-hullám beér a fizikai iparágakba – a magyar CAD-cégeknek, például a Shapr3D-nek egyszerre verseny és piaci validáció.",
+     "sources": [
+      {
+       "name": "TechCrunch",
+       "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+       "date": "okt. 29."
+      }
+     ]
+    },
+    {
+     "title": "Sorra zárnak az európai korai fázisú alapok",
+     "body": "A belga Entourage két hét alatt 100 millió eurós második alapot zárt, 1–5 millió eurós jegyekkel AI-, robotika- és deeptech-cégekbe. Zárt az AP Ventures 270 millió eurós ipari és energiatech-alapja, az Auriga Partners 80 millió eurós kiberbiztonsági alapja és a BY Venture Partners 60 millió dolláros III. alapja.",
+     "why": "Bővül az európai seed-tőke, és a deeptech, a védelem, a kiberbiztonság és az energia felé fordul.",
+     "sources": [
+      {
+       "name": "tech.eu",
+       "url": "https://tech.eu/2026/10/29/entourage-raises-eur100m-for-second-fund-targeting-ai-robotics-and-deeptech/",
+       "date": "okt. 29."
+      },
+      {
+       "name": "EU-Startups (cím)",
+       "url": "https://www.eu-startups.com/2026/10/londons-ap-ventures-closes-e269-million-third-fund-to-back-early-stage-industrial-and-energy-tech-startups/",
+       "date": "okt. 28."
+      }
+     ]
+    },
+    {
+     "title": "Fele VC, fele EU-pénz: 7,1 millió euró a hamburgi MuRaynek",
+     "body": "A müonokkal rakétahajtóműveket és turbinákat átvilágító MuRay körében 3,5 millió euró magántőke és 3,6 millió euró nem hígító állami, köztük Horizon Europe-forrás van.",
+     "why": "Tipikus mai európai deeptech-finanszírozás, amely magyar egyetemi spinoffoknak is járható út.",
+     "sources": [
+      {
+       "name": "tech.eu",
+       "url": "https://tech.eu/2026/10/29/muray-raises-eur71m-to-inspect-rocket-engines-and-turbines-beyond-x-ray-limits/",
+       "date": "okt. 29."
+      }
+     ]
+    },
+    {
+     "title": "Ravical: 17 millió dollár, hogy a könyvelőirodák létszám nélkül nőjenek",
+     "body": "Az MMC Ventures vezette seed kör után a Ravical összesen 25 millió dollárt gyűjtött. A platform a tapasztalt munkatársak tudását szabványos munkafolyamatokká alakítja.",
+     "why": "A szakmai szolgáltatásokra épülő vertikális AI az egyik legforróbb seed-kategória – a magyar könyvelőpiacon is égető a munkaerőhiány.",
+     "sources": [
+      {
+       "name": "tech.eu",
+       "url": "https://tech.eu/2026/10/29/ravical-raises-17m-to-break-the-link-between-accounting-firms-growth-and-hiring/",
+       "date": "okt. 29."
+      }
+     ]
+    },
+    {
+     "title": "Hild Imre vezeti átmenetileg a Nemzeti Innovációs Ügynökséget",
+     "body": "Tanács Zoltán miniszter bejelentette, hogy a végleges vezető kiválasztásáig Hild Imre, az Óbuda Uni Venture Capital eddigi vezetője irányítja a NIÜ-t. Konkrét programváltozást még nem jelentettek be.",
+     "why": "A VC-háttér a piaci logikájú, befektetői oldali eszközök felé viheti az állami startup-támogatást.",
+     "sources": [
+      {
+       "name": "Portfolio",
+       "url": "https://www.portfolio.hu/gazdasag/20261028/bejelentette-a-miniszter-nemzetkozi-tapasztalattal-rendelkezo-szakember-veszi-at-az-allami-ugynokseg-vezeteset-872560",
+       "date": "okt. 28."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kvantum",
+   "title": "Kvantum & deep tech",
+   "items": [
+    {
+     "title": "Alice & Bob: kb. 22 600 qubit elég lehet az RSA-2048 feltöréséhez",
+     "body": "A francia cég becslése szerint hibatűrő macskaqubites gépen kb. 22 593 fizikai qubit és 3,14 nap kellene; ez kb. 40-szer kevesebb, mint a Google tavalyi, kb. egymilliós becslése. Elméleti becslés, nem bemutatott támadás; a cég szerint a 2030-as évek elején érhet össze a hardver és az igény.",
+     "why": "Közeledik a „Q-nap”: a „most begyűjtöm, később visszafejtem” támadás már ma kockázat.",
+     "sources": [
+      {
+       "name": "The Quantum Insider",
+       "url": "https://thequantuminsider.com/2026/10/29/alice-bob-22593-qubits-break-rsa-2048/",
+       "date": "okt. 29."
+      }
+     ]
+    },
+    {
+     "title": "A NIST véglegesítette a poszt-kvantum átállás menetrendjét",
+     "body": "Az amerikai szövetségi rendszereknek 2030 végéig kell poszt-kvantum kulcscserére, 2031 végéig aláírásra átállniuk; az RSA és az elliptikus görbés eljárások 2035 végétől tiltottak.",
+     "why": "A gyakorlatban globális iparági határidő, amely a beszállítói láncokon át mindenkit elér.",
+     "sources": [
+      {
+       "name": "Quantum Computing Report",
+       "url": "https://quantumcomputingreport.com/nist-releases-final-ir-8547-establishing-definitive-post-quantum-cryptography-transition-timeline-and-deprecation-schedules/",
+       "date": "okt. 27."
+      }
+     ]
+    },
+    {
+     "title": "Az IQM mind az 54 qubitjét összefonta egy chipen",
+     "body": "A finn IQM Emerald processzorán az 54 qubites állapot hűsége 0,516 lett, meghaladva a 0,5-ös küszöböt; a műveleti hibák akár felére csökkentek.",
+     "why": "Európai szereplő mutatta meg a teljes chipes összefonódást.",
+     "sources": [
+      {
+       "name": "The Quantum Insider",
+       "url": "https://thequantuminsider.com/2026/10/29/iqm-full-chip-entanglement-54-qubit-processor/",
+       "date": "okt. 29."
+      }
+     ]
+    },
+    {
+     "title": "Kvantum és energetika: Quantinuum–GE Vernova, friss tőke a vezérlésbe",
+     "body": "A Quantinuum és a GE Vernova a magas hőmérsékletű szupravezetés mechanizmusát szimulálja, kompakt generátorok és nagy áramú kábelek felé. A QuantrolOx 12 millió eurót (társbefektető az EIC Fund), a Nord Quantique 10 millió dolláros DARPA-hosszabbítást kapott.",
+     "why": "Az energetika az egyik első fizetőképes kvantum-felhasználó; az állami szereplők megosztják a kockázatot.",
+     "sources": [
+      {
+       "name": "Quantum Computing Report",
+       "url": "https://quantumcomputingreport.com/quantinuum-and-ge-vernova-target-high-temperature-superconductivity-using-helios-trapped-ion-hardware/",
+       "date": "okt. 27."
+      },
+      {
+       "name": "Quantum Computing Report",
+       "url": "https://quantumcomputingreport.com/quantrolox-raises-e12-million-13-36-million-usd-series-a2-to-scale-automated-quantum-control-software-and-u-s-operations/",
+       "date": "okt. 27."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "magyarorszag",
+   "title": "Magyarország",
+   "items": [
+    {
+     "title": "Lassult a gazdaság: 1,5%-os növekedés a harmadik negyedévben",
+     "body": "A KSH gyorsbecslése szerint a GDP éves alapon 1,5%-kal, negyedéves alapon mindössze 0,1%-kal nőtt; az első kilenc hónapban 1,7%-kal. Az ipar és az export húzott, a mezőgazdaság az aszály miatt visszafogta a növekedést. A KSH szerint a felülvizsgálat még módosíthatja az adatot.",
+     "why": "Az új kormány első GDP-adata veszélyezteti a 2027-re tervezett 2,4%-os növekedést; lassabban nőhet a kereslet.",
+     "sources": [
+      {
+       "name": "Telex",
+       "url": "https://telex.hu/gazdasag/2026/10/30/gdp-brutto-nemzeti-ossztermek-novekedes-2026-harmadik-negyedev-ksh-statisztika-magyarorszag",
+       "date": "okt. 30."
+      },
+      {
+       "name": "Portfolio",
+       "url": "https://www.portfolio.hu/gazdasag/20261030/megszolalt-a-ksh-a-friss-adatokrol-a-kovetkezo-felulvizsgalat-atirhatja-a-mostani-gdp-adatot-873032",
+       "date": "okt. 30."
+      }
+     ]
+    },
+    {
+     "title": "A Költségvetési Tanács nem emelt kifogást a 2027-es büdzsé ellen",
+     "body": "A testület egyhangúlag zöld utat adott a 4,9%-os hiánycélú költségvetésnek, de hosszabb távon 3% alatti hiányt tart szükségesnek, és lefelé mutató globális kockázatokat lát.",
+     "why": "Elhárult az utolsó belföldi akadály a parlamenti vita elől; a hiánycél a forint és a hozamok szempontjából kulcskérdés.",
+     "sources": [
+      {
+       "name": "Telex",
+       "url": "https://telex.hu/gazdasag/2026/10/29/koltsegvetesi-tanacs-2027-es-koltsegvetes-tisza-kormany",
+       "date": "okt. 29."
+      },
+      {
+       "name": "HVG",
+       "url": "https://hvg.hu/gazdasag/20261029_koltsegvetesi-tanacs-budzse-tervezet-velemeny",
+       "date": "okt. 29."
+      }
+     ]
+    },
+    {
+     "title": "Vagyonadó: változott a parlament elé került javaslat",
+     "body": "A nettó vagyon első 1 milliárd forintja mentes, 100 milliárdig 1%, felette 1,5% az adó. A benyújtott változatban a legfeljebb 100 millió forint saját tőkéjű cégeknél egyszerűbb, saját tőkén alapuló értékelés választható, a negatív saját tőke nullának számít. Hatályba lépés: 2026. december 15.",
+     "why": "A cégtulajdonosokat a cégérték megállapítása érinti a leginkább; nő az igény könyvelői és értékbecslői tanácsadásra.",
+     "sources": [
+      {
+       "name": "HVG (cím és lead)",
+       "url": "https://hvg.hu/gazdasag/20261029_vagyonado-adozas-szabalyok-ado",
+       "date": "okt. 29."
+      },
+      {
+       "name": "Portfolio (háttér)",
+       "url": "https://www.portfolio.hu/gazdasag/20261028/vagyonado-benyujtotta-a-kormany-a-torvenyjavaslatot-mutatjuk-mi-valtozott-872400",
+       "date": "okt. 28."
+      }
+     ]
+    },
+    {
+     "title": "Újra elérhetők az EGT- és Norvég Alapok: kb. 92 milliárd forint",
+     "body": "Kármán András pénzügyminiszter bejelentette, hogy Magyarország a 2021–2028-as ciklusban kb. 254 millió euróhoz juthat; zöld átállásra, egészségügyre, helyi közösségekre és kultúrára. Az előző ciklusban kb. 215 millió eurót veszített el az ország.",
+     "why": "Új pályázati csatorna civileknek, önkormányzatoknak és zöld projekteknek; az ütemezés még nem ismert.",
+     "sources": [
+      {
+       "name": "Portfolio",
+       "url": "https://www.portfolio.hu/gazdasag/20261030/fontos-bejelentes-magyarorszag-ismet-hozzafer-az-egt-es-norveg-alapok-forrasaihoz-873088",
+       "date": "okt. 30."
+      }
+     ]
+    },
+    {
+     "title": "A kormány megszüntetné az autópálya-koncessziót",
+     "body": "Vitézy Dávid miniszter szerint 2027. április 1-jétől az állami Magyar Közút venné át a gyorsforgalmi utak üzemeltetését az MKIF-től; ha nem jön létre megállapodás, az állam egyoldalúan lépne.",
+     "why": "Nagy állami vagyonkiszervezés visszafordítása; a kártérítési igények költségvetési kockázatot jelenthetnek.",
+     "sources": [
+      {
+       "name": "Portfolio",
+       "url": "https://www.portfolio.hu/gazdasag/20261030/a-tisza-kormany-az-autopalya-koncesszio-megszuntetesen-dolgozik-873034",
+       "date": "okt. 30."
+      }
+     ]
+    },
+    {
+     "title": "A Spar kötelezettségszegési eljárást kér Brüsszeltől a különadó miatt",
+     "body": "Az osztrák Spar-anyacég vezetője levélben kérte az Európai Bizottságot, hogy lépjen fel Magyarország ellen. A kereskedelmi szövetség szerint 2027-ben az 1–50 milliárd forintos sávban a kulcs 0,15%-ról 0,45%-ra emelkedik.",
+     "why": "A különadó-ügy az EU-val való kapcsolat új frontja lehet, a magasabb teher az árakba is beépülhet.",
+     "sources": [
+      {
+       "name": "Telex",
+       "url": "https://telex.hu/gazdasag/2026/10/29/osztrak-spar-magyar-kormany-europai-bizottsag-kotelezettsegszegesi-eljaras-kiskereskedelmi-kulonado",
+       "date": "okt. 29."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eu",
+   "title": "Európai Unió",
+   "items": [
+    {
+     "title": "2022 óta nem látott csúcson az európai gázár",
+     "body": "A holland TTF novemberi szerződése 101 euró/MWh fölé emelkedett; a héten kb. 8 eurót drágult a hideg idő, az alacsony tárolói töltöttség és az ázsiai LNG-verseny miatt. A téli határidős árak 96–100 euró körül vannak.",
+     "why": "Az egész télen nyomás alatt maradhat a vállalati rezsi és az infláció.",
+     "sources": [
+      {
+       "name": "Portfolio",
+       "url": "https://www.portfolio.hu/gazdasag/20261030/ujabb-csucson-az-europai-gazar-de-a-rossz-hir-csak-ezutan-jon-873046",
+       "date": "okt. 30."
+      }
+     ]
+    },
+    {
+     "title": "Havi 10 milliárd euróval drágább az EU olajszámlája",
+     "body": "A 2. negyedévben a havi nyersolajimport-számla 27,6 milliárd euró volt, 55,8%-kal több, mint tavaly, miközben a mennyiség alig nőtt; a dízel ára az év eleje óta 1,54-ről 2,14 euróra emelkedett.",
+     "why": "Ugyanez a mechanizmus kényszeríti szigorításra az EKB-t, és emeli a magyar cégek költségeit.",
+     "sources": [
+      {
+       "name": "Euronews Business",
+       "url": "https://hu.euronews.com/2026/10/29/europa-olajszamlaja-az-eu-havonta-10-milliard-euroval-tobbet-fizet-mint-2025-ben",
+       "date": "okt. 29."
+      }
+     ]
+    },
+    {
+     "title": "Kettészakadt az euróövezet: Franciaország zsugorodik, Németország nő",
+     "body": "A francia GDP a 3. negyedévben 0,1%-kal csökkent, az export 1,7%-kal esett. Németország negyedéves alapon 0,2%-kal nőtt, a négy negyedéves trend 2022 óta a leggyorsabb; Spanyolország 0,6%-kal bővült.",
+     "why": "A német élénkülés jó hír a magyar ipari exportnak, a francia gyengeség viszont a kötvénypiaci feszültséget növeli.",
+     "sources": [
+      {
+       "name": "Portfolio",
+       "url": "https://www.portfolio.hu/gazdasag/20261030/kellemetlen-meglepetes-zsugorodott-a-francia-gazdasag-873004",
+       "date": "okt. 30."
+      },
+      {
+       "name": "Portfolio",
+       "url": "https://www.portfolio.hu/gazdasag/20261030/negy-eve-nem-latott-teljesitmenyt-nyujtott-nemetorszag-873066",
+       "date": "okt. 30."
+      }
+     ]
+    },
+    {
+     "title": "Novembertől 2 eurós díj a nem uniós webshopos csomagokra",
+     "body": "Az EU november 1-jétől 2 eurós kezelési díjat vezet be az EU-n kívülről érkező e-kereskedelmi importra, főként a kínai alacsony értékű csomagok miatt; a 150 eurós vámmentesség júliusban megszűnt.",
+     "why": "Szűkül a Temu és a Shein árelőnye – a hazai webshopoknak kedvez a karácsonyi szezonban.",
+     "sources": [
+      {
+       "name": "Caixin Global (lead)",
+       "url": "https://www.caixinglobal.com/2026-10-29/eu-to-add-2-fee-on-e-commerce-imports-ahead-of-holiday-season-102498684.html",
+       "date": "okt. 29."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "usa",
+   "title": "USA",
+   "items": [
+    {
+     "title": "A vártnál gyorsabb, 3,4%-os amerikai növekedés",
+     "body": "Az amerikai GDP a 3. negyedévben évesítve 3,4%-kal bővült, a fogyasztás és az AI-beruházások hajtották. A november 3-i választáson 10 tagállam szavaz az adatközpontok fejlesztéséről, mert pártokon átívelő az ellenállás.",
+     "why": "Az erős növekedés és a 3% feletti maginfláció miatt a Fed inkább emelésre hajlik; a december 8–9-i ülésre kb. 79%-os esélyt áraz a piac.",
+     "sources": [
+      {
+       "name": "SCMP (lead)",
+       "url": "https://www.scmp.com/news/world/united-states-canada/article/3372628/us-economy-grows-faster-expected-34-3q-driven-consumers-ai-investment",
+       "date": "okt. 30."
+      },
+      {
+       "name": "investingLive",
+       "url": "https://investinglive.com/central-banks/fomc-decision-oct-28/",
+       "date": "okt. 28."
+      }
+     ]
+    },
+    {
+     "title": "Az FCC kitiltja a kínai laborokat az amerikai piacra szánt eszközök teszteléséből",
+     "body": "2028. december 1-jétől az USA-ba szánt elektronikát nem tesztelhetik olyan országok laborjai, amelyekkel nincs kölcsönös elismerési megállapodás; 2025-ben a kérelmek több mint 82%-át kínai laborok kezelték.",
+     "why": "Nő az USA-ba exportáló elektronikai cégek tanúsítási költsége – lehetőség az EU-s laboroknak.",
+     "sources": [
+      {
+       "name": "Caixin Global (lead)",
+       "url": "https://www.caixinglobal.com/2026-10-30/fcc-votes-to-ban-chinese-labs-from-testing-electronics-for-us-market-102498962.html",
+       "date": "okt. 30."
+      },
+      {
+       "name": "SCMP (lead)",
+       "url": "https://www.scmp.com/news/us/article/3372632/us-bans-chinese-labs-testing-electronics-ahead-trump-xi-meeting",
+       "date": "okt. 30."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kina",
+   "title": "Kína",
+   "items": [
+    {
+     "title": "Peking WTO-sértéssel vádolja az EU tervezett védintézkedéseit",
+     "body": "Kína szerint az EU által fontolgatott szélesebb importkorlátok sérthetik a WTO-szabályokat, és „minden szükséges intézkedést” megígért. Közben uniós tisztviselők a jüan felértékelését sürgetik Pekingben.",
+     "why": "Új EU–Kína kereskedelmi konfliktus rajzolódik ki; a kínai válaszlépések korábban az európai mezőgazdasági és luxustermékeket célozták.",
+     "sources": [
+      {
+       "name": "SCMP (lead)",
+       "url": "https://www.scmp.com/economy/china-economy/article/3372612/china-slams-eus-potential-new-trade-safeguards-says-they-may-violate-wto-rules",
+       "date": "okt. 29."
+      },
+      {
+       "name": "SCMP (cím)",
+       "url": "https://www.scmp.com/economy/china-economy/article/3372521/ahead-european-talks-beijing-wary-forced-appreciation-currency-analysts",
+       "date": "okt. 29."
+      }
+     ]
+    },
+    {
+     "title": "A Great Wall Bulgáriában szerel autót a vámok megkerülésére",
+     "body": "Évi 50 ezer autós összeszerelés indulhat 2027 első negyedévében; a cég tengerentúli eladásai 42%-kal nőttek, a kínaiak 24%-kal estek.",
+     "why": "A kínai gyártók Közép-Kelet-Európába költöznek a vámfal mögé – beszállítói lehetőség és verseny a munkaerőért.",
+     "sources": [
+      {
+       "name": "Caixin Global (lead)",
+       "url": "https://www.caixinglobal.com/2026-10-29/great-wall-motor-plans-assembly-in-bulgaria-in-renewed-european-push-102498703.html",
+       "date": "okt. 29."
+      }
+     ]
+    },
+    {
+     "title": "Megfeleződött a Mercedes személyautós profitja a kínai visszaesés miatt",
+     "body": "A korrigált működési eredmény 51%-kal 560 millió euróra esett, a kínai eladások 31%-kal csökkentek; a cég idén másodszor vágta az előrejelzését. Közben a BYD és a Geely nyeresége a külföldi eladások miatt ugrott.",
+     "why": "A német autóipar kínai gondjai közvetlenül érintik a kecskeméti gyárat és a magyar beszállítókat.",
+     "sources": [
+      {
+       "name": "Caixin Global (lead)",
+       "url": "https://www.caixinglobal.com/2026-10-29/mercedes-benz-passenger-car-profit-falls-51-as-china-sales-slump-102498696.html",
+       "date": "okt. 29."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "vilag",
+   "title": "Világpolitika",
+   "items": [
+    {
+     "title": "Trump újabb iráni csapásokat mérlegel, az Öböl-államok közvetlenül tárgyalnak",
+     "body": "Hegseth hadügyminiszter menesztette a Pentagon legfőbb katonai tervezőjét, miközben Trump újabb csapásokat fontolgat Irán ellen. Szaúd-Arábia először vesz részt közvetlenül az Iránnal folytatott diplomáciában; Rijád szerint Mekka közelében lelőtt egy húszi drónt.",
+     "why": "Közvetlen olajár-kockázat, amely az üzemanyagárakon és az inflációs várakozásokon át Európába is begyűrűzik.",
+     "sources": [
+      {
+       "name": "SCMP (cím)",
+       "url": "https://www.scmp.com/news/world/united-states-canada/article/3372530/hegseth-fires-pentagons-top-military-planner-trump-weighs-new-iran-strikes",
+       "date": "okt. 29."
+      },
+      {
+       "name": "SCMP (lead)",
+       "url": "https://www.scmp.com/news/world/middle-east/article/3372733/saudi-arabia-says-houthis-launched-drone-destroyed-near-mecca-group-denies",
+       "date": "okt. 30."
+      }
+     ]
+    },
+    {
+     "title": "Izrael: Netanjahu blokkja messze elmarad a többségtől",
+     "body": "A hivatalos eredmény szerint Netanjahu koalíciója 53, a fő ellenzék 48, az arab vezetésű pártok 19 mandátumot szereztek a 120 fős Kneszetben. A Likud „ellopott” választásról beszél; Netanjahu várhatóan ügyvivő kormányfő marad.",
+     "why": "Hetekig tartó politikai bizonytalanság egy olyan régióban, ahol Irán és Gáza ügye nyitott.",
+     "sources": [
+      {
+       "name": "SCMP (lead)",
+       "url": "https://www.scmp.com/news/world/middle-east/article/3372644/netanyahus-party-claims-election-stolen-results-show-him-losing-majority",
+       "date": "okt. 30."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "palyazatok",
+   "title": "Pályázatok & finanszírozás",
+   "items": [
+    {
+     "title": "IPARJOG: ma zárul egy szakasz, december 18. az utolsó",
+     "body": "Az NKFIH szabadalmi és iparjogvédelmi támogatása induló cégeknek, kkv-knak és magánszemély feltalálóknak szól, ötlet- vagy prototípus-fázisban. 100%-os, vissza nem térítendő: magyar szabadalmi bejelentésre 800 ezer, PCT-re 2,5 millió, védjegyre 100 ezer forint, pályázatonként legfeljebb 7,5 millió. Ma, október 30-án zárul egy értékelési szakasz, a következő és utolsó december 18-án. Egyszerű beadás, fix összegekkel.",
+     "why": "A kezdő vállalkozónak gyakorlatilag ingyen kerül a szellemi tulajdon védelme, ami a befektetőknek is érték. A keret kimerülését nem tudtuk ellenőrizni.",
+     "sources": [
+      {
+       "name": "NKFIH",
+       "url": "https://nkfih.gov.hu/palyazoknak/nkfi-alap/szellemi-alkotasok-szellemi-tulajdon-vedelme-2025-111-iparjog/palyazati-csomag/palyazati-felhivas",
+       "date": "lekérve okt. 30."
+      },
+      {
+       "name": "NKFIH (EN)",
+       "url": "https://nkfih.gov.hu/english-2017/nrdi-fund/support-of-activities-260316",
+       "date": "lekérve okt. 30."
+      }
+     ]
+    },
+    {
+     "title": "Hiventures: 17 milliárdos korai fázisú tőkeprogram, folyamatos jelentkezéssel",
+     "body": "Pre-seed és seed fázisú magyar startupoknak; kockázati tőke, másodlagos források szerint befektetésenként legfeljebb kb. 300 ezer euró. Fix határidő nincs. Pitch deck és átvilágítás kell, az alap részesedést szerez.",
+     "why": "A legnagyobb hazai állami forrás az első tőkekörhöz – a feltételeket a hiventures.hu-n érdemes ellenőrizni.",
+     "sources": [
+      {
+       "name": "Economx",
+       "url": "https://www.economx.hu/magyar-gazdasag/2026/02/18/hiventures-tokealap-startup-befektetes-824086/",
+       "date": "febr. 18."
+      }
+     ]
+    },
+    {
+     "title": "HSUP: az ötletfázis belépője egyetemistáknak",
+     "body": "A Hungarian Startup University Program képzést és mentorálást ad kreditért, egyes egyetemeken ösztöndíjjal; az első félévben egy angol nyelvű egyoldalas ötletleírást kell feltölteni az egyetemenként kitűzött határidőig. Nagyon egyszerű belépés.",
+     "why": "Ötletfázisú csapatoknak az inkubátoros pályák kapuja; a pontos határidőt az egyetemnél kell megnézni.",
+     "sources": [
+      {
+       "name": "ELTE SEK",
+       "url": "https://sek.wwwprod.elte.hu/en/hsup",
+       "date": "lekérve okt. 30."
+      }
+     ]
+    },
+    {
+     "title": "EIC Accelerator: november 4-én az év utolsó teljes pályázati köre",
+     "body": "Mélytechnológiai startupoknak és kkv-knak: jellemzően legfeljebb 2,5 millió euró vissza nem térítendő támogatás plusz EIC Fund tőke. A november 4-i kört csak az adhatja be, akinek a rövid pályázata már „GO” minősítést kapott; új jelentkező már 2027-et célozza.",
+     "why": "A legnagyobb EU-s startup-finanszírozás; a rövid pályázat folyamatosan beadható.",
+     "sources": [
+      {
+       "name": "FFG",
+       "url": "https://www.ffg.at/en/europa/heu/eic/calls/accelerator_open_2026",
+       "date": "lekérve okt. 30."
+      },
+      {
+       "name": "Zabala",
+       "url": "https://www.zabala.eu/news/eic-accelerator-2026-updates/",
+       "date": "2026"
+      }
+     ]
+    },
+    {
+     "title": "EIT Urban Mobility: legfeljebb 2,5 millió euró tőke, határidő november 16.",
+     "body": "Futó pre-seed, seed vagy A-kört bonyolító, városi mobilitási startupoknak, legalább prototípussal; tőke-társbefektetés VC-k mellett.",
+     "why": "Egy magyar mobilitási startup éppen zajló körét töltheti fel.",
+     "sources": [
+      {
+       "name": "EIT Urban Mobility",
+       "url": "https://www.eiturbanmobility.eu/call-for-proposals/financial-support-to-startups-open-call-3/",
+       "date": "lekérve okt. 30."
+      }
+     ]
+    },
+    {
+     "title": "További EU-s határidők: EIT Food és 28DIGITAL",
+     "body": "Az EIT Food koncepcióigazolási társfinanszírozása november 30-ig nyitott (összeg nem ellenőrzött). A 28DIGITAL – korábban EIT Digital – nagy nyelvi modellekkel foglalkozó startupoknak szóló LLM-BRIDGE gyorsítóprogramjának határideje egy másodlagos forrás szerint november 18. (nem megerősített).",
+     "why": "Ritka korai fázisú EU-s forrás agrár-élelmiszeripari és AI-startupoknak.",
+     "sources": [
+      {
+       "name": "EIT Food",
+       "url": "https://www.eitfood.eu/open-calls/proof-of-concept-co-financing-instrument-2",
+       "date": "lekérve okt. 30."
+      },
+      {
+       "name": "NKFIH Horizont Európa",
+       "url": "https://horizonteuropa.nkfih.gov.hu/hirek-esemenyek/hirek/europai-innovacios-260706",
+       "date": "júl. 6."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "connections": [
+  {
+   "title": "Az AI-számla: capex kontra pénzáram",
+   "body": "Az Alphabet, az Amazon és a Meta szabad pénzárama negatívba fordult, miközben az Nvidia már a vevője adósságáért is kezességet vállalna. Emelkedő kamatok mellett a piac azt jutalmazza, ahol az AI-költés gyorsan bevétellé válik (Azure, AWS), és bünteti, ahol a régi üzletet kannibalizálja (Google-keresés). Ugyanez a logika a startupoknál: a pénz a fizikai iparágakat és munkaerő-intenzív szolgáltatásokat átalakító AI felé megy."
+  },
+  {
+   "title": "Energia → infláció → kamat → forint",
+   "body": "A 115 dolláros olaj és a 2022 óta legmagasabb gázár miatt 3,8% az euróövezeti infláció; az EKB kivár, de decemberre emelést áraz a piac, a Fed is szigorúbb. Ez szűkíti a forint kamatelőnyét, a lassuló magyar GDP mellett pedig nehezebb tartani a 4,9%-os hiánycélt."
+  },
+  {
+   "title": "Kína a vámfal mögé költözik",
+   "body": "Az EU díjjal sújtja a kínai csomagokat és új védintézkedéseket fontolgat, az USA kitiltja a kínai teszteléseket – közben a kínai autógyártók Közép-Kelet-Európában építenek gyárat (Great Wall Bulgáriában, BYD Szegeden), a német prémiumgyártók pedig Kínában veszítenek. A régió egyszerre nyertese és kockázatviselője ennek."
+  },
+  {
+   "title": "A humanoidok ellátási lánca blokkokra szakad",
+   "body": "A Boston Dynamics koreai, Kínát elkerülő beszállítói hálózatot épít, az Xpeng saját akkumulátort gyárt, az Audi Ingolstadtban tesztel. Az aktuátor lesz a humanoidok stratégiai alkatrésze – ahogy az akkumulátor az elektromos autóké –, ez a magyar autóipari beszállítóknak is releváns."
+  }
+ ],
+ "opportunities": [
+  {
+   "title": "Szellemi tulajdon ingyen: IPARJOG december 18-ig",
+   "body": "Ötlet- vagy prototípus-fázisú feltalálóknak és induló cégeknek 100%-os támogatás a szabadalmi és védjegyeljárásra, egyszerű beadással.",
+   "risk": "A keret kimerülhet; a december 18-i az utolsó szakaszhatár."
+  },
+  {
+   "title": "Vertikális AI-ügynök hazai szakmai szolgáltatásokra",
+   "body": "A Ravical és a Dream körei igazolják a befektetői érdeklődést a könyvelést, jogot, tervezést automatizáló AI iránt; a nyílt Mistral-modell saját infrastruktúrán is futtatható.",
+   "risk": "A nagy nemzetközi szereplők gyorsan lokalizálhatnak, a hazai piac kicsi – a DACH- és CEE-terjeszkedést előre kell tervezni."
+  },
+  {
+   "title": "Poszt-kvantum titkosítási átvilágítás kkv-knak",
+   "body": "A NIST 2030–2035-ös menetrendje és a csökkenő qubit-becslések miatt nő az igény titkosítási leltárra és migrációs tanácsadásra.",
+   "risk": "Lassú kereslet, eltérő EU-s követelmények és a nagy integrátorok versenye."
+  },
+  {
+   "title": "Energiaköltség kiszámíthatóvá tétele",
+   "body": "Fix áras vagy határidős üzemanyag- és energiaszerződéssel csökkenthető a költségkockázat, a 100 euró feletti gázár mellett gyorsan megtérülnek a hatékonysági beruházások.",
+   "risk": "Egy amerikai–iráni megállapodás után gyorsan eshetnek az árak, és a lekötött fix ár drágább lesz a piacinál."
+  },
+  {
+   "title": "Hazai webshopok a karácsonyi szezonban",
+   "body": "A 2 eurós uniós csomagdíj és a megszűnt vámmentesség szűkíti a Temu és a Shein árelőnyét.",
+   "risk": "A kínai platformok európai raktárakkal megkerülhetik a díjat, és gyenge a fogyasztói kereslet."
+  }
+ ],
+ "calendar": [
+  {
+   "when": "Péntek, okt. 30.",
+   "what": "Lejár a decemberi Brent-szerződés; euróövezeti GDP- és inflációs adatok; IPARJOG-szakaszhatár"
+  },
+  {
+   "when": "Hétfő, nov. 2.",
+   "what": "Az Apple gyorsjelentése (nem megerősített dátum)"
+  },
+  {
+   "when": "Kedd, nov. 3.",
+   "what": "Amerikai félidős választás; JOLTS-adat"
+  },
+  {
+   "when": "Szerda, nov. 4.",
+   "what": "EIC Accelerator teljes pályázati határidő; amerikai Treasury refinanszírozási bejelentés"
+  },
+  {
+   "when": "Péntek, nov. 6.",
+   "what": "Amerikai munkaerőpiaci jelentés, 14:30 budapesti idő"
+  },
+  {
+   "when": "Nov. 16. / dec. 8–9. / dec. 17.",
+   "what": "EIT Urban Mobility határidő / Fed-ülés / EKB-ülés"
+  }
+ ]
+}
