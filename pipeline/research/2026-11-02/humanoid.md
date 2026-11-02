@@ -1,0 +1,58 @@
+# Humanoid robotika és fizikai AI – kutatási jelentés
+**Adás:** 2026. november 2., hétfő · **Időablak:** 2026. okt. 28. – nov. 2.
+
+---
+
+### 1. **Az Agility Robotics ma szavaztatja a SPAC-ügyletet: 620 helyett „csak” 465 millió dollár jön be**
+**Mi történt:** Az Agility Robotics és a Churchill Capital Corp XI okt. 30-i közös közleménye (SEC 8-K melléklet) szerint a tőzsdére lépéssel kb. 465 millió dollár bruttó tőke jön be. Ebből kb. 164 millió a SPAC letéti számlájáról, kb. 201 millió egy Foxconn vezette, részvényenként 10 dolláros PIPE-ból (tőzsdén kívüli tőkebevonás), 100 millió pedig már korábban beérkezett. Júniusban még 620 millió dollár feletti összeget vártak. A SPAC részvényesei ma, nov. 2-án szavaznak, a zárás nov. 4-re várható, a kereskedés a Nasdaqon „AGLT” jelöléssel nov. 5-én indulhat. A cég több mint 300 millió dollárnyi többéves, lekötött Digit 5 megrendelésről és 30-nál több potenciális ügyfélről beszél. A Robot Report szerint az S-4 dokumentum (a SPAC-egyesülés SEC-nél benyújtott regisztrációs nyilatkozata) 2025-re 1,8 millió dollár bevételt és 140 millió dollár működési veszteséget mutat.
+**Miért fontos:** Ez lehet az első tisztán humanoid-fejlesztő amerikai tőzsdei bevezetése, vagyis piaci árat kap a szektor. A letéti számla zsugorodása visszaváltásokra utal, ezt a közlemény nem mondja ki, csak a számokból következik. Tehát a befektetők a hype ellenére óvatosak a bevétel nélküli humanoid-cégekkel szemben. Az 1,8 millió dolláros bevétel és a több mint 300 millió dolláros megrendelésállomány között nagy a különbség.
+**Forrás:** SEC EDGAR (Churchill Capital Corp XI, 8-K, Ex. 99.1) – https://www.sec.gov/Archives/edgar/data/0002074973/000121390026114063/ea031030301ex99-1.htm – 2026. okt. 30. · The Robot Report rovatoldal, „Humanoid developer Agility now expects to raise $465M in SPAC deal” – https://www.therobotreport.com/category/robots-platforms/humanoids/ – 2026. okt. 30.
+
+### 2. **Unitree: 70%-kal nőtt a negyedéves bevétel, de a K+F miatt csökkent a profit**
+**Mi történt:** A Unitree augusztus 19-én lépett a sanghaji STAR Marketre (688836). Első tőzsdei gyorsjelentése szerint a Q3 árbevétel 665 millió jüan, kb. 70%-kal több, mint egy éve. A nettó profit viszont 17,4%-kal 112,7 millió jüanra esett, miközben az elemzők 224 millió jüant vártak. A K+F-kiadás 249,6%-kal 127 millió jüanra nőtt, ez a bevétel 19,1%-a. Az első kilenc hónap bevétele 55,7%-kal kb. 1,82 milliárd jüanra nőtt. A cég júliusig kb. 18 000 kétlábú humanoidot gyártott.
+**Miért fontos:** Ez az első tisztán humanoid-gyártó a kínai A-részvénypiacon, és nyereséges. A pénz most a hardverről a „robotagy” felé áramlik. Jó ellenpélda az Agilityhez: a kínai szereplők volumenben és bevételben már messze járnak (a bevétel a robotkutyákat is tartalmazza).
+**Forrás:** Humanoids Daily (Reuters alapján) – https://www.humanoidsdaily.com/news/unitree-q3-2026-revenue-growth-rd-profit – 2026. okt. 28.
+
+### 3. **A Physical Intelligence 20 milliárd dolláros értékeltségen gyűjtene 1 milliárdot**
+**Mi történt:** A Bloomberg szerint a San Franciscó-i Physical Intelligence (PI) legalább 1 milliárd dolláros körről tárgyal kb. 20 milliárd dolláros értékeltségen. A kört a meglévő befektetők, az Avenir és a Lux Capital vezethetik. Az év elején még 11,5 milliárd dollárra értékelték, és a cégnek továbbra sincs bevétele. A PI robot-alapmodelleket fejleszt (VLA: vision-language-action, vagyis látás–nyelv–cselekvés modell), és okt. 13-án béta API-t indított a finomhangoláshoz és a felhőben futó modellhíváshoz. Egyelőre csak tárgyalásokról van szó.
+**Miért fontos:** A robot-alapmodellek („robotagy”) értékeltsége kevesebb mint egy év alatt majdnem megduplázódott, bevétel nélkül. A tőke a szoftver- és adatréteget árazza legmagasabbra, nem a hardvert.
+**Forrás:** Humanoids Daily – https://www.humanoidsdaily.com/news/physical-intelligence-funding-talks-20-billion-valuation – 2026. okt. 28. · Eredeti: Bloomberg (fizetős) – https://www.bloomberg.com/news/articles/2026-10-27/robotics-lab-physical-intelligence-in-talks-for-a-20-billion-valuation – 2026. okt. 27.
+
+### 4. **A Meta kínai partnerrel, három hónap alatt épített otthoni humanoid-prototípust**
+**Mi történt:** A The Information értesülése szerint (az Engadget szemlézte) a Meta a kínai Fourierrel közösen kb. három hónap alatt épített egy „Max” kódnevű otthoni humanoid-prototípust. A robot kb. 1,5 méter magas és kb. 48 kg (106 font). Arckifejezéseket mutató kijelzője és hangszórója van, az NVIDIA Jetson Thor chipjei hajtják. Szeptember óta készül a Max 2, átdolgozott törzzsel és kezekkel, projektorral és lépcsőzéshez szükséges extra szenzorokkal. Tömegpiaci bevezetésnek nincs időpontja.
+**Miért fontos:** Egy amerikai big tech cég a kínai hardverellátási láncra támaszkodik, ami jól mutatja, hol tart Kína a robottestek gyártásában. Ellentmondásnak tűnik, hogy közben az USA–Kína technológiai feszültség nő. Megerősítetlen, egyetlen forrásra épülő hír.
+**Forrás:** Engadget – https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/ – 2026. nov. 1. · Humanoids Daily – https://www.humanoidsdaily.com/news/meta-fourier-max-humanoid-prototype – 2026. nov. 1. (eredeti: The Information, fizetős)
+
+### 5. **AgiBot innovációs nap: új alapmodell, 40 kg-ot emelő ipari robot és saját termelékenységi mérőszám**
+**Mi történt:** A sanghaji AgiBot okt. 29-i Innovation Day rendezvényén bemutatta a GO-3 Preview alapmodellt, a WITA-Omni 1.0 interakciós modellt és a G2 Max ipari robotot. Utóbbi 21 szabadsági fokkal rendelkezik, két karral 40 kg-ot emel, munkamagassága 0,1–2,5 m között állítható. Javasolt egy új mérőszámot is: a „Worken” = aktív robotok száma × autonóm munkaórák × kimeneti hatékonysági arány. A Link-U OS operációs rendszer teljes nyílt forráskódú kiadását 2026 végére ígérik. A cég szeptemberben gyártotta a 20 000. robotját, 2025-ös bevétele 1,05 milliárd jüan volt, hongkongi tőzsdei bevezetése júliusban indult.
+**Miért fontos:** A kínai szereplők már nem a látványos bemutatókat mérik, hanem a ténylegesen leadott munkaórát. Ez közelebb visz ahhoz, hogyan számol egy ipari vevő megtérülést. Figyelem: szponzorált tartalom, a teljesítményadatok a cég saját állításai.
+**Forrás:** Humanoids Daily (szponzorált) – https://www.humanoidsdaily.com/news/agibot-innovation-day-2026-worken-ai-models-g2-max – 2026. okt. 29.
+
+### 6. **Xpeng: kis szériában gyártják az IRON humanoid szilárdtest-akkumulátorát**
+**Mi történt:** Az Xpeng alelnöke, Gu Jie szerint az IRON humanoid saját fejlesztésű szilárdtest-akkumulátora kis szériás gyártásba lépett. A robot maga még a sorozatgyártás indulása (SOP) előtt áll. Számszerű adatot (energiasűrűség, kapacitás, üzemidő) nem közöltek. A CnEVPost szeptemberi értesülése szerint a sorozatrobotokba félszilárd akkumulátor kerülhet, ezt az Xpeng nem erősítette meg. A tömeggyártást 2026 végére, a szállításokat 2027-re, az európai megjelenést 2027 második félévére tervezik. A robotikai leányvállalat augusztusban több mint 900 millió dollárt vont be, több mint 6,3 milliárd dolláros értékeltségen.
+**Miért fontos:** Az akkumulátor és az üzemidő a humanoidok egyik szűk keresztmetszete. Az autógyártók (Xpeng, Tesla) az EV-ellátási láncukat viszik át a robotokba, ez komoly alkatrész-előnyt jelent.
+**Forrás:** Humanoids Daily – https://www.humanoidsdaily.com/news/xpeng-iron-solid-state-battery-small-batch-production – 2026. okt. 28.
+
+### 7. **Európai korai fázisú pénz: a párizsi Bleu Robotics 5 millió eurót vont be humanoid-betanító szoftverre**
+**Mi történt:** A párizsi Bleu Robotics 5 millió eurós pre-seed kört zárt. A kört a Contrarian Ventures és az OVNI Capital vezette, beszállt a Kvanted, a WEPA Ventures, a Motier Ventures és Charlie Songhurst is. A szoftver kb. 20 percnyi emberi bemutatásból tanítana be ipari humanoidokat új feladatokra. Az üzleti modell robotonkénti havi előfizetés, amelyet a robotgyártókon keresztül értékesítenének, a telepítést pedig rendszerintegrátorok végeznék. A termék még fejlesztés alatt áll.
+**Miért fontos:** Jó példa arra, hogy egy kis európai csapat is be tud lépni a humanoid-piacra hardver nélkül, a szoftver- és integrációs rétegben, akár előfizetéses modellel.
+**Forrás:** Humanoids Daily – https://www.humanoidsdaily.com/news/bleu-robotics-5m-industrial-humanoid-training – 2026. okt. 29.
+
+---
+
+## Lehetséges összefüggések
+- **Test kontra agy:** A Unitree (nyereséges hardver, kb. 18 000 humanoid) és az AgiBot (20 000 robot) a volument hozza. A PI eközben bevétel nélkül 20 milliárd dolláros értékeltségről tárgyal az „aggyal”, a Meta pedig kínai partnerrel építteti a testet. A munkamegosztás kezd kirajzolódni: a hardver kínai és olcsósodik, a prémiumot a modell és az adat kapja. (A Reuters nov. 2-i, a Japan Timesban megjelent elemzése ugyanerről szól. Csak a keresőben megjelent kivonatát láttam, a cikket nem tudtam megnyitni, így a számait, köztük a kínai embodied-AI cégeknek 2026 első félévében, 322 ügyletben jutott 93,5 milliárd jüant, nem ellenőriztem.)
+- **A tőkepiaci próba ezen a héten:** Az Agility nov. 5-i tőzsdei debütálása és a Unitree gyengébb profitja együtt jól mutatja, mennyire hajlandó a piac hosszú távú humanoid-ígéretekért fizetni.
+- **Autóipar mint első vevő és beszállító:** Az Xpeng akkumulátora, a Foxconn PIPE-ja az Agilityben, valamint a már ismert autóipari pilotok (BMW–Figure, Hyundai–Atlas, Audi–Agile Robots Ingolstadtban) ugyanarra mutatnak: az autóipar egyszerre vevő, ellátási lánc és finanszírozó.
+- **Közelgő események:** Humanoid Europe 2026, München, nov. 5–6. RoboWorld 2026, Goyang (Dél-Korea), nov. 4–7.
+
+## Lehetőségek (kockázattal)
+1. **Integrátori és betanító szolgáltatás magyar gyártóknak** (autóipari beszállítók, elektronikai összeszerelők). A Bleu Robotics-modell (robotonkénti előfizetés, rendszerintegrátoron át) lemásolható regionális szinten. *Kockázat:* a robotgyártók (AgiBot, Agility) maguk is építik a szoftverplatformjukat, és a robot-alapmodellek gyors fejlődése elavulttá teheti a köztes réteget.
+2. **Adatgyűjtés és teleoperáció mint szolgáltatás.** A PI és az AgiBot is az adatot tartja a fő szűk keresztmetszetnek. Egy alacsonyabb bérköltségű régióban működő, bemutatási és teleoperációs adatokat gyártó szolgáltatás (pl. kesztyűs adatgyűjtés) piacra találhat. *Kockázat:* árverseny a kínai adatgyárakkal, adatvédelmi és szerződéses (IP) kérdések, és ha a szimuláció olcsóbb lesz, csökkenhet a kereslet.
+3. **Pilot-tanácsadás és ROI-mérés kkv-knak.** Az AgiBot „Worken”-szerű, ténylegesen elvégzett munkán alapuló mérőszámai alapján független megtérülés-értékelés kínálható humanoid-pilotokhoz. *Kockázat:* a technológia még éretlen (Agility: 1,8 millió dolláros bevétel 2025-ben), a pilotok egy része nem jut el a skálázásig.
+4. **Befektetői oldal:** Az AGLT nov. 5-i tőzsdei debütálása és a Unitree részvénye közvetlen kitettséget ad a szektorra. *Kockázat:* SPAC-papíroknál gyakori a debütálás utáni esés, a lock-up lejárta (180 nap) eladási nyomást hozhat, és az értékeltségek bevétel nélküli vagy korai fázisú cégeken alapulnak. Ez nem befektetési tanács.
+
+## Megjegyzések a forrásokhoz
+- A Tesla Optimusról az időablakban nem találtam ellenőrizhető elsődleges forrást. Az okt. 21-i Q3 gyorsjelentésről csak gyenge minőségű aggregátor-oldalak írtak, egymásnak ellentmondó számokkal, ezért kihagytam.
+- A Figure, az Apptronik, az 1X, a Boston Dynamics, a UBTech és a Sanctuary esetében az időablakban nem találtam friss, ellenőrzött hírt.
+- A Japan Times / Reuters cikk (https://japantimes.co.jp/business/2026/11/02/china-robot-makers-race-brains, 2026. nov. 2.) nem volt elérhető (403), a tartalmát nem ellenőriztem.

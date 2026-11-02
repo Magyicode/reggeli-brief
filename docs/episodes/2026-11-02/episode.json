@@ -1,0 +1,1023 @@
+{
+ "date": "2026-11-02",
+ "title": "Választási hét: Intel-krach, olcsóbb olaj, 4,9%-os magyar hiánycél",
+ "coverage": "Lefedett időszak: 2026. okt. 30. (péntek este) – nov. 2. (hétfő reggel); humanoid robotika, startup és kvantum: okt. 28. – nov. 2.; pályázatok: nyitott felhívások a következő ~8 hétben.",
+ "headline": "Pénteken az Intel 1974 óta legrosszabb napjával a Nasdaq a legrosszabb hónapját zárta 2025 márciusa óta, hétfőre viszont az iráni „kétnapos terv” 110 dollárra nyomta a Brentet. Kedden amerikai félidős választás, a héten kamatemelési hullám jöhet Európában, itthon pedig benyújtották a 4,9%-os hiánnyal számoló 2027-es költségvetést.",
+ "markets": [
+  {
+   "label": "S&P 500 (péntek)",
+   "value": "okt. 30. zárás",
+   "change": "−1,82%"
+  },
+  {
+   "label": "Nasdaq Composite (péntek)",
+   "value": "okt. 30. zárás",
+   "change": "−2,86%"
+  },
+  {
+   "label": "Dow Jones (péntek)",
+   "value": "okt. 30. zárás",
+   "change": "kb. −1,1%"
+  },
+  {
+   "label": "S&P 500 határidős (hétfő)",
+   "value": "nov. 2. hajnal",
+   "change": "+0,5%"
+  },
+  {
+   "label": "BUX (péntek)",
+   "value": "145 257",
+   "change": "−1,3%"
+  },
+  {
+   "label": "Brent (jan.)",
+   "value": "109,67 $",
+   "change": "−3,31%"
+  },
+  {
+   "label": "WTI (dec.)",
+   "value": "100,64 $",
+   "change": "−3,34%"
+  },
+  {
+   "label": "EUR/HUF",
+   "value": "365,65",
+   "change": "+0,1%"
+  },
+  {
+   "label": "EUR/USD",
+   "value": "1,1163",
+   "change": "0,0%"
+  },
+  {
+   "label": "USA 10 éves",
+   "value": "kb. 4,93%",
+   "change": "−6 bp"
+  },
+  {
+   "label": "Bitcoin",
+   "value": "kb. 77 190 $",
+   "change": "−0,8%"
+  },
+  {
+   "label": "Kína NBS PMI (okt.)",
+   "value": "49,3",
+   "change": "50,1-ről"
+  }
+ ],
+ "sections": [
+  {
+   "id": "piacok",
+   "title": "Piacok",
+   "items": [
+    {
+     "title": "Tech-mészárlás pénteken: az Intel 1974 óta legrosszabb napja",
+     "body": "Október 30-án a Nasdaq Composite 2,86%-ot, az S&P 500 1,82%-ot, a Dow kb. 1,1%-ot esett. Az Intel 28,6%-ot zuhant, az Amazon (201,9 milliárd dolláros bevétel) és az Alphabet is csalódást okozott; az AMD, az ARM, a Qualcomm és a Marvell kb. 10%-ot esett. A Telex szerint több mint 1000 milliárd dollár piaci érték tűnt el. Októberben a Nasdaq kb. 5,3%-ot esett (2025 márciusa óta a legrosszabb hónap), a Dow viszont kb. 1,5%-ot emelkedett.",
+     "why": "A piac a negyedéves eredmények után az AI-beruházások megtérülését kérdőjelezi meg; a tőke a techből a „régi gazdaság” felé mozog.",
+     "sources": [
+      {
+       "name": "StockTitan",
+       "url": "https://www.stocktitan.net/articles/stock-market-today-live-october-30-2026",
+       "date": "okt. 30."
+      },
+      {
+       "name": "Yahoo Finance",
+       "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html",
+       "date": "okt. 30."
+      },
+      {
+       "name": "Telex",
+       "url": "https://telex.hu/gazdasag/2026/10/31/intel-amazon-google-techorias-reszveny-zuhanas-mesterseges-intelligencia-fejlesztes",
+       "date": "okt. 31."
+      }
+     ]
+    },
+    {
+     "title": "Hétfő reggel visszapattanás, az olaj 3%-ot esik",
+     "body": "Hétfő hajnalban az S&P 500 határidős +0,5%-on, a Nasdaq-100 határidős +0,9%-on állt, Ázsiában a KOSPI és a kínai részvények emelkedtek (a források a pontos számokban eltérnek). A Brent 3,31%-kal 109,67, a WTI 3,34%-kal 100,64 dollárra esett, miután Rubio szerint Trump a diplomáciát preferálja, Irán pedig katari közvetítéssel nyitott a megállapodásra. Az olaj októberben több mint 10%-ot drágult.",
+     "why": "A 100 dollár feletti olaj a fő inflációs motor; a hét kockázatai (választás, munkaerőpiaci adat, Apple) még hátravannak.",
+     "sources": [
+      {
+       "name": "CNBC",
+       "url": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html",
+       "date": "nov. 1–2."
+      },
+      {
+       "name": "CNBC",
+       "url": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
+       "date": "nov. 2."
+      },
+      {
+       "name": "Portfolio",
+       "url": "https://www.portfolio.hu/uzlet/20261102/rafordulunk-az-amerikai-felidos-valasztasra-mi-tortenik-a-piacokon-873480",
+       "date": "nov. 2."
+      }
+     ]
+    },
+    {
+     "title": "Kamatemelési hét: BoE, Riksbank, cseh jegybank",
+     "body": "A Dow Jones heti előzetese szerint a Bank of England csütörtökön várhatóan 25 bázisponttal 4,0%-ra emel, a Riksbank szerdán 87%-os, a cseh jegybank csütörtökön 84%-os árazott eséllyel szigorít. Az euróövezeti októberi infláció szerdán 3,9–4,0% lehet, a decemberi EKB-emelés esélye 63%. A Fed decemberi emelésére a piac 76%-os esélyt áraz; pénteken jön az októberi munkaerőpiaci jelentés (+55–65 ezer munkahely várható).",
+     "why": "A régiós (cseh) emelés és a magas olajár szűkíti az MNB mozgásterét és nyomást tehet a forintra.",
+     "sources": [
+      {
+       "name": "MarketScreener / Dow Jones Newswires",
+       "url": "https://www.marketscreener.com/news/week-ahead-for-fx-bonds-u-s-midterms-jobs-data-in-focus-boe-expected-to-raise-rates-ce785fd8dd8df427",
+       "date": "nov. 1."
+      },
+      {
+       "name": "CNBC",
+       "url": "https://www.cnbc.com/2026/11/01/oil-bond-yields-ai-market.html",
+       "date": "nov. 1."
+      }
+     ]
+    },
+    {
+     "title": "Binance: 6,3 milliárd dolláros feltörés után újraindultak a kifizetések",
+     "body": "A CNBC szerint a Binance egy 6,3 milliárd dolláros hackertámadás után újraindította a kifizetéseket, és közölte, hogy az ellopott felhasználói eszközök 90%-a fedezett; az FBI Észak-Koreát teszi felelőssé. A bitcoin hétfő reggel 77 ezer dollár körül, 0,8%-os mínuszban állt.",
+     "why": "A partnerkockázat a kriptopiac fő gyenge pontja marad, magas kamatok mellett ráadásul gyenge a kockázatvállalási kedv.",
+     "sources": [
+      {
+       "name": "CNBC (csak cím)",
+       "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
+       "date": "okt. 31."
+      },
+      {
+       "name": "Bloomberg (fizetős)",
+       "url": "https://www.bloomberg.com/news/articles/2026-10-31/fbi-blames-north-korea-for-6-billion-binance-crypto-hack",
+       "date": "okt. 31."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "title": "Tech & AI",
+   "items": [
+    {
+     "title": "A befektetők biztosítást vesznek a Big Tech adóssága ellen",
+     "body": "A WSJ szerint az Amazon, az Alphabet, a Microsoft, a Meta és az Oracle csődje elleni biztosítás (CDS) ára 2021 óta a legmagasabb, mert az AI-beruházásokat egyre inkább hitelből finanszírozzák. A Meta ugyanezen a héten legfeljebb 35 milliárd dolláros részvény- és elsőbbségirészvény-kibocsátást jelentett be.",
+     "why": "Az AI-capex a cash flow-ból a hitel- és részvénypiacra költözik; ha a lánc megfeszül, a neocloudok és a beszállítók érzik meg először.",
+     "sources": [
+      {
+       "name": "WSJ (fizetős)",
+       "url": "https://www.wsj.com/finance/stocks/ai-investors-are-racing-to-get-insurance-on-the-biggest-market-bet-in-history-a60e296f",
+       "date": "okt. 31–nov. 1. (Techmeme)"
+      },
+      {
+       "name": "SEC – Meta",
+       "url": "https://www.sec.gov/Archives/edgar/data/0001326801/000119312526431036/d116268dfwp.htm",
+       "date": "okt. vége"
+      }
+     ]
+    },
+    {
+     "title": "Dél-Korea duplájára emeli az AI- és chipköltést",
+     "body": "Li Dzsemjung elnök bemutatta a 2027-es, 820,9 billió wonos (kb. 610 milliárd dolláros) rekordköltségvetést, 12,8%-kal többet az ideinél. Félvezetőkre, fizikai AI-ra és AI-adatközpontokra 21,3 billió won jut, közel kétszerese a 2026-osnak, egy szuverén AI-modellre további 4,7 billió won. Az októberi export 93,7%-kal, rekord 115,3 milliárd dollárra nőtt a memóriachipek miatt.",
+     "why": "Az AI-boom egyik fő nyertese állami pénzzel erősít rá; a szuverén AI ipar- és biztonságpolitikai céllá válik, ez az EU-nak is mérce.",
+     "sources": [
+      {
+       "name": "CNBC",
+       "url": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html",
+       "date": "nov. 2."
+      },
+      {
+       "name": "Reuters",
+       "url": "https://www.reuters.com/world/asia-pacific/south-koreas-lee-vows-make-bold-ai-investment-record-budget-push-2026-11-02/",
+       "date": "nov. 2."
+      }
+     ]
+    },
+    {
+     "title": "Az Aramco 2,6 milliárd dollárért 49%-ot vesz a szaúdi Humainben",
+     "body": "A szaúdi olajóriás kb. 9,9 milliárd riyalért szerez 49%-ot a PIF tulajdonú AI-cégben, részben készpénzben, részben AI-, számítási és digitális eszközökkel fizetve. A 2025-ben indult Humain 2030-ra 3 gigawatt AI-adatközpont-kapacitást tervez és arab nyelvű modellt (ALLAM) fejleszt.",
+     "why": "Az olajpénz közvetlenül AI-infrastruktúrába megy; az Öböl-térség olcsó energiával az USA-val és Európával verseng.",
+     "sources": [
+      {
+       "name": "GamesBeat",
+       "url": "https://gamesbeat.com/saudi-arabias-aramco-buy-49-stake-in-ai-firm-humain-for-2-6b/",
+       "date": "nov. 1."
+      }
+     ]
+    },
+    {
+     "title": "Adatközpont-moratórium mint választási téma",
+     "body": "A The Information elemzése szerint akár 15 amerikai kormányzói versenyt is olyan jelölt nyerhet, aki az adatközpont-építés szüneteltetését támogatja. A The Real Deal Texasra, a Wired a New York-i moratóriumra vetítve dolgozta fel a témát. A Google energetikai vezetője közben azt mondta, az űrbe telepített adatközpont akár százszor drágább lehet a földinél.",
+     "why": "Az AI szűk keresztmetszete ma az áram, a víz és a helyi engedély; ha az amerikai államok fékeznek, a kapacitás máshová vándorol.",
+     "sources": [
+      {
+       "name": "The Information (fizetős)",
+       "url": "https://www.theinformation.com/articles/candidates-backing-data-center-pauses-win-15-governors-races",
+       "date": "hétvége"
+      },
+      {
+       "name": "The Real Deal",
+       "url": "https://therealdeal.com/texas/2026/11/01/how-will-the-governor-race-affect-data-center-policy/",
+       "date": "nov. 1."
+      },
+      {
+       "name": "The Information (fizetős)",
+       "url": "https://www.theinformation.com/articles/google-energy-chief-space-data-centers-cost-100-times-earth",
+       "date": "hétvége"
+      }
+     ]
+    },
+    {
+     "title": "AI-ügynökkel törték fel a Chainalysist; OpenAI-offenzíva jön a választás után",
+     "body": "A blokklánc-elemző Chainalysis közölte, hogy egy támadó „offenzív ágensalapú technikákkal” fért hozzá belső eszközeihez és felhasználói adatokhoz (nevek, e-mailek), nyomozati adatokhoz és jelszavakhoz viszont nem. Az Axios szerint az OpenAI a félidős választás utánra szakpolitikai és PR-kampányt tervez, amelynek része lehet az AI-fejlesztés „sebességkorlátainak” felvetése (a cikk nem volt elérhető, csak összefoglalóból).",
+     "why": "Az AI-ügynökös támadás már valós kockázat a kis cégeknek is; a szabályozási keret a választás utáni Kongresszusban dőlhet el.",
+     "sources": [
+      {
+       "name": "Chainalysis",
+       "url": "https://www.chainalysis.com/blog/security-incident-october-30/",
+       "date": "okt. 30."
+      },
+      {
+       "name": "Axios (nem elérhető, összefoglaló alapján)",
+       "url": "https://www.axios.com/2026/11/01/scoop-openai-post-midterm-policy",
+       "date": "nov. 1."
+      }
+     ]
+    },
+    {
+     "title": "EU: november 12-én zárul az AI-gigagyárak pályázata",
+     "body": "Az Európai Bizottság legalább hét AI-gigagyárra írt ki pályázatot, egyenként legalább 100 000 fejlett AI-chippel; a tudósítások 10 milliárd euró közpénzről és kb. 30 milliárd eurós össz-beruházásról írnak. A nyertesek 2027 elején derülnek ki; az Nvidia, az AMD és a Qualcomm szállítási szándéknyilatkozatot írt alá.",
+     "why": "Európa válasza a koreai, szaúdi és amerikai AI-infrastruktúra-versenyre; beszállítói lehetőség közép-európai cégeknek is.",
+     "sources": [
+      {
+       "name": "EU Digital Skills & Jobs Platform",
+       "url": "https://digital-skills-jobs.europa.eu/en/latest/news/eu-ai-gigafactories-call-open-until-12-november-targeting-over-eu30-billion-investment",
+       "date": "háttér, dátum nem ellenőrzött"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "humanoid",
+   "title": "Humanoid robotika",
+   "items": [
+    {
+     "title": "Az Agility Robotics ma szavaztatja a SPAC-ügyletet: 465 millió dollár jön be",
+     "body": "Az Agility és a Churchill Capital Corp XI közleménye szerint a tőzsdére lépéssel kb. 465 millió dollár bruttó tőke jön be: kb. 164 millió a SPAC letéti számlájáról, kb. 201 millió egy Foxconn vezette PIPE-ból, 100 millió már korábban. Júniusban még 620 millió felett vártak. A részvényesek ma szavaznak, a Nasdaq-kereskedés „AGLT” jelöléssel november 5-én indulhat. A cég 300 millió dollár feletti lekötött Digit-megrendelésről beszél, miközben 2025-ös bevétele 1,8 millió, működési vesztesége 140 millió dollár volt.",
+     "why": "Az első tisztán humanoid-fejlesztő amerikai tőzsdei bevezetése piaci árat ad a szektornak; a zsugorodó letét óvatos befektetőkre utal.",
+     "sources": [
+      {
+       "name": "SEC EDGAR – Churchill Capital Corp XI 8-K",
+       "url": "https://www.sec.gov/Archives/edgar/data/0002074973/000121390026114063/ea031030301ex99-1.htm",
+       "date": "okt. 30."
+      },
+      {
+       "name": "The Robot Report",
+       "url": "https://www.therobotreport.com/category/robots-platforms/humanoids/",
+       "date": "okt. 30."
+      }
+     ]
+    },
+    {
+     "title": "Unitree: 70%-os bevételnövekedés, de a K+F miatt esett a profit",
+     "body": "A sanghaji STAR Marketen augusztus óta jegyzett Unitree harmadik negyedéves bevétele kb. 70%-kal, 665 millió jüanra nőtt, a nettó profit viszont 17,4%-kal 112,7 millió jüanra esett (az elemzők 224 milliót vártak). A K+F-kiadás 249,6%-kal, 127 millió jüanra ugrott. A cég júliusig kb. 18 000 kétlábú humanoidot gyártott.",
+     "why": "A kínai szereplők volumenben és bevételben messze járnak; a pénz most a hardverről a „robotagy” felé megy.",
+     "sources": [
+      {
+       "name": "Humanoids Daily (Reuters alapján)",
+       "url": "https://www.humanoidsdaily.com/news/unitree-q3-2026-revenue-growth-rd-profit",
+       "date": "okt. 28."
+      }
+     ]
+    },
+    {
+     "title": "A Physical Intelligence 20 milliárd dolláros értékeltségről tárgyal",
+     "body": "A Bloomberg szerint a robot-alapmodelleket fejlesztő San Franciscó-i Physical Intelligence legalább 1 milliárd dolláros körről tárgyal kb. 20 milliárd dolláros értékeltségen; az év elején még 11,5 milliárdra értékelték, és továbbra sincs bevétele. Október 13-án béta API-t indított.",
+     "why": "A legmagasabb árat a tőke a szoftver- és adatrétegre, a „robotagyra” adja, nem a hardverre.",
+     "sources": [
+      {
+       "name": "Humanoids Daily",
+       "url": "https://www.humanoidsdaily.com/news/physical-intelligence-funding-talks-20-billion-valuation",
+       "date": "okt. 28."
+      },
+      {
+       "name": "Bloomberg (fizetős)",
+       "url": "https://www.bloomberg.com/news/articles/2026-10-27/robotics-lab-physical-intelligence-in-talks-for-a-20-billion-valuation",
+       "date": "okt. 27."
+      }
+     ]
+    },
+    {
+     "title": "A Meta kínai partnerrel három hónap alatt épített otthoni humanoidot",
+     "body": "A The Information értesülése szerint (Engadget szemlézte) a Meta a kínai Fourierrel közösen kb. három hónap alatt építette meg a „Max” kódnevű, kb. 1,5 méteres, 48 kilós otthoni humanoid-prototípust, amelyet Nvidia Jetson Thor chipek hajtanak. Szeptember óta készül a Max 2; piaci bevezetésnek nincs időpontja, a Meta nem erősítette meg a hírt.",
+     "why": "Egy amerikai óriás a kínai hardverláncra támaszkodik, miközben nő az USA–Kína technológiai feszültség.",
+     "sources": [
+      {
+       "name": "Engadget",
+       "url": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/",
+       "date": "nov. 1."
+      },
+      {
+       "name": "Humanoids Daily",
+       "url": "https://www.humanoidsdaily.com/news/meta-fourier-max-humanoid-prototype",
+       "date": "nov. 1."
+      }
+     ]
+    },
+    {
+     "title": "AgiBot „Worken” mérőszám, Xpeng szilárdtest-akku, európai pre-seed kör",
+     "body": "A sanghaji AgiBot bemutatta a 40 kilót emelő G2 Max ipari robotot és a „Worken” mérőszámot (aktív robotok × autonóm munkaórák × hatékonyság); a cég szeptemberben gyártotta a 20 000. robotját (szponzorált forrás). Az Xpeng IRON humanoidjának saját szilárdtest-akkumulátora kis szériás gyártásba lépett, a robot tömeggyártása 2026 végére, európai megjelenése 2027 második felére várható. A párizsi Bleu Robotics 5 millió eurós pre-seed kört zárt humanoid-betanító szoftverre, robotonkénti havi előfizetéssel.",
+     "why": "A kínaiak már ledolgozott munkaórát mérnek; az autógyártók az EV-láncukat viszik át a robotokba; egy kis európai csapat hardver nélkül, szoftverrel is beléphet.",
+     "sources": [
+      {
+       "name": "Humanoids Daily (szponzorált)",
+       "url": "https://www.humanoidsdaily.com/news/agibot-innovation-day-2026-worken-ai-models-g2-max",
+       "date": "okt. 29."
+      },
+      {
+       "name": "Humanoids Daily",
+       "url": "https://www.humanoidsdaily.com/news/xpeng-iron-solid-state-battery-small-batch-production",
+       "date": "okt. 28."
+      },
+      {
+       "name": "Humanoids Daily",
+       "url": "https://www.humanoidsdaily.com/news/bleu-robotics-5m-industrial-humanoid-training",
+       "date": "okt. 29."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "startup",
+   "title": "Startup-ökoszisztéma",
+   "items": [
+    {
+     "title": "Az Anthropic az IPO után „felső junk” hitelbesorolást kaphat",
+     "body": "Az FT értesülését idéző TechCrunch szerint a Blackstone BB-sávú besorolásra számít az Anthropicnál a tőzsdére lépés után, korábban befektetési kategóriát várt. Az október 26-i S-1 szerint a cég 2026 első félévi bevétele 16,3 milliárd dollár volt (14-szeres növekedés), a nettó veszteség 80 milliárd dollár, ennek kb. 90%-a átváltható kötvények és SAFE-ek valós értékének változásából ered. A WSJ nem megerősített hírei szerint a bevezetés a november 16-i héten lehet.",
+     "why": "Az AI-cégek finanszírozása az adósságpiacra terjed; tanulság, hogyan lesz egy gyorsan növő cégnek óriási papíron veszteség a SAFE-ek számviteli hatása miatt.",
+     "sources": [
+      {
+       "name": "TechCrunch",
+       "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+       "date": "okt. 30."
+      },
+      {
+       "name": "Crunchbase News",
+       "url": "https://news.crunchbase.com/public/anthropic-ipo-filing-ai-earnings-growth-risks/",
+       "date": "okt. 26."
+      }
+     ]
+    },
+    {
+     "title": "A hét legnagyobb amerikai körei: fizikai AI és predikciós piac",
+     "body": "A Crunchbase okt. 24–30. közötti listáján a Re:Build (gyártás) 2,1 milliárd, a Kalshi (predikciós piac) 1 milliárd dollárt vont be 40 milliárdos értékelésen, a Bedrock Robotics (építőipari robotika) 600 milliót 4,1 milliárdos értékelésen. A Crunchbase szerint a robotikai startupok finanszírozása a 3. negyedévben 185%-kal nőtt.",
+     "why": "A fizikai AI lett az új megakör-kategória; a szabályozott predikciós piacok bevett eszközosztállyá válnak.",
+     "sources": [
+      {
+       "name": "Crunchbase News",
+       "url": "https://news.crunchbase.com/venture/biggest-rounds-startups-physical-ai-predictions-robotics-rebuild/",
+       "date": "okt. 30."
+      }
+     ]
+    },
+    {
+     "title": "Az OpenAI-támogatású Thrive Holdings megveszi az ADT-t",
+     "body": "A Josh Kushner Thrive Capitaljából kivált Thrive Holdings részvényenként 10 dollárt, összesen kb. 7,6 milliárd dollárt fizet az ADT saját tőkéjéért, a vállalatérték 15,3 milliárd dollár. A holding hagyományos cégeket vásárol, és az OpenAI modelljeivel, kihelyezett mérnökökkel alakítja át őket; már több mint 75 cég van a portfóliójában.",
+     "why": "Új modell: VC-ből kinőtt holdingok érett cégeket vesznek és AI-jal frissítenek fel; a private equity és a kockázati tőke hibridje.",
+     "sources": [
+      {
+       "name": "TechCrunch",
+       "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+       "date": "okt. 29."
+      }
+     ]
+    },
+    {
+     "title": "Szorul a seed-szegmens: az A-kör ma bevételi küszöb",
+     "body": "A Crunchbase vendégelemzése szerint idén szeptember végéig legalább 114 darab 100 millió dollár feletti A-kör zárult, több mint 70%-uk AI-cégeké, miközben az USA-ban a 3. negyedévben 28%-kal kevesebb A-kör volt, mint egy éve. A 2024-es seed-évfolyamnak csak 16%-a jutott túl a seed-fázison (2020-ig 55% felett volt); az A-kör befektetői ma 2–4 millió dollár éves visszatérő bevételt várnak.",
+     "why": "Kezdő alapítónak a legfontosabb tanulság: nagyobb seed helyett megismételhető értékesítésre és két évnél hosszabb seed–A átfutásra kell tervezni.",
+     "sources": [
+      {
+       "name": "Crunchbase News",
+       "url": "https://news.crunchbase.com/seed/jumbo-seriesa-squeeze-seed-startup-funding-schroder-mgv/",
+       "date": "okt. 29."
+      }
+     ]
+    },
+    {
+     "title": "Pipedrive: az észt startup-ikon helyi létszámának 70%-át leépíti",
+     "body": "A Vista Equity tulajdonában lévő Pipedrive Észtországban 267 munkahelyet szüntet meg (a 380 fős helyi létszám kb. 70%-át), bezárja a kb. 220 fős lisszaboni irodát és a prágai egységet. A vezérigazgató szerint az organikus webes forgalom erősen visszaesett, a fizetett ügyfélszerzés drágult, az ügyfelek AI-automatizálást várnak. A cég tavaly 237 millió eurós bevétel mellett nyereséges volt.",
+     "why": "Az AI már nyereséges SaaS-cégek modelljét is megbontja; figyelmeztetés minden keresőforgalomra épülő alapítónak.",
+     "sources": [
+      {
+       "name": "Estonian World",
+       "url": "https://estonianworld.com/business/estonias-pipedrive-to-cut-70-of-local-workforce-as-ai-disrupts-its-business-model",
+       "date": "nov. 1."
+      }
+     ]
+    },
+    {
+     "title": "Európa: 60+ ügylet egy hét alatt, új early-stage alapok",
+     "body": "A tech.eu szerint a héten több mint 60 európai ügylet zárult 1,3 milliárd eurót meghaladó értékben. Az Entourage 100 millió eurós második alapja két hét alatt túllépte a 75 milliós célt (AI, robotika, deeptech fókusz), a BY Venture Partners 60 millió dolláros harmadik alapot zárt, a nyereséges holland Braid kb. 34 millió eurót vont be.",
+     "why": "Az európai korai fázisú tőke bővül, az alapok gyorsan telnek, ez a seed-alapítóknak kedvez.",
+     "sources": [
+      {
+       "name": "tech.eu",
+       "url": "https://tech.eu/2026/10/30/startups-respond-to-britain-s-budget-greentech-alliance-acquires-intermobility-and-europe-s-biggest-seed-rounds-of-q3/",
+       "date": "okt. 30."
+      },
+      {
+       "name": "tech.eu",
+       "url": "https://tech.eu/2026/10/29/entourage-raises-eur100m-for-second-fund-targeting-ai-robotics-and-deeptech/",
+       "date": "okt. 29."
+      }
+     ]
+    },
+    {
+     "title": "Magyarország: 100 millió forint az IntelliHR-nek, startup-veterán a NIÜ élén",
+     "body": "Az Óbudai Egyetem alapja, az Óbuda Uni Venture Capital 100 millió forintot fektet az IntelliHR AI-alapú toborzóplatformba, amely fizikai munkakörökre önéletrajz nélküli, chates jelentkezést kínál; előbb a hazai piacot, majd Közép-Kelet-Európát célozzák. Október 28-án Tanács Zoltán miniszter Hild Imrét, az ÓUVC eddigi vezetőjét nevezte ki a Nemzeti Innovációs Ügynökség megbízott vezérigazgatójává; a végleges vezetőt nyílt pályázaton választják.",
+     "why": "Tipikus hazai korai kör (egyetemi VC, százmilliós jegy), és piaci VC-tapasztalatú vezető kerül az állami innovációs ügynökség élére.",
+     "sources": [
+      {
+       "name": "Startup Online",
+       "url": "https://startuponline.hu/100-millio-forintos-befektetest-kapott-a-magyar-toborzasi-startup-az-intellihr",
+       "date": "okt. 29."
+      },
+      {
+       "name": "Portfolio",
+       "url": "https://www.portfolio.hu/gazdasag/20261028/bejelentette-a-miniszter-nemzetkozi-tapasztalattal-rendelkezo-szakember-veszi-at-az-allami-ugynokseg-vezeteset-872560",
+       "date": "okt. 28."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kvantum",
+   "title": "Kvantum és deep tech",
+   "items": [
+    {
+     "title": "Alice & Bob: kb. 23 ezer macska-qubit elég lehet az RSA-2048 feltöréséhez",
+     "body": "A francia Alice & Bob az Inria, a CEA és az Edinburgh-i Egyetem kutatóival közös preprintje szerint 22 593 fizikai macska-qubittel 3,14 nap alatt faktorizálható az RSA-2048, ez kb. 40-szer kevesebb qubit a vezető transzmon-becsléseknél. A Bitcoin-féle elliptikus görbés titkosításhoz legfeljebb 29 588 qubit és 61,8 perc kellene. Ez erőforrásbecslés optimista feltevésekkel, nem hardveres demonstráció.",
+     "why": "A feltöréshez szükséges gépméret becslései zsugorodnak, ezért sürgetőbb a kvantumbiztos kriptográfiára (PQC) való átállás.",
+     "sources": [
+      {
+       "name": "Quantum Computing Report",
+       "url": "https://quantumcomputingreport.com/alice-bob-demonstrates-end-to-end-shors-algorithm-compilation-requiring-23000-cat-qubits-to-break-rsa-2048/",
+       "date": "okt. 30."
+      }
+     ]
+    },
+    {
+     "title": "IBM Quantum Safe és az első PQC-s bankkártya-tanúsítvány",
+     "body": "Az IBM piacra dobta kvantumbiztos átállást automatizáló csomagját; saját IT-jában 47 millió kódsort vizsgált át, és több mint 3900 kriptográfiai problémát talált. Az IDEMIA az iparágban elsőként kapott EMVCo-tanúsítványt egy PQC-algoritmusokat használó bankkártya-platformra.",
+     "why": "A kvantumbiztonság kész termékként jelent meg a vállalati IT-ban és a pénzforgalomban; audit- és migrációs piac épülhet rá.",
+     "sources": [
+      {
+       "name": "Quantum Computing Report",
+       "url": "https://quantumcomputingreport.com/ibm-launches-unified-quantum-safe-software-suite-to-automate-enterprise-pqc-migration/",
+       "date": "okt. 31."
+      },
+      {
+       "name": "Quantum Computing Report",
+       "url": "https://quantumcomputingreport.com/idemia-secure-transactions-achieves-industry-first-emvco-certification-for-post-quantum-payment-cards/",
+       "date": "okt. 30."
+      }
+     ]
+    },
+    {
+     "title": "A Foxconn a világ legnagyobb kvantumszámítógép-gyártója akar lenni",
+     "body": "Young Liu, a Foxconn elnöke a CNBC-nek azt mondta, a cég bérgyártóként, mások technológiáját gyártva akar a legnagyobb kvantumgép-gyártóvá válni; szerinte a kereskedelmi életképesség még legalább két év. Partnert, ügyfelet, összeget nem nevezett meg.",
+     "why": "A kvantumipar a laborból a gyártási és beszállítói szakaszba lép; a tervezés és a gyártás a chipiparhoz hasonlóan szétválhat.",
+     "sources": [
+      {
+       "name": "The Quantum Insider",
+       "url": "https://thequantuminsider.com/2026/10/30/foxconn-aims-to-become-worlds-largest-quantum-computer-manufacturer/",
+       "date": "okt. 30."
+      }
+     ]
+    },
+    {
+     "title": "EU Quantum Act: kiszorulhatnak a nem uniós irányítású beszállítók",
+     "body": "Az MLex egy kiszivárgott tervezetre hivatkozva azt írja, hogy a Bizottság november 18-án mutatná be a Quantum Actet, amely az EU-n kívülről irányított beszállítókat kizárhatná a közbeszerzésből, és kvantumbiztos titkosítást írna elő a kritikus ágazatok állami vevőinek. A dátumot csak ez az egy forrás állítja. Közben a finn IQM mind az 54 qubitját összefonta az Emerald processzoron.",
+     "why": "Az EU első iparpolitikai kvantumtörvénye „Buy European” elemmel védett piacot adhat az európai, köztük a magyar cégeknek.",
+     "sources": [
+      {
+       "name": "MLex (fizetős)",
+       "url": "https://www.mlex.com/mlex/articles/2543650/quantum-suppliers-may-face-eu-public-contract-restrictions-under-draft-quantum-act",
+       "date": "okt. 28."
+      },
+      {
+       "name": "Quantum Computing Report",
+       "url": "https://quantumcomputingreport.com/iqm-verifies-full-chip-entanglement-across-54-qubit-emerald-superconducting-processor/",
+       "date": "okt. 30."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "magyarorszag",
+   "title": "Magyarország",
+   "items": [
+    {
+     "title": "Benyújtották a 2027-es költségvetést: 4,9%-os hiány, 2,4%-os növekedés",
+     "body": "A Tisza-kormány első saját költségvetése péntek este 23:38-kor jelent meg a parlament.hu-n. A kiadási főösszeg kb. 47 587, a bevételi kb. 42 484 milliárd forint, a hiány 5102 milliárd, a GDP 4,9%-a, szemben a 2026-ra módosított 7,5%-kal. Az államadósság 77,5%-ról 77,2%-ra csökkenne; a terv 2,4%-os növekedéssel és 3%-os inflációval számol.",
+     "why": "Ebből látszik a konszolidáció hitelessége; az elemzők szerint a fő kockázat a 2,4%-os növekedési feltevés, miközben a harmadik negyedévben a gazdaság negyedéves alapon csak kb. 0,1%-kal nőtt.",
+     "sources": [
+      {
+       "name": "Telex",
+       "url": "https://telex.hu/gazdasag/2026/10/31/benyujtottak-a-2027-es-koltsegvetest",
+       "date": "okt. 31."
+      },
+      {
+       "name": "Telex – elemzők",
+       "url": "https://telex.hu/gazdasag/2026/10/31/koltsegvetes-2027-elemzok",
+       "date": "okt. 31."
+      },
+      {
+       "name": "HVG",
+       "url": "https://hvg.hu/gazdasag/20261031_koltsegvetes-2027-penzugyminiszterium-torveny-parlament",
+       "date": "okt. 31."
+      }
+     ]
+    },
+    {
+     "title": "Kik fizetik? Nagyvállalatok, bankok, kiskereskedelem, energiaszektor",
+     "body": "A társaságiadó-bevétel 1009 milliárdról 1432 milliárd forintra nő; az 500 millió eurónál nagyobb árbevételű cégek kulcsa 15%-ra emelkedik (tényleges teher 11,25%). Nő az innovációs járulék, a kiskereskedelmi különadó és az energiaszektor befizetése, visszatér a reklámadó, és 200 milliárdos vagyonadó jön. A Széchenyi Kártya Program kerete kb. 345 milliárdról kb. 250 milliárdra csökken, az uniós fejlesztési források felhasználása viszont 688 milliárdról 1616 milliárdra nőne.",
+     "why": "Kezdő vállalkozónak: szűkebb kedvezményes hitel, de több uniós pályázati lehetőség; a terhet a nagy cégek és különadós ágazatok viselik.",
+     "sources": [
+      {
+       "name": "Telex",
+       "url": "https://telex.hu/gazdasag/2026/10/31/koltsegvetes-2027-jogszabaly-adok-koltsegcsokkentes-hogyan-kik-fizetnek",
+       "date": "okt. 31."
+      }
+     ]
+    },
+    {
+     "title": "Kapitány István: több mint 4000 milliárd forint a gazdaságnak",
+     "body": "A gazdasági miniszter szerint a kormány 2027-ben költségvetési, uniós, nemzetközi és magánforrásokból együtt több mint 4000 milliárd forintot mozgósít a gazdaságra (a teljes cikket a kutató nem tudta ellenőrizni, csak a keresőrészletet).",
+     "why": "Ez a költségvetés növekedési lába; kérdés, mennyi az új pénz és mennyi az átcímkézett forrás.",
+     "sources": [
+      {
+       "name": "Telex",
+       "url": "https://telex.hu/gazdasag/2026/10/31/kapitany-istvan-koltsegvetes-4-ezer-milliard-forras-mozgositas-magyar-gazdasag",
+       "date": "okt. 31."
+      }
+     ]
+    },
+    {
+     "title": "Lezárult az Otthon Start, jön a Wekerle Plusz",
+     "body": "Október 31. volt az utolsó nap, hogy Otthon Starthoz adásvételi szerződést kössenek; a hitelkérelmet november 15-ig lehet a bankokhoz benyújtani. Az október 28-án indult Wekerle Plusz fix 3%-os kamata csak új építésű lakásra jár, a források szerint legfeljebb 50 millió forintig; az életkori sávról ellentmondó adatok jelentek meg.",
+     "why": "A használtlakás-kereslet visszaeshet, az újlakás-építés élénkülhet; ez az építőipari és ingatlanos vállalkozásokat közvetlenül érinti.",
+     "sources": [
+      {
+       "name": "money.hu",
+       "url": "https://tudastar.money.hu/hir/20261027/indul-wekerle-plusz-lakashitel-otthon-start-15-napos-turelmi-idovel-megszunik/",
+       "date": "okt. 27."
+      },
+      {
+       "name": "VG",
+       "url": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/otthon-start-veget-er-lakastamogatas-jon-a-wekerle",
+       "date": "nov. eleje"
+      }
+     ]
+    },
+    {
+     "title": "Stabil forint, elszámoltatási ügyek a hét elején",
+     "body": "Hétfő reggel az euró 365,7 forint körül állt, a piac nyugodtan fogadta a költségvetést; az alapkamat 5,5%, a következő MNB-döntés november 17-én lesz. A HVG heti összefoglalója szerint a lélegeztetőgép-ügyben a NAV Ausztriában is házkutatást tartott (több mint 660 millió forint adócsalás, 3 milliárd feletti pénzmosás gyanúja), Matolcsy Ádám és Stofa György ellen nemzetközi elfogatóparancs van érvényben.",
+     "why": "A korábbi gazdasági elit elszámoltatása a vagyonvisszaszerzés és az uniós források jogállamisági feltételei miatt is fontos.",
+     "sources": [
+      {
+       "name": "Economx",
+       "url": "https://www.economx.hu/gazdasag/2026/11/02/deviza-arfolyamok-forint-euro-dollar-vegyes-kep/",
+       "date": "nov. 2."
+      },
+      {
+       "name": "HVG",
+       "url": "https://hvg.hu/gazdasag/20261101_es-akkor-orban-furkeszei-es-portyazoi-is-felsorakoztak-matolcsyek-melle",
+       "date": "nov. 1."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eu",
+   "title": "Európai Unió",
+   "items": [
+    {
+     "title": "A Fitch negatívra rontotta Franciaország kilátását",
+     "body": "A Fitch megtartotta Franciaország A+ besorolását, de a kilátást negatívra rontotta gyengébb növekedés, drágább finanszírozás és a vártnál nagyobb hiány miatt. A francia GDP a harmadik negyedévben 0,1%-kal csökkent; Párizs 5% alatti hiánycélt ígér 2027-re.",
+     "why": "Az eurózóna második legnagyobb gazdasága gyakorlatilag recesszióban van; ez a francia–német piacra szállító magyar beszállítókat is érinti.",
+     "sources": [
+      {
+       "name": "Euronews",
+       "url": "https://www.euronews.com/2026/10/31/france-aims-for-responsible-2027-budget-as-fitch-downgrades-outlook",
+       "date": "okt. 31."
+      }
+     ]
+    },
+    {
+     "title": "Ukrajna-tárgyalások Európa nélkül; lejárt a herszoni tűzszünet",
+     "body": "Zelenszkij november 1-jén azt mondta, kész Törökországban találkozni Putyinnal; a Kreml szerint a következő amerikai–ukrán–orosz háromoldalú forduló Abu-Dzabiban lesz, európai képviselők nélkül (Zelenszkij szerint nov. 6–10. között). Vasárnap lejárt a háború eddigi leghosszabb helyi tűzszünete Herszonnál, hétfőre virradóra pedig az ukrán és az orosz légiriasztó alkalmazást is feltörték, hamis riasztásokkal.",
+     "why": "Az EU finanszírozza Ukrajnát (90 milliárd eurós hitel), de a tárgyalóasztalnál nincs helye; a feltételek a szankciókat és az energiaárakat is meghatározzák.",
+     "sources": [
+      {
+       "name": "Ukrinform",
+       "url": "https://www.ukrinform.net/rubric-polytics/4180321-zelensky-says-he-is-ready-to-meet-putin-in-turkiye.html",
+       "date": "nov. 1."
+      },
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings",
+       "date": "nov. 2."
+      },
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks",
+       "date": "okt. 28."
+      }
+     ]
+    },
+    {
+     "title": "Háttér: az EKB tartott, de decemberben emelhet; jóváhagyták a magyar SAFE-hitelt",
+     "body": "Az EKB október 29-én 2,50%-on hagyta a betéti kamatot, Lagarde szerint a Kormányzótanács egy emelésről is vitázott; a szeptemberi infláció 3,8% volt (másodlagos forrás). A Bizottság október 28-án jóváhagyta Magyarország 5,4 milliárd eurós SAFE védelmi hitelét; a kormány az eredeti igényt harmadára csökkentette, a Tanácsnak még jóvá kell hagynia.",
+     "why": "Egy decemberi EKB-emelés szűkíti az MNB terét; a SAFE olcsó uniós hitelből hozhat hazai védelmi beszállítói lehetőségeket.",
+     "sources": [
+      {
+       "name": "Babypips (másodlagos)",
+       "url": "https://www.babypips.com/analysis/headline-hold-now-hike-later-ecb-decision-october-2026-10-30",
+       "date": "okt. 30."
+      },
+      {
+       "name": "Euronews",
+       "url": "https://www.euronews.com/2026/10/28/hungarys-54bn-defence-loan-approved-as-eu-wraps-first-safe-round",
+       "date": "okt. 28."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "usa",
+   "title": "USA",
+   "items": [
+    {
+     "title": "Kedden félidős választás: a demokraták esélyesek",
+     "body": "November 3-án mind a 435 képviselőházi és 35 szenátusi helyről szavaznak, előzetesen már több mint 53 millióan voksoltak. Trump vasárnap Iowában és Kansasben kampányolt, ahol a demokrata Adam Hamilton 50–49-re vezet; a ForbesPredict szerint a demokraták 83%-os eséllyel szerzik meg a Képviselőházat és 84%-kal a Szenátust. Trump támogatottsága a Reuters/Ipsos felmérésében 32%.",
+     "why": "Egy demokrata Kongresszus lassíthatja Trump utolsó két évének törvényhozását és szigoríthatja az ellenőrzést; a választókat az üzemanyag- és élelmiszerárak, valamint az iráni háború mozgatja.",
+     "sources": [
+      {
+       "name": "The National",
+       "url": "https://www.thenationalnews.com/news/us/2026/11/01/donald-trump-makes-final-midterm-campaign-push/",
+       "date": "nov. 1."
+      },
+      {
+       "name": "Forbes (keresőkivonat)",
+       "url": "https://www.forbes.com/sites/saradorn/2026/11/01/latest-polls-in-2026-midterms-democrats-lead-nearly-all-key-senate-races/",
+       "date": "nov. 1."
+      }
+     ]
+    },
+    {
+     "title": "Trump a választás utánra halasztja a „túlkapacitás-vámokat”",
+     "body": "A Nikkei Asia szerint az amerikai hatóságok lezárták azokat a vizsgálatokat, amelyekre új vámokat lehetne alapozni Kína, Japán és több mint egy tucat másik gazdaság ellen, de a bevezetést a választás utánra halasztják. Október 28-án Trump a robotikai és ipari gépimportról is csak további tárgyalásokat rendelt el, vámot nem vetett ki.",
+     "why": "A választás után új vámhullám jöhet, ami az európai, köztük a magyar gépipari és autóipari beszállítói láncokat is érintheti.",
+     "sources": [
+      {
+       "name": "Nikkei Asia (fizetős)",
+       "url": "https://asia.nikkei.com/politics/u.s.-midterm-elections/trump-holds-off-overcapacity-tariffs-as-us-midterms-near",
+       "date": "okt. 30."
+      },
+      {
+       "name": "Bloomberg (fizetős)",
+       "url": "https://www.bloomberg.com/news/articles/2026-10-28/trump-delays-robotics-machinery-tariffs-in-favor-of-more-talks",
+       "date": "okt. 28."
+      }
+     ]
+    },
+    {
+     "title": "Háttér: a Fed tartott, de decemberben emelés jöhet",
+     "body": "Kevin Warsh Fed-elnök vezetésével a jegybank október 28-án 10–2 arányban 3,75–4,00%-on hagyta az alapkamatot; két tag emelést akart. A piac 76–83% közötti eséllyel áraz december 9-i negyedpontos emelést. Warsh szerint a politikának nem volt szerepe a döntésben, egyes közgazdászok szerint a választás előtti tartás a Fed függetlenségét kérdőjelezi meg.",
+     "why": "Felfelé mutató amerikai kamatpálya erősíti a dollárt, ez a forintra és a feltörekvő piaci finanszírozásra is hat.",
+     "sources": [
+      {
+       "name": "CNBC",
+       "url": "https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html",
+       "date": "okt. 29."
+      },
+      {
+       "name": "The Detroit News",
+       "url": "https://www.detroitnews.com/story/business/2026/10/28/fed-rate-decision-midterm-elections/92475123007/",
+       "date": "okt. 28."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kina",
+   "title": "Kína",
+   "items": [
+    {
+     "title": "A hivatalos PMI 49,3-ra esett, a magánszektori 52,0",
+     "body": "Az NBS hivatalos feldolgozóipari beszerzésimenedzser-indexe októberben 50,1-ről 49,3-ra esett (várakozás: 49,9–50,0), a nem feldolgozóipari 49,7-re. A RatingDog (korábban Caixin) magánszektori indexe viszont 52,0 lett, a termelés április óta a leggyorsabban nőtt; az exportárak azonban közel egy év után először csökkentek, az üzleti bizalom kilenchavi mélyponton van.",
+     "why": "Gyenge belső kereslet, árengedményekkel tartott export: Kína deflációt exportál Európába, a német autó- és gépipar, rajta keresztül a magyar beszállítók is érzik.",
+     "sources": [
+      {
+       "name": "CGTN",
+       "url": "https://news.cgtn.com/news/2026-10-31/China-s-manufacturing-PMI-at-49-3-non-manufacturing-PMI-at-49-7-1RGwN3PBXpu/share_amp.html",
+       "date": "okt. 31."
+      },
+      {
+       "name": "investingLive",
+       "url": "https://investinglive.com/news/china-private-factory-pmi-at-52-0-beats-forecasts-output-growth-fastest-since-april/",
+       "date": "nov. 2."
+      }
+     ]
+    },
+    {
+     "title": "Peking a tőzsde megtámasztásáról tárgyal 12 hetes esés után",
+     "body": "A CSI 300 rekordhosszú, 12 egymást követő héten át zárt mínuszban, a Shanghai Composite októberben 6,33%-ot, a Shenzhen Component 15,94%-ot esett. A jegybank és a felügyeletek hétfőn a nagybankokkal egyeztetnek a részvény-visszavásárlásokat finanszírozó eszközök finomításáról és egy 800 milliárd jüanos támogatási keret bővítéséről; a hírre a piacok emelkedéssel nyitottak.",
+     "why": "Az AI-hardver esése globális; a kínai állami beavatkozás fordulópont lehet, ha tényleges pénz is jön.",
+     "sources": [
+      {
+       "name": "The Standard (Hongkong)",
+       "url": "https://www.thestandard.com.hk/finance/article/347145/China-regulators-act-to-support-stocks-after-October-slump-mainland-media-reports",
+       "date": "nov. 1."
+      },
+      {
+       "name": "IBTimes AU",
+       "url": "https://www.ibtimes.com.au/chinese-stocks-rise-market-support-measures-1877717",
+       "date": "nov. 2."
+      }
+     ]
+    },
+    {
+     "title": "Tajvan: a kínai parti őrség zaklatja a hajóforgalmat",
+     "body": "Tajvan parti őrsége szerint Kína legújabb járőrözése a sziget keleti partjainál zaklatja a hajóforgalmat és nem létező joghatóságot próbál érvényesíteni; egy kínai hajó a vitatott Pratas-szigetek korlátozott vizeire is behatolt. Kína június óta szinte naponta küld hadihajókat és katonai gépeket a térségbe.",
+     "why": "A „szürkezónás” nyomás a hajózási útvonalakat és a biztosítási díjakat érinti; Tajvan a globális chipellátás kulcsa.",
+     "sources": [
+      {
+       "name": "The Japan Times / Reuters (keresőkivonat)",
+       "url": "https://japantimes.co.jp/news/2026/11/01/asia-pacific/taiwan-china-harassing-shipping",
+       "date": "nov. 1."
+      },
+      {
+       "name": "The Washington Post (fizetős)",
+       "url": "https://www.washingtonpost.com/world/2026/11/01/china-taiwan-coast-guard-pratas-islands/daa6c00e-d5f5-11f1-930a-e08f8086f5ac_story.html",
+       "date": "nov. 1."
+      }
+     ]
+    },
+    {
+     "title": "November 10.: lejárhat a ritkaföldfém-fegyverszünet; a DeepSeek pénzt kér a keresésért",
+     "body": "Kína november 10-ig függesztette fel a 2025 októberi ritkaföldfém-exportkorlátozásokat; az amerikai fél január 10-i hosszabbításról beszél, Peking ezt jogszabályban nem erősítette meg, de jelezte, hogy az Európába irányuló export folytatódik. A DeepSeek november 1-jétől 1000 keresési kérésenként 0,75 dollárt kér, nyílt súlyú V4.1-Flash modellje töredékáron fut a nyugati modellekhez képest.",
+     "why": "A határidő a magyarországi akkumulátor- és autógyárakat is érinti; a kínai olcsó nyílt modell árnyomást jelent az amerikai laborokra.",
+     "sources": [
+      {
+       "name": "Technology.org",
+       "url": "https://www.technology.org/2026/10/19/china-rare-earth-export-pause-november-10/",
+       "date": "okt. 19."
+      },
+      {
+       "name": "CNBC",
+       "url": "https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html",
+       "date": "okt. 15."
+      },
+      {
+       "name": "yuv.ai (másodlagos)",
+       "url": "https://yuv.ai/blog/deepseek-harness-v4-1-flash",
+       "date": "okt. 19."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "vilag",
+   "title": "Világpolitika",
+   "items": [
+    {
+     "title": "Irán „kétnapos tervvel” nyitná meg a Hormuzi-szorost",
+     "body": "A szoros 246 napja gyakorlatilag zárva van; az IMF PortWatch október 25-én 2 áthaladást mért a válság előtti napi kb. 85 helyett. Arakcsi iráni külügyminiszter katari közvetítéssel kidolgozott tervet ismertetett: első nap amerikai lépések, második nap a szoros megnyitása, feltételként a szankciók feloldásával és a befagyasztott pénzek felszabadításával. Áttörés nincs; az Axios szerint amerikai és izraeli tisztviselők nem zárják ki a hadműveletek újraindítását.",
+     "why": "Ma ez a világgazdaság legnagyobb egyedi kockázata: a szoros sorsa dönti el az olajár, az európai infláció és a kamatpálya irányát.",
+     "sources": [
+      {
+       "name": "ANI (keresőkivonat)",
+       "url": "https://aninews.in/news/world/middle-east/iran-araghchi-says-doha-consultations-outcome-depends-on-us-response-no-breakthrough-in-2-day-hormuz-reopening-plan20261101211323/",
+       "date": "nov. 1."
+      },
+      {
+       "name": "Straits Daily Brief",
+       "url": "https://straits.live/briefs/2026-11-02",
+       "date": "nov. 2."
+      }
+     ]
+    },
+    {
+     "title": "Brent 110 dollár körül: októberben 13%-ot drágult",
+     "body": "A Brent hétfő reggel kb. 109,75 dolláron állt, nagyjából 3%-kal a pénteki 113,43-as elszámolóár alatt; pénteken napon belül 117 dollár fölé is ment. Az iráni háború februári kitörése előtt az ár kb. 73 dollár volt.",
+     "why": "A 110 dolláros olaj az amerikai választás fő témája, és ez hajtja a Fed és az európai jegybankok kamatemelési hajlandóságát.",
+     "sources": [
+      {
+       "name": "FinanceFeeds (Reuters alapján)",
+       "url": "https://financefeeds.com/brent-crude-oil-price-110-monday-after-opec-plus-holds-december-targets-29-november-2027-meeting-bull-120-bear-104/",
+       "date": "nov. 2."
+      }
+     ]
+    },
+    {
+     "title": "Az OPEC+ decemberre is változatlanul hagyta a kitermelési célt",
+     "body": "A hét érintett ország vasárnapi online ülésén úgy döntött, decemberben is napi 31,01 millió hordós együttes kvótán marad; a következő ülés november 29-én lesz. A papíron megemelt kvóták és a tényleges kitermelés között nagy a szakadék: az OPEC magországai augusztusban kb. 5 millió hordóval termeltek kevesebbet a háború előttinél.",
+     "why": "Az OPEC+ nem tud és nem is akar beavatkozni, így az olajár szinte kizárólag Hormuzon múlik.",
+     "sources": [
+      {
+       "name": "Vanguard",
+       "url": "https://www.vanguardngr.com/2026/11/opec-holds-december-oil-output-steady-to-support-market-stability/",
+       "date": "nov. 2."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "palyazatok",
+   "title": "Pályázatok és finanszírozás",
+   "items": [
+    {
+     "title": "Hazai helyzetkép: második hete nincs új magyar ötletfázisú felhívás",
+     "body": "A kutatás második egymást követő adásnapon sem talált új, kifejezetten magyar pre-seed, ötletfázisú, inkubátoros vagy pitch-versenyes felhívást igazolt november–decemberi határidővel. A még nyitott hazai lehetőségek: NKFIH IPARJOG (dec. 18.), MFB Start hitel (dec. 31., megerősítendő), Hiventures (folyamatos), HSUP (egyetemenként). Az NFSZ megyei vállalkozóvá válási programjai (pl. Veszprém: legfeljebb 4 millió forint tőketámogatás álláskeresőknek) lezárultak, de érdemes figyelni más megyék kiírásait.",
+     "why": "Az igazi, vissza nem térítendő ötletfázisú pénz ma EU-s csatornákon érhető el; a hazai kínálat hitel- és társbefektetés-központú.",
+     "sources": [
+      {
+       "name": "Kormányhivatal Veszprém",
+       "url": "https://www.kormanyhivatalok.hu/kormanyhivatalok/veszprem/megye/hirek/hir/elindul-vallalkozz-veszprem-varmegyeben-2026-program",
+       "date": "szept. 1."
+      }
+     ]
+    },
+    {
+     "title": "NKFIH IPARJOG: 100%-os szabadalmi támogatás, határidő dec. 18.",
+     "body": "Kinek: induló cég, kkv és magánszemély feltaláló, ötlet- vagy prototípusfázisban. Mennyi és hogyan: vissza nem térítendő, 100%-os intenzitással, fix összegekkel – magyar szabadalmi bejelentés 800 ezer, PCT-bejelentés 2,5 millió, magyar védjegy 100 ezer, uniós védjegy 250 ezer forint; pályázatonként legfeljebb 7,5 millió forint, 2026-os keret 500 millió. Határidő: 2026. december 18., 12:00 (utolsó szakasz). Beadás: viszonylag egyszerű, elektronikusan az EPTK-ban; az október 16-i döntésben 159 projekt nyert.",
+     "why": "Gyakorlatilag ingyen jön a szellemitulajdon-védelem, ami befektetői tárgyaláson érték.",
+     "sources": [
+      {
+       "name": "NKFIH",
+       "url": "https://nkfih.gov.hu/english-2017/nrdi-fund/support-of-activities-260316",
+       "date": "döntés okt. 16., lekérve nov. 2."
+      }
+     ]
+    },
+    {
+     "title": "MFB Start Hitelprogram: hitel két lezárt üzleti év nélkül",
+     "body": "Kinek: induló cégek, amelyeknek nincs két lezárt üzleti évük. Mennyi és hogyan: kedvezményes hitel legfeljebb 25 millió forintig, beruházásra (legalább 10% önrész) és forgóeszközre (önrész nélkül). Határidő: másodlagos forrás szerint 2026. december 31., az mfb.hu-n nem megerősített – MFB Pontoknál ellenőrizendő. Beadás: közepes nehézségű, üzleti terv és banki bírálat kell.",
+     "why": "Kevés olyan hitel van, amely nem kér üzleti múltat; ha valóban év végén zárul, hét hét maradt.",
+     "sources": [
+      {
+       "name": "Financera (másodlagos)",
+       "url": "https://financera.hu/hitelek/kezdo-vallalkozoi-hitel/",
+       "date": "2026-ban frissítve"
+      }
+     ]
+    },
+    {
+     "title": "Hiventures és HSUP: tőke és ötletfázisú képzés",
+     "body": "Hiventures: 17 milliárd forintos korai fázisú program pre-seed és seed startupoknak, főként társbefektetésként angyalbefektetők és magánalapok mellett; folyamatos befogadás, pitch deck és átvilágítás kell. HSUP: egyetemistáknak szóló, kreditért járó képzés és mentorálás ötletfázisú csapatoknak, tőke nélkül; az egyoldalas ötletleírás határideje egyetemenként eltér, jellemzően november–december, a kari koordinátornál kell rákérdezni.",
+     "why": "A kezdőnek először angyalbefektetőt érdemes keresnie, az állami pénz erre épül; a HSUP az ötletfázis legolcsóbb belépője.",
+     "sources": [
+      {
+       "name": "Economx",
+       "url": "https://www.economx.hu/magyar-gazdasag/2026/02/18/hiventures-tokealap-startup-befektetes-824086/",
+       "date": "febr. 18."
+      },
+      {
+       "name": "ELTE",
+       "url": "https://sek.wwwprod.elte.hu/en/hsup",
+       "date": "lekérve nov. 2."
+      }
+     ]
+    },
+    {
+     "title": "EIC Accelerator: rövid pályázat holnap, nov. 3-án és dec. 1-jén",
+     "body": "Kinek: induló és növekedési fázisú deep tech kkv-k és startupok. Mennyi és hogyan: siker esetén vissza nem térítendő támogatás (jellemzően legfeljebb 2,5 millió euró) plusz EIC Fund-tőkebefektetés. Határidő: a rövid pályázatokat minden hónap első keddjén 17:00-kor gyűjtik – november 3. és december 1.; a teljes pályázatok utolsó 2026-os határa november 4. Beadás: a rövid pályázat viszonylag könnyű (online űrlap, pitch deck, videó), a teljes nehéz, interjúval.",
+     "why": "A most beadott rövid pályázattal a 2027-es körökre lehet pozicionálni; a 2027-es munkaprogram novemberben jöhet.",
+     "sources": [
+      {
+       "name": "Európai Bizottság – EIC",
+       "url": "https://eic.ec.europa.eu/eic-frequently-asked-questions/faqs-eic-accelerator_en",
+       "date": "lekérve nov. 2."
+      }
+     ]
+    },
+    {
+     "title": "EIT Urban Mobility (nov. 16.) és EIT Food PoC (nov. 30.)",
+     "body": "EIT Urban Mobility: városi mobilitási startupoknak, amelyek éppen pre-seed, seed vagy A-kört gyűjtenek; cégenként legfeljebb 2,5 millió euró társbefektetésként, legalább MVP kell; határidő november 16., 17:00, közepes nehézségű. EIT Food Proof-of-Concept: agrár- és élelmiszeripari startupoknak egy leendő nagyvállalati ügyféllel közös pilotra, átalányalapú altámogatás legfeljebb 60 ezer eurós projektekre; határidő november 30., 12:00, viszonylag egyszerű beadás.",
+     "why": "Ritka EU-s pénz, amely kifejezetten a pre-seed kört, illetve az első fizető ügyfél megszerzését támogatja.",
+     "sources": [
+      {
+       "name": "EIT Urban Mobility",
+       "url": "https://www.eiturbanmobility.eu/call-for-proposals/financial-support-to-startups-open-call-3/",
+       "date": "közzétéve 2025. dec. 23."
+      },
+      {
+       "name": "NKFIH Horizont Európa",
+       "url": "https://horizonteuropa.nkfih.gov.hu/hirek-esemenyek/hirek/europai-innovacios-260810",
+       "date": "aug. 10."
+      },
+      {
+       "name": "EIT Food",
+       "url": "https://www.eitfood.eu/open-calls/proof-of-concept-co-financing-instrument-2",
+       "date": "lekérve nov. 2."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "connections": [
+  {
+   "title": "Olaj → választás → Fed → forint",
+   "body": "A 110 dolláros Brent drága üzemanyagot jelent, ami rontja Trump esélyeit, és inflációs nyomással decemberi Fed-emelés felé tolja a piacot. Ugyanez az olaj hajtja a BoE, a Riksbank és a cseh jegybank emelését; az EKB is decemberre készül, így az MNB 5,5%-os alapkamatánál kevés a tér a csökkentésre."
+  },
+  {
+   "title": "AI-capex adósságból: Big Tech CDS, Anthropic-besorolás, Intel-krach",
+   "body": "A pénteki tech-esés, a Big Tech CDS-felárak 2021 óta legmagasabb szintje, a Meta 35 milliárdos kibocsátása és az Anthropic várható junk besorolása ugyanazt mutatja: az AI-beruházás finanszírozása drágul, és állami pénz (Korea, Szaúd-Arábia, EU-gigagyárak) lép be pótlásként."
+  },
+  {
+   "title": "Robottest Kínából, robotagy Amerikából",
+   "body": "A Unitree és az AgiBot tízezres darabszámot gyárt, a Meta kínai partnerrel építi a humanoidját, miközben a bevétel nélküli Physical Intelligence 20 milliárd dolláros értékeltségről tárgyal. A hardver kínai és olcsósodik, a felárat a modell és az adat kapja – és november 10-én lejárhat a ritkaföldfém-fegyverszünet, ami épp a motorok mágneseit érinti."
+  },
+  {
+   "title": "Kínai defláció → EU-ipar → magyar beszállítók és költségvetés",
+   "body": "A gyenge hivatalos PMI, az árengedményes export és a francia recesszió együtt nyomja a német és magyar autóipari beszállítói láncot, épp akkor, amikor a 2027-es magyar költségvetés 2,4%-os növekedéssel és a nagyvállalatok magasabb adójával számol."
+  }
+ ],
+ "opportunities": [
+  {
+   "title": "Szellemi tulajdon most, ingyen",
+   "body": "Akinek védhető ötlete van, december 18-ig 100%-os, fix összegű NKFIH IPARJOG-támogatással adhat be szabadalmat vagy védjegyet – ez a befektetői tárgyaláson közvetlen érték.",
+   "risk": "A keret fogyhat, az ügyvivői díjat előre ki kell fizetni."
+  },
+  {
+   "title": "Kvantumbiztos (PQC) felmérés kkv-knak és pénzügyi cégeknek",
+   "body": "Az IBM saját kódjában közel 4000 problémát talált, az EU Quantum Act PQC-előírást hozhat a közbeszerzésben: kriptográfiai leltár és migrációs tanácsadás iránt nőhet a kereslet.",
+   "risk": "A nagy szereplők automatizált eszközei lenyomhatják az árakat, a szabályozás csúszhat."
+  },
+  {
+   "title": "Humanoid-integráció és betanítás magyar gyártóknak",
+   "body": "A Bleu Robotics-modell (robotonkénti előfizetés, rendszerintegrátoron át) regionálisan lemásolható autóipari és elektronikai összeszerelőknek.",
+   "risk": "A robotgyártók maguk is építik a szoftverplatformjukat; az Agility 2025-ös bevétele 1,8 millió dollár volt – a technológia éretlen."
+  },
+  {
+   "title": "AI-ügynökös támadások elleni alapcsomag",
+   "body": "A Chainalysis és a Binance esete után a kis cégeknek is kell kétfaktoros azonosítás, jelszókezelő és phishing-tréning; a NIS2 is hajtja a keresletet.",
+   "risk": "Zsúfolt piac; szűk ágazati specializáció nélkül nehéz kitűnni."
+  },
+  {
+   "title": "Fedezés és fix kamat a kamatemelési hullám előtt",
+   "body": "Régiós emelések és erős dollár mellett exportőröknek és importőröknek érdemes most átgondolni az EUR/HUF fedezést és a fix kamatozású finanszírozást.",
+   "risk": "Ha egy hormuzi megállapodás letöri az olajat, a kamatok 2027-ben visszafordulhatnak. Nem befektetési tanács."
+  }
+ ],
+ "calendar": [
+  {
+   "when": "Hétfő (nov. 2.)",
+   "what": "Agility–Churchill SPAC-szavazás; kínai hatóságok egyeztetése a bankokkal; Apple-gyorsjelentés zárás után"
+  },
+  {
+   "when": "Kedd (nov. 3.)",
+   "what": "Amerikai félidős választás; EIC Accelerator rövid pályázati gyűjtés 17:00"
+  },
+  {
+   "when": "Szerda (nov. 4.)",
+   "what": "Euróövezeti októberi infláció (gyorsbecslés); Riksbank-döntés; EIC Accelerator teljes pályázati határidő"
+  },
+  {
+   "when": "Csütörtök (nov. 5.)",
+   "what": "Bank of England és cseh jegybank kamatdöntés; Agility (AGLT) Nasdaq-debütálás"
+  },
+  {
+   "when": "Péntek (nov. 6.)",
+   "what": "Amerikai októberi munkaerőpiaci jelentés"
+  },
+  {
+   "when": "Nov. 6–10.",
+   "what": "Amerikai–ukrán–orosz háromoldalú tárgyalás Abu-Dzabiban"
+  },
+  {
+   "when": "Nov. 10.",
+   "what": "Lejárhat a kínai ritkaföldfém-exportkorlátozások felfüggesztése"
+  },
+  {
+   "when": "Nov. 12.",
+   "what": "EU AI-gigagyár pályázati határidő"
+  },
+  {
+   "when": "Nov. 16.",
+   "what": "EIT Urban Mobility startup-felhívás határideje"
+  },
+  {
+   "when": "Nov. 17.",
+   "what": "MNB kamatdöntés"
+  }
+ ]
+}

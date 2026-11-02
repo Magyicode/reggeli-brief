@@ -1,0 +1,346 @@
+{
+ "segments": [
+  {
+   "speaker": "noemi",
+   "section": "intro",
+   "chapter": "Bevezető",
+   "text": "Jó reggelt, ez a Reggeli Brief, november másodika, hétfő. Noémi vagyok, és itt van velem Tamás, az elemzőnk. A hétvégét foglaljuk össze: egy kemény pénteki tőzsdenapot, az olaj meglepő esését, és egy hetet, amelyben kedden Amerika választ, Európában pedig sorra emelhetnek kamatot a jegybankok."
+  },
+  {
+   "speaker": "tamas",
+   "section": "intro",
+   "chapter": "Bevezető",
+   "text": "Jó reggelt! Egy mondatban: a piac továbbra is azt kérdezi, kifizetődik-e a mesterséges intelligenciára költött rengeteg pénz, közben az olaj Irán miatt diktál, itthon pedig végre látjuk a 2027-es költségvetést, négy egész kilenc tized százalékos hiánnyal."
+  },
+  {
+   "speaker": "noemi",
+   "section": "piacok",
+   "chapter": "Piacok",
+   "text": "Kezdjük a piacokkal. Mi történt pénteken?"
+  },
+  {
+   "speaker": "tamas",
+   "section": "piacok",
+   "chapter": "Piacok",
+   "text": "Az Intel huszonkilenc százalékot zuhant, ez 1974 óta a legrosszabb napja. Az Amazon és a Google anyacége is csalódást okozott. A technológiai Nasdaq közel három, a széles S&P ötszáz közel két százalékot esett, és a Nasdaq a legrosszabb hónapját zárta 2025 márciusa óta. A Telex szerint egyetlen nap alatt több mint ezermilliárd dollár piaci érték tűnt el. A BUX egy egész három tized százalékot esett. Hétfő reggelre viszont visszapattanás jött: a határidős indexek emelkednek, a Brent olaj pedig három százalékkal, száztíz dollár alá esett."
+  },
+  {
+   "speaker": "noemi",
+   "section": "piacok",
+   "chapter": "Piacok",
+   "text": "És mi jön a héten?"
+  },
+  {
+   "speaker": "tamas",
+   "section": "piacok",
+   "chapter": "Piacok",
+   "text": "Kamatemelési hét. Csütörtökön a Bank of England várhatóan négy százalékra emel, szerdán a svéd, csütörtökön a cseh jegybank is szigoríthat. A Fed decemberi emelésére a piac hetvenhat százalékos esélyt áraz, pénteken jön az amerikai munkaerőpiaci jelentés. A forint nyugodt, az euró háromszázhatvanöt forint hatvan fillér körül áll."
+  },
+  {
+   "speaker": "noemi",
+   "section": "tech",
+   "chapter": "Tech & AI",
+   "text": "Akkor tech. Tamás, a pénteki esés mögött mi a mélyebb történet?"
+  },
+  {
+   "speaker": "tamas",
+   "section": "tech",
+   "chapter": "Tech & AI",
+   "text": "Az, hogy az AI-beruházásokat egyre inkább hitelből finanszírozzák. A Wall Street Journal szerint az Amazon, a Google, a Microsoft, a Meta és az Oracle csődje elleni biztosítás, vagyis a hitel-nemteljesítési csereügylet ára 2021 óta nem volt ilyen magas. A Meta a héten legfeljebb harmincöt milliárd dolláros részvénykibocsátást jelentett be. A pénz tehát megvan, csak egyre drágább."
+  },
+  {
+   "speaker": "noemi",
+   "section": "tech",
+   "chapter": "Tech & AI",
+   "text": "És közben az államok beszállnak."
+  },
+  {
+   "speaker": "tamas",
+   "section": "tech",
+   "chapter": "Tech & AI",
+   "text": "Pontosan. Dél-Korea ma bemutatta a rekord, mintegy hatszázkilencven milliárd dolláros költségvetését, amelyben a chipekre, az adatközpontokra és a fizikai AI-ra szánt összeg közel megduplázódik, és külön pénz jut egy saját, szuverén AI-modellre. A koreai export októberben kilencvennégy százalékkal nőtt, rekordot döntött a memóriachipek miatt. Szaúd-Arábiában az Aramco két egész hat tized milliárd dollárért negyvenkilenc százalékot vesz a Humain nevű AI-cégben, amely 2030-ra három gigawattnyi adatközpontot tervez. Az EU-ban pedig november tizenkettedikén zárul a mesterségesintelligencia-gigagyárak pályázata, harminc milliárd eurós célzott beruházással."
+  },
+  {
+   "speaker": "noemi",
+   "section": "tech",
+   "chapter": "Tech & AI",
+   "text": "Amerikában viszont épp fékeznének?"
+  },
+  {
+   "speaker": "tamas",
+   "section": "tech",
+   "chapter": "Tech & AI",
+   "text": "A The Information szerint akár tizenöt kormányzói versenyt is olyan jelölt nyerhet, aki az adatközpont-építés szüneteltetését támogatja. A szűk keresztmetszet ma az áram, a víz és a helyi engedély, nem a chip. A biztonság is téma: a Chainalysis nevű blokklánc-elemző cég közölte, hogy egy támadó AI-ügynökökkel fért hozzá a belső rendszereihez. Ez már nem elmélet; egy kisvállalkozásnál is a kétfaktoros azonosítás a minimum."
+  },
+  {
+   "speaker": "noemi",
+   "section": "tech",
+   "chapter": "Tech & AI",
+   "text": "És mennyire tudnak ezek az AI-ügynökök ténylegesen dolgozni?"
+  },
+  {
+   "speaker": "tamas",
+   "section": "tech",
+   "chapter": "Tech & AI",
+   "text": "Erre jó ellensúly a SemiAnalysis új mérése: tizenegy gazdaságilag fontos területen, például chiptervezésben, jogban, pénzügyben és kiberbiztonságban teszteli a modelleket, valósághű szimulált környezetben. A legjobb modell is csak tizenkét százalékot ér el. Egy vállalkozónak ez azt üzeni, hogy az AI-ügynök ma kiváló asszisztens, de nem önálló munkavállaló, a folyamatot továbbra is embernek kell felügyelnie. Közben az OpenAI az Axios szerint a választás utánra politikai kampányt tervez, amelyben akár a fejlesztés sebességkorlátait is felvetné."
+  },
+  {
+   "speaker": "noemi",
+   "section": "humanoid",
+   "chapter": "Humanoid robotika",
+   "text": "Humanoid robotika. Ma egy fontos szavazás van."
+  },
+  {
+   "speaker": "tamas",
+   "section": "humanoid",
+   "chapter": "Humanoid robotika",
+   "text": "Igen, az Agility Robotics, a Digit nevű raktári robot gyártója egy úgynevezett SPAC-on, vagyis tőzsdei üres héjcégen keresztül lép a Nasdaqra, a részvényesek ma szavaznak, a kereskedés csütörtökön indulhat. A cég júniusban még hatszázhúsz millió dollárt várt, most négyszázhatvanöt jön be, ebből kétszázegy milliót egy Foxconn vezette befektetői kör ad. Érdemes látni a számokat: a cég tavalyi bevétele egy egész nyolc tized millió dollár volt, a működési vesztesége száznegyven millió. Több mint háromszáz millió dolláros lekötött megrendelésről beszélnek, de ez még ígéret."
+  },
+  {
+   "speaker": "noemi",
+   "section": "humanoid",
+   "chapter": "Humanoid robotika",
+   "text": "Kína közben gyárt."
+  },
+  {
+   "speaker": "tamas",
+   "section": "humanoid",
+   "chapter": "Humanoid robotika",
+   "text": "Gyárt, és nyereséges. A Unitree harmadik negyedéves bevétele hetven százalékkal nőtt, nagyjából hatszázhatvanöt millió jüanra, és júliusig mintegy tizennyolcezer humanoidot épített. Az AgiBot szeptemberben gyártotta a huszonezredik robotját, és új mérőszámot vezetett be, amely a ténylegesen ledolgozott robot-munkaórát méri. A Meta a The Information szerint kínai partnerrel, a Fourierrel három hónap alatt épített otthoni humanoid-prototípust. Közben a robotok szoftveres agyát fejlesztő Physical Intelligence bevétel nélkül húszmilliárd dolláros értékeltségről tárgyal. A minta tiszta: a test kínai és olcsósodik, a felárat az agy kapja."
+  },
+  {
+   "speaker": "noemi",
+   "section": "humanoid",
+   "chapter": "Humanoid robotika",
+   "text": "Van európai szál?"
+  },
+  {
+   "speaker": "tamas",
+   "section": "humanoid",
+   "chapter": "Humanoid robotika",
+   "text": "Van: a párizsi Bleu Robotics ötmillió eurót gyűjtött olyan szoftverre, amely nagyjából húsz perc emberi bemutatásból tanít be egy ipari humanoidot, robotonkénti havi előfizetéssel. Ez egy kis csapatnak is járható út, hardver nélkül."
+  },
+  {
+   "speaker": "tamas",
+   "section": "humanoid",
+   "chapter": "Humanoid robotika",
+   "text": "Még egy fontos részlet az ellátási láncból: az Xpeng IRON nevű humanoidjának saját fejlesztésű szilárdtest-akkumulátora kis szériás gyártásba lépett. A tömeggyártás az év végére, az európai megjelenés 2027 második felére várható. Az autógyártók tehát az elektromosautó-tudásukat viszik át a robotokba, és ez az üzemidőnél komoly előny."
+  },
+  {
+   "speaker": "noemi",
+   "section": "startup",
+   "chapter": "Startup-ökoszisztéma",
+   "text": "Startupok. Kezdjük a legnagyobb névvel."
+  },
+  {
+   "speaker": "tamas",
+   "section": "startup",
+   "chapter": "Startup-ökoszisztéma",
+   "text": "Az Anthropic tőzsdei bevezetése a november tizenhatodikai héten lehet, a TechCrunch szerint viszont a hitelminősítők az úgynevezett junk, vagyis spekulatív kategória felső sávjába sorolhatják. A tájékoztató szerint az első félévi bevétel tizenhat egész három tized milliárd dollár volt, tizennégyszeres növekedés, a nyolcvanmilliárdos nettó veszteség kilencven százaléka pedig átváltható befektetői papírok átértékeléséből jön. Tanulság egy alapítónak: a papíron mért veszteség és a működési veszteség két különböző dolog."
+  },
+  {
+   "speaker": "noemi",
+   "section": "startup",
+   "chapter": "Startup-ökoszisztéma",
+   "text": "És a kockázati tőke általában?"
+  },
+  {
+   "speaker": "tamas",
+   "section": "startup",
+   "chapter": "Startup-ökoszisztéma",
+   "text": "Kettévált. A héten a Kalshi predikciós piac egymilliárd dollárt gyűjtött negyvenmilliárdos értékelésen, a fizikai AI viszi a megaköröket. A Crunchbase elemzése szerint viszont a 2024-es seed-évfolyamnak csak tizenhat százaléka jutott tovább a következő körbe, és az A-kör befektetői ma két-négy millió dollár éves visszatérő bevételt várnak. Közben az észt Pipedrive, a régió egyik büszkesége, helyi létszámának hetven százalékát leépíti, mert az AI-keresők miatt eltűnt az organikus webes forgalma."
+  },
+  {
+   "speaker": "noemi",
+   "section": "startup",
+   "chapter": "Startup-ökoszisztéma",
+   "text": "Itthon?"
+  },
+  {
+   "speaker": "tamas",
+   "section": "startup",
+   "chapter": "Startup-ökoszisztéma",
+   "text": "Az Óbudai Egyetem kockázatitőke-alapja százmillió forintot tett az IntelliHR-be, amely önéletrajz nélküli, chates toborzást kínál fizikai munkakörökre. Az alap eddigi vezetője, Hild Imre pedig a Nemzeti Innovációs Ügynökség megbízott vezérigazgatója lett. Európában közben bővül a korai tőke: egy hét alatt hatvannál több ügylet, és több új, gyorsan megtelt alap."
+  },
+  {
+   "speaker": "noemi",
+   "section": "startup",
+   "chapter": "Startup-ökoszisztéma",
+   "text": "Volt egy furcsa felvásárlás is, nem?"
+  },
+  {
+   "speaker": "tamas",
+   "section": "startup",
+   "chapter": "Startup-ökoszisztéma",
+   "text": "Igen, az OpenAI-jal szövetséges Thrive Holdings megveszi az ADT nevű amerikai biztonsági céget, tizenöt egész három tized milliárd dolláros vállalatértéken. A modell az, hogy egy kockázati tőkéből kinőtt holding hagyományos cégeket vásárol, és mesterséges intelligenciával alakítja át őket. Ha ez beválik, a régi szolgáltatócégek, akár egy magyar kkv is, felvásárlási célponttá válhatnak."
+  },
+  {
+   "speaker": "noemi",
+   "section": "kvantum",
+   "chapter": "Kvantum",
+   "text": "Kvantum, röviden."
+  },
+  {
+   "speaker": "tamas",
+   "section": "kvantum",
+   "chapter": "Kvantum",
+   "text": "A francia Alice and Bob becslése szerint nagyjából huszonháromezer úgynevezett macska-qubittel három nap alatt feltörhető a ma általános RSA-titkosítás, negyvenszer kevesebb qubittel, mint a korábbi becslések. Ez számítás, nem kész gép, de az irány egyértelmű. Az IBM piacra dobta a kvantumbiztos átállást automatizáló csomagját, és a saját kódjában közel négyezer problémát talált. Az EU egy kiszivárgott tervezet szerint november tizennyolcadikán mutathatja be a kvantumtörvényét, amely a nem uniós irányítású beszállítókat kiszoríthatja a közbeszerzésből."
+  },
+  {
+   "speaker": "noemi",
+   "section": "kvantum",
+   "chapter": "Kvantum",
+   "text": "És ki gyártja majd ezeket a gépeket?"
+  },
+  {
+   "speaker": "tamas",
+   "section": "kvantum",
+   "chapter": "Kvantum",
+   "text": "A Foxconn, az Apple bérgyártója azt mondta, a világ legnagyobb kvantumszámítógép-gyártója akar lenni, mások technológiáját gyártva, ahogy a chipiparban. Szerinte a kereskedelmi áttörés még legalább két év. Közben a finn IQM mind az ötvennégy qubitját egyszerre összefonta, ami európai siker, bár épphogy a küszöb felett."
+  },
+  {
+   "speaker": "noemi",
+   "section": "magyarorszag",
+   "chapter": "Magyarország",
+   "text": "Magyarország. Péntek éjjel megjött a költségvetés."
+  },
+  {
+   "speaker": "tamas",
+   "section": "magyarorszag",
+   "chapter": "Magyarország",
+   "text": "Igen, este fél tizenkettő előtt. A hiány ötezer-száz milliárd forint, a GDP négy egész kilenc tized százaléka, szemben az idei hét és fél százalékkal. Két egész négy tized százalékos növekedéssel és háromszázalékos inflációval számol. Az elemzők szerint ez a növekedési feltevés a gyenge pont, hiszen a harmadik negyedévben a gazdaság negyedéves alapon gyakorlatilag stagnált."
+  },
+  {
+   "speaker": "noemi",
+   "section": "magyarorszag",
+   "chapter": "Magyarország",
+   "text": "Ki fizeti?"
+  },
+  {
+   "speaker": "tamas",
+   "section": "magyarorszag",
+   "chapter": "Magyarország",
+   "text": "Főleg a nagyvállalatok: az ötszázmillió eurónál nagyobb árbevételű cégek társasági adója tizenöt százalékra nő, emelkedik a kiskereskedelmi és az energiaszektor különadója, visszatér a reklámadó, és jön egy kétszázmilliárdos vagyonadó. A kezdő vállalkozónak fontos: a Széchenyi Kártya Program kerete nagyjából háromszáznegyvenöt milliárdról kétszázötven milliárdra csökken, az uniós források felhasználása viszont több mint duplázódna. Tehát kevesebb kedvezményes hitel, több pályázat. Közben lezárult az Otthon Start, a helyére lépő Wekerle Plusz fix három százalékos kamata már csak új építésű lakásra jár."
+  },
+  {
+   "speaker": "noemi",
+   "section": "eu",
+   "chapter": "Európai Unió",
+   "text": "Európa."
+  },
+  {
+   "speaker": "tamas",
+   "section": "eu",
+   "chapter": "Európai Unió",
+   "text": "A Fitch negatívra rontotta Franciaország kilátását, a francia gazdaság a harmadik negyedévben zsugorodott, ez a magyar beszállítóknak sem jó hír. Ukrajnánál pedig az a lényeg, hogy Zelenszkij kész Törökországban találkozni Putyinnal, a következő amerikai–ukrán–orosz forduló viszont Abu-Dzabiban lesz, európaiak nélkül. Az EU fizet, de nem ül az asztalnál. Vasárnap lejárt a herszoni helyi tűzszünet, éjjel pedig mindkét ország légiriasztó alkalmazását feltörték, hamis riasztásokkal."
+  },
+  {
+   "speaker": "noemi",
+   "section": "usa",
+   "chapter": "USA",
+   "text": "Amerika: holnap választás."
+  },
+  {
+   "speaker": "tamas",
+   "section": "usa",
+   "chapter": "USA",
+   "text": "Kedden a teljes Képviselőházról és harmincöt szenátusi helyről döntenek, már több mint ötvenhárom millióan szavaztak előre. A felmérések a demokratáknak kedveznek, még Kansasben is szoros a verseny, Trump támogatottsága harminckét százalék. A Nikkei szerint a Fehér Ház a választás utánra halasztotta az új, túlkapacitás miatti vámokat Kína, Japán és egy tucat ország ellen. Vagyis a választás után vámhullám jöhet, ami az európai gépipart is érintheti."
+  },
+  {
+   "speaker": "noemi",
+   "section": "kina",
+   "chapter": "Kína",
+   "text": "Kína."
+  },
+  {
+   "speaker": "tamas",
+   "section": "kina",
+   "chapter": "Kína",
+   "text": "Kettős kép. A hivatalos feldolgozóipari beszerzésimenedzser-index negyvenkilenc egész három tizedre esett, vagyis az ipar zsugorodik, a magánszektori index viszont ötvenkettő, bővülést jelez. A magyarázat: az export bírja, de árengedményekkel, Kína tehát olcsóságot exportál Európába. A kínai részvénypiac tizenkét hete esik, ez rekord, ma a hatóságok a nagybankokkal tárgyalnak a támogatásról. És fontos dátum: november tizedikén lejárhat a ritkaföldfém-exportkorlátozások felfüggesztése, bár Peking jelezte, hogy Európába folytatódik a szállítás."
+  },
+  {
+   "speaker": "noemi",
+   "section": "vilag",
+   "chapter": "Világpolitika",
+   "text": "És a világ: Hormuz."
+  },
+  {
+   "speaker": "tamas",
+   "section": "vilag",
+   "chapter": "Világpolitika",
+   "text": "A Hormuzi-szoros kétszáznegyvenhat napja gyakorlatilag zárva. Irán külügyminisztere katari közvetítéssel kétnapos tervet ismertetett: első nap amerikai lépések, második nap a szoros megnyitása, cserébe szankciófeloldásért. Áttörés még nincs, és az Axios szerint Washington nem zárja ki a katonai lépéseket sem. Az OPEC plusz vasárnap decemberre is változatlanul hagyta a kvótákat, így az olajár gyakorlatilag Hormuzon múlik. A háború előtt a Brent hetvenhárom dollár volt, most száztíz."
+  },
+  {
+   "speaker": "noemi",
+   "section": "palyazatok",
+   "chapter": "Pályázatok",
+   "text": "Pályázatok, kezdő vállalkozóknak. Tamás, mi van itthon?"
+  },
+  {
+   "speaker": "tamas",
+   "section": "palyazatok",
+   "chapter": "Pályázatok",
+   "text": "Őszintén: második hete nem találtunk új, kifejezetten ötletfázisú magyar felhívást. A legjobb élő lehetőség az NKFIH IPARJOG programja, december tizennyolcadikáig. Ez induló cégeknek és magánszemély feltalálóknak is szól, vissza nem térítendő, száz százalékos támogatás fix összegekkel: egy magyar szabadalmi bejelentésre nyolcszázezer, nemzetközi bejelentésre két és fél millió, védjegyre százezer forint, összesen legfeljebb hét és fél millió. Beadni viszonylag egyszerű, nincs bonyolult költségvetés, októberben százötvenkilenc projekt nyert."
+  },
+  {
+   "speaker": "noemi",
+   "section": "palyazatok",
+   "chapter": "Pályázatok",
+   "text": "És ha pénz kell, nem szabadalom?"
+  },
+  {
+   "speaker": "tamas",
+   "section": "palyazatok",
+   "chapter": "Pályázatok",
+   "text": "Az MFB Start hitel két lezárt üzleti év nélküli cégeknek ad legfeljebb huszonöt millió forintot kedvezményes hitelként, egy másodlagos forrás szerint év végéig, ezt az MFB Pontokon érdemes ellenőrizni. A Hiventures folyamatosan fogad pre-seed és seed startupokat, de jellemzően angyalbefektető mellé tesz pénzt. Egyetemistáknak a Hungarian Startup University Program az ingyenes belépő, az egyoldalas ötletleírás határidejét a kari koordinátornál kell megkérdezni."
+  },
+  {
+   "speaker": "noemi",
+   "section": "palyazatok",
+   "chapter": "Pályázatok",
+   "text": "Uniós oldalon?"
+  },
+  {
+   "speaker": "tamas",
+   "section": "palyazatok",
+   "chapter": "Pályázatok",
+   "text": "Holnap, kedden délután ötig adható be az Európai Innovációs Tanács gyorsítóprogramjának rövid pályázata, a következő gyűjtés december elseje. Ez mélytechnológiás cégeknek szól, sikeres teljes pályázatnál két és fél millió eurónyi támogatás plusz tőke jár. A városi mobilitásban dolgozó startupok november tizenhatodikáig pályázhatnak az EIT Urban Mobilitynél legfeljebb két és fél millió euró társbefektetésre, ha épp tőkét gyűjtenek. Élelmiszeripari startupoknak az EIT Food november harmincadikáig ad kisebb támogatást egy nagyvállalati ügyféllel közös kísérleti projektre."
+  },
+  {
+   "speaker": "noemi",
+   "section": "osszefugges",
+   "chapter": "Összefüggések",
+   "text": "Mi köti össze a mai napot?"
+  },
+  {
+   "speaker": "tamas",
+   "section": "osszefugges",
+   "chapter": "Összefüggések",
+   "text": "Az olaj. A száztíz dolláros Brent drágítja az üzemanyagot, ez Trump ellen dolgozik a választáson, és inflációs nyomással kamatemelés felé tolja a Fedet és az európai jegybankokat, ami szűkíti az MNB mozgásterét. A másik szál a pénz ára: a drágább kamat és a drágább AI-hitel együtt sújtja a techrészvényeket, ezért lép be pótlásként az állam, Koreától Szaúd-Arábián át az EU-ig. A harmadik szál Kína: olcsó robottestek, olcsó export, és november tizedikén a ritkaföldfémek, amelyek épp a robotmotorok mágneseihez kellenek."
+  },
+  {
+   "speaker": "noemi",
+   "section": "lehetoseg",
+   "chapter": "Lehetőségek",
+   "text": "És a lehetőségek?"
+  },
+  {
+   "speaker": "tamas",
+   "section": "lehetoseg",
+   "chapter": "Lehetőségek",
+   "text": "Három. Egy: ha van védhető ötleted, december tizennyolcadikáig szinte ingyen levédheted, a kockázat annyi, hogy a szabadalmi ügyvivő díját előre kell állni. Kettő: a kvantumbiztos titkosításra való átállás felmérése új szolgáltatási piac kkv-knak és bankoknak, bár a nagy cégek automatizált eszközei lenyomhatják az árakat. Három: a kamatemelési hullám előtt érdemes átgondolni a fix kamatot és az árfolyam-fedezést; ha viszont Hormuz megnyílik, gyorsan fordulhat a kép."
+  },
+  {
+   "speaker": "noemi",
+   "section": "zaras",
+   "chapter": "Zárás",
+   "text": "Ennyi volt a mai Reggeli Brief. A pontos forráslinkeket és a részletes írott összefoglalót megtaláljátok az appban. Ez nem befektetési tanácsadás. Köszönöm, Tamás!"
+  },
+  {
+   "speaker": "tamas",
+   "section": "zaras",
+   "chapter": "Zárás",
+   "text": "Köszönöm! Holnap a választás reggelén jelentkezünk. Jó hetet mindenkinek!"
+  }
+ ]
+}
