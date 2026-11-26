@@ -1,6 +1,12 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "title": "Vámhullám, Nvidia-hullámvasút és sorozatgyártásra kész humanoidok",
+   "headline": "Washington újabb vámokat javasol 14 partnerre, köztük az EU-ra és Kínára, a 3,8%-os amerikai infláció mellett szinte biztos a decemberi Fed-emelés, a Nasdaq 100 napközben a medvepiac szélére esett. Közben az Xpeng januárban indítja humanoidja sorozatgyártását, Brüsszel 50 milliárd eurós szuverén tech-tőkealapot javasol, a forint pedig 373 fölé gyengült.",
+   "duration": 955.6
+  },
+  {
    "date": "2026-11-02",
    "title": "Választási hét: Intel-krach, olcsóbb olaj, 4,9%-os magyar hiánycél",
    "headline": "Pénteken az Intel 1974 óta legrosszabb napjával a Nasdaq a legrosszabb hónapját zárta 2025 márciusa óta, hétfőre viszont az iráni „kétnapos terv” 110 dollárra nyomta a Brentet. Kedden amerikai félidős választás, a héten kamatemelési hullám jöhet Európában, itthon pedig benyújtották a 4,9%-os hiánnyal számoló 2027-es költségvetést.",
@@ -10,7 +16,7 @@
    "date": "2026-10-30",
    "title": "Az AI-számla napja: Alphabet-zuhanás, EKB-patt, lassuló magyar GDP",
    "headline": "A piac először bünteti keményen, ha az AI-beruházás felfalja a pénzáramot: az Alphabet a történetének legrosszabb napján kb. 500 milliárd dollárt veszített, miközben a Microsoft és az AWS gyorsult. Itthon a GDP csak 1,5%-kal nőtt, az EKB kivár, Lagarde idő előtt távozik, a gáz 2022 óta nem volt ilyen drága.",
-   "duration": 942.4
+   "duration": 942.5
   },
   {
    "date": "2026-10-29",
@@ -28,7 +34,7 @@
    "date": "2026-10-26",
    "title": "Drága pénz, drága energia, drága AI – szuperhét előtt a piacok",
    "headline": "Az olaj 6%-ot esett az iráni diplomáciára, de a gáz 2022 óta nem volt ilyen drága; a Meta akár 95 milliárd dollár részvénnyel finanszírozná az AI-t, itthon pedig napokon belül jön a 2027-es költségvetés és az új kata.",
-   "duration": 887.4
+   "duration": 887.3
   }
  ]
 }
