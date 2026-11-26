@@ -1,0 +1,298 @@
+{
+ "segments": [
+  {
+   "speaker": "noemi",
+   "section": "intro",
+   "chapter": "Bevezető",
+   "text": "Jó reggelt, ez a Reggeli Brief, november huszonhatodika, csütörtök. Noémi vagyok, és velem van Tamás, az elemzőnk. Ma a szerda reggel óta történteket nézzük át: technológia, robotok, startupok, kvantum, aztán Magyarország, az Európai Unió, az Egyesült Államok, Kína és a világ."
+  },
+  {
+   "speaker": "tamas",
+   "section": "intro",
+   "chapter": "Bevezető",
+   "text": "Jó reggelt! Három szóban: vámok, kamatok, robotok. Washington újabb vámokat javasol tizennégy partnerre, köztük az Unióra és Kínára. Az amerikai infláció három egész nyolc tized százalék, így decemberben szinte biztos a kamatemelés. A Nasdaq napközben majdnem medvepiacba zuhant, a forint 373 fölé gyengült. Közben a kínai Xpeng januárban sorozatgyártásba küldi a humanoid robotját."
+  },
+  {
+   "speaker": "noemi",
+   "section": "piacok",
+   "chapter": "Piacok",
+   "text": "Kezdjük a piacokkal. Elég vad nap volt szerdán, igaz?"
+  },
+  {
+   "speaker": "tamas",
+   "section": "piacok",
+   "chapter": "Piacok",
+   "text": "Nagyon. A Dow napközben ezerszáz pontot esett, a Nasdaq négy és fél százalékot, a félelemindex harminchárom fölé ugrott. Aztán zárásra szinte minden visszajött: az S&P 500 negyed százalékkal, a Nasdaq hat tized százalékkal zárt lejjebb, a Dow pedig pluszban. A háttérben az októberi amerikai PCE-infláció áll, ami három egész nyolc tized százalék, 2023 óta a legmagasabb, és a harmadik negyedéves növekedés is négy egész három tized százalékra módosult. A piac kilencvennyolc százalék eséllyel áraz decemberi Fed-emelést. Az olaj három és fél százalékot drágult, a Brent kilencvennégy dollár hatvan cent, mert a jemeni hutik egy szaúdi finomítót támadtak. Csütörtökön hálaadás van, az amerikai tőzsdék zárva."
+  },
+  {
+   "speaker": "noemi",
+   "section": "tech",
+   "chapter": "Tech & AI",
+   "text": "Akkor jöjjön a tech. A napot megint az Nvidia uralta, de nem a termékei miatt."
+  },
+  {
+   "speaker": "tamas",
+   "section": "tech",
+   "chapter": "Tech & AI",
+   "text": "Nem bizony. Jensen Huang november tizennyolcadikán lemondott, mert megsértette a cég magatartási kódexét, huszonkettedikén pedig visszahelyezték. A Washington Post szerint a Pentagon vezetői felvetették, hogy egy háborús törvénnyel, a Defense Production Acttel gyakoroljanak nyomást az igazgatótanácsra. A Reuters szerint az igazságügyi minisztérium nem vizsgálta Huangot, a Wall Street Journal szerint pedig a hírszerzés nem talált bizonyítékot kínai beavatkozásra. Az S&P Global negatív figyelőlistára tette a céget, a részvény novemberben már huszonhét százalékot esett, szerdán napközben nyolcat."
+  },
+  {
+   "speaker": "noemi",
+   "section": "tech",
+   "chapter": "Tech & AI",
+   "text": "Ez az irányítási kérdés. És mi a helyzet a kínai exporttal?"
+  },
+  {
+   "speaker": "tamas",
+   "section": "tech",
+   "chapter": "Tech & AI",
+   "text": "November tizenkilencedikén hatályba lépett egy amerikai szabály, amely azt is tiltja, hogy kínai cégek külföldi adatközpontokon keresztül béreljenek csúcschipeket. A CNBC szerint azóta dömpingben árulják a B300-as GPU-kat, több ezer darabra kínálnak üzletet. Közben a sencseni szürkepiacon egy ilyen szerver több mint hárommillió dollár, az amerikai ár ötszöröse. A Financial Times szerint az Nvidia leállítja a szerverszállítást Malajziába, Szingapúrba, Thaiföldre és Indonéziába, a Bloomberg szerint pedig bankok befagyasztanak egy hat egész hat tized milliárd dolláros adatközpont-hitelt, mert kínai bérlőkhöz kötődik."
+  },
+  {
+   "speaker": "noemi",
+   "section": "tech",
+   "chapter": "Tech & AI",
+   "text": "Vagyis egyetlen szabály kettévágja a piacot: nyugaton olcsóbb lesz a számítási kapacitás, Kínában drágább. Mi volt még?"
+  },
+  {
+   "speaker": "tamas",
+   "section": "tech",
+   "chapter": "Tech & AI",
+   "text": "Az amerikai távközlési hatóság, az FCC egymillió műholdat engedélyezett a SpaceX-nek világűrbeli adatközpontokhoz. Ez mutatja, mennyire szorít az AI energiaigénye. Trump december negyedikén a TSMC arizonai alapkőletételét vezeti, a Wired pedig bírósági iratok alapján azt írja, hogy a kormány fenyegetéssel kényszerítette ki az Intelben szerzett tízszázalékos állami részesedést. A magánpiacon közben bőven van pénz: a hang-AI-cég ElevenLabs harminchárom milliárd dolláros értékelésről tárgyal, az Andreessen Horowitz pedig húszmilliárdot gyűjt."
+  },
+  {
+   "speaker": "noemi",
+   "section": "tech",
+   "chapter": "Tech & AI",
+   "text": "És a termékoldalon? Az OpenAI arra figyelmeztet, hogy a ChatGPT nagy felhasználói hamarabb elérhetik a limitet, mert összevonja a Chat és a Work felületet. Az Anthropic Rustra írta át az API-ját, és ezzel nagyjából hetven százalékkal kevesebb processzoridőt használ. Negyvenkét amerikai állami főügyész pedig azt próbálja megakadályozni, hogy a Character.AI elárverezze huszonegymillió fiók adatait."
+  },
+  {
+   "speaker": "noemi",
+   "section": "humanoid",
+   "chapter": "Humanoid robotika",
+   "text": "Jöjjenek a humanoid robotok. Tamás, az Xpeng konkrét dátumokat mondott?"
+  },
+  {
+   "speaker": "tamas",
+   "section": "humanoid",
+   "chapter": "Humanoid robotika",
+   "text": "Igen, és ez ritka. A Humanoids Daily beszámolója szerint az IRON robot januárban kerül sorozatgyártásba, a második negyedévben kereskedelmi forgalomba, a második félévben pedig Európába. Hetvenhat szabadságfoka van, kezenként huszonegy és háromszázhetvenöt tapintásérzékelő, a gyártósor teljes kapacitáson két és fél percenként szerel össze egyet. Ugyanaz a mesterséges intelligencia hajtja, mint a cég autóit. A Bloomberg címe szerint annyiba kerül majd, mint egy villanyautó, de konkrét árat nem mondtak."
+  },
+  {
+   "speaker": "noemi",
+   "section": "humanoid",
+   "chapter": "Humanoid robotika",
+   "text": "A Tesla is hasonló irányba megy, nem?"
+  },
+  {
+   "speaker": "tamas",
+   "section": "humanoid",
+   "chapter": "Humanoid robotika",
+   "text": "Pontosan. Musk szerint a következő chip, az AI5 elsősorban az Optimus robotba kerül, az autók maradnak a régin. A memóriát hetvenkét gigabájtra felezték, hogy jusson a robotgyártásra is. Musk közben azt állította, hogy a versenytársak demói megrendezettek; a Figure vezetője erre egy videóval válaszolt, amin a robot elmozdított asztalról is felveszi az almát. A józan szám: a Figure saját adatai szerint idegen otthonokban a feladatok ötvenhat százalékát oldja meg. Az árakról pedig: a kínai AgiBot humanoidjai Amerikában huszonkilencezer-kilencszázkilencvenkilenc dollártól kaphatók."
+  },
+  {
+   "speaker": "noemi",
+   "section": "humanoid",
+   "chapter": "Humanoid robotika",
+   "text": "Tehát a belépő humanoid ma egy jobb autó ára, és az autógyártók lettek a robotverseny természetes szereplői. Ez a magyar autóipari beszállítóknak is üzenet."
+  },
+  {
+   "speaker": "noemi",
+   "section": "startup",
+   "chapter": "Startup-ökoszisztéma",
+   "text": "Startupok. Amerikában a hálaadás miatt csendes a hét, Európában viszont nagy hír jött Brüsszelből."
+  },
+  {
+   "speaker": "tamas",
+   "section": "startup",
+   "chapter": "Startup-ökoszisztéma",
+   "text": "Igen. A tech.eu szerint az Európai Bizottság egy ötvenmilliárd eurós szuverén technológiai tőkealapot javasol kvantum-, AI-, chip- és felhőcégeknek, cégenként akár több száz millió eurós részesedésekkel. Ez tízszerese a korábbi alapnak, és pont arra a szakadékra céloz, amiért az európai cégek Amerikába mennek pénzért. A Tanácsnak és a Parlamentnek még jóvá kell hagynia, és a pénzről a hétéves költségvetésben döntenek."
+  },
+  {
+   "speaker": "noemi",
+   "section": "startup",
+   "chapter": "Startup-ökoszisztéma",
+   "text": "És a régióban?"
+  },
+  {
+   "speaker": "tamas",
+   "section": "startup",
+   "chapter": "Startup-ökoszisztéma",
+   "text": "A szófiai Eleven Ventures, a Payhawk korai befektetője, ötvenhétmillió eurónál zárta új alapja első körét, az Európai Beruházási Alap pénzével; az első jegyek háromszázezer és másfél millió euró között vannak. Torinóban elindult a Pronto Ventures, egy volt Techstars-vezető akcelerátora, kifejezetten közép-kelet-európai fókusszal, és Budapesten már aktív. Itthon Oszkó Péter cége, az O3 Partners rekord, öt egész hetvenegy század millió eurós tőkebevonás után pénteken lép a Budapesti Értéktőzsde Standard piacára. A Sifted fizetős cikkének címe szerint pedig egy lengyel robotikai startup, a Lute Robotics, húszmillió dollárt vont be már seed szakaszban."
+  },
+  {
+   "speaker": "tamas",
+   "section": "startup",
+   "chapter": "Startup-ökoszisztéma",
+   "text": "Két kisebb, de tanulságos európai kör is volt. A londoni Bound, amely mesterséges intelligenciával kezeli a középvállalatok devizakockázatát, ötvenmillió dolláros hitelkeretet kapott, vagyis a tulajdonosok részesedése nem hígul. A berlini elbic pedig két egész hét tized millió eurót gyűjtött olyan hangalapú AI-ra, amely az európai ügyfélhívásokat távol tartja az amerikai szerverektől. Az adatszuverenitás tehát ma már eladható érv."
+  },
+  {
+   "speaker": "noemi",
+   "section": "kvantum",
+   "chapter": "Kvantum",
+   "text": "Maradjunk Brüsszelnél, mert a kvantumban is ez a nap híre."
+  },
+  {
+   "speaker": "tamas",
+   "section": "kvantum",
+   "chapter": "Kvantum",
+   "text": "A Bizottság benyújtotta az első uniós kvantumtörvényt. Célok: rendszerenként nagyjából száz hibajavított logikai qubit 2030-ra, GPS nélküli navigáció, és kvantumkulcs-hálózat 2031-re. A legfontosabb üzleti elem: a kiberbiztonsági irányelv alá tartozó közigazgatási szerveknek hat hónappal a hatálybalépés után már posztkvantum-titkosítást kell beszerezniük. Az európai kvantumstartupok tavaly a globális magántőkének csak öt százalékát kapták, ezen akarnak változtatni."
+  },
+  {
+   "speaker": "noemi",
+   "section": "kvantum",
+   "chapter": "Kvantum",
+   "text": "És üzleti oldalon?"
+  },
+  {
+   "speaker": "tamas",
+   "section": "kvantum",
+   "chapter": "Kvantum",
+   "text": "A finn IQM nyolc-tízmillió euróért ad el egy ötvennégy qubites gépet egy koreai AI-adatközpontnak, ahol GPU-k mellett fog futni. Ritka, hogy ennyire konkrét árat látunk. Jülichben harmincötmillió euróból, nagyrészt szénrégiós átalakítási pénzből épül egy kétszáz qubites, szilíciumalapú gép. Amerikában pedig az energiaügyi minisztérium tizenkétmillió dollárt adott egy konzorciumnak, amelyben a QuEra, az Nvidia és az Anthropic is benne van, mesterséges intelligenciával segített kvantumhiba-javításra."
+  },
+  {
+   "speaker": "noemi",
+   "section": "kvantum",
+   "chapter": "Kvantum",
+   "text": "És ahol már most bevétel van: az IonQ leányvállalata a DARPA programjában repülőgépre szerelhető kvantum-gravitációmérőt fejleszt, az optikai atomórája pedig ötvenegy napot töltött egy haditengerészeti hajón. Ahol zavarják a GPS-t, ott a kvantumszenzor üzlet."
+  },
+  {
+   "speaker": "noemi",
+   "section": "magyarorszag",
+   "chapter": "Magyarország",
+   "text": "Térjünk haza. A forint szerdán csúnyán gyengült."
+  },
+  {
+   "speaker": "tamas",
+   "section": "magyarorszag",
+   "chapter": "Magyarország",
+   "text": "A HVG szerint az euró 373 és fél forintig drágult, két hete még 362 körül volt. Csütörtök reggelre 372 körül fellélegzett. Az ok nagyrészt külső, a vámok és a Fed, de az MNB múlt heti kamatcsökkentési jelzése is szűkíti a forint kamatelőnyét. A Portfolio szerint a GKI konjunktúraindexe hét havi mélyponton van: több cég csökkentené a jövő évi beruházást, mint ahány növelné. A munkaerőpiac viszont jól tartja magát, a KSH szerint négymillió-hatszázhetvenötezren dolgoznak, újra nő a foglalkoztatás."
+  },
+  {
+   "speaker": "noemi",
+   "section": "magyarorszag",
+   "chapter": "Magyarország",
+   "text": "Vállalkozóknak fontos törvényjavaslat is jött."
+  },
+  {
+   "speaker": "tamas",
+   "section": "magyarorszag",
+   "chapter": "Magyarország",
+   "text": "Igen: januártól már ötszázezer forint feletti, nem vitatott tartozás miatt kérhető felszámolás, a mostani egymillió helyett, és a volt vezetők felelősségét három évre visszamenőleg vizsgálnák. A parlament eltörölte az árrésstopot, de a kiskereskedelmi különadó marad, és megszavazták a családi pótlék duplázását, az szja-csökkentést és a kata bővítését. A reklámadó három egész hetvenöt század százalékkal térhet vissza, a szakma tiltakozik. A Portfolio szerint pedig a komáromi Duna-híd tenderén elkövetett szabálytalanság miatt Magyarország végleg elbukott több mint húszmilliárd forint uniós pénzt."
+  },
+  {
+   "speaker": "noemi",
+   "section": "magyarorszag",
+   "chapter": "Magyarország",
+   "text": "A Magyar Péter–Zelenszkij találkozó után ukrán kukorica jöhet a magas hazai árak enyhítésére, és Magyarország feloldotta a kilencvenmilliárd eurós uniós ukrajnai hitel blokádját. Kapitány István szerint a gáztárolók hetvennégy százalékon állnak, az uniós átlag fölött."
+  },
+  {
+   "speaker": "noemi",
+   "section": "eu",
+   "chapter": "Európai Unió",
+   "text": "Európa. Ma kezdődik a rendkívüli uniós csúcs."
+  },
+  {
+   "speaker": "tamas",
+   "section": "eu",
+   "chapter": "Európai Unió",
+   "text": "A tét a 2028 és 2034 közötti költségvetés. António Costa tíz százalékkal kisebb keretet javasol, a Parlament szerdán nagy többséggel elutasította ezt, és legalább kétezer-tízmilliárd eurót kér. Ebből jön Magyarország kohéziós és agrárpénze 2028-tól. December elsejétől kvóta lesz a hibrid autók importján, Kína kvótája nagyjából fele az idei importjának. A BYD erre válaszul francia gyárat venne az INEOS-tól, a szegedi mellé. A McKinsey szerint közben három egész hét tized millió európai ipari munkahely van veszélyben, főleg a drága energia miatt."
+  },
+  {
+   "speaker": "noemi",
+   "section": "usa",
+   "chapter": "USA",
+   "text": "Az Egyesült Államok. Mit jelentenek az új vámok Európának?"
+  },
+  {
+   "speaker": "tamas",
+   "section": "usa",
+   "chapter": "USA",
+   "text": "A kereskedelmi képviselő túlkapacitásra hivatkozva tizennégy partnerre javasol vámot. A Euronews szerint az Unióra tizenöt, rossz tárgyalás esetén húsz százalék jönne, a Reuters szerint a korábban megállapodott tizenöt százalékos plafon megmarad. Az autók, az acél és a chipek kimaradnak. A Fed Bézs könyve szerint a gazdaságot az adatközpontok és a védelmi ipar húzza, miközben a háztartások olcsóbb termékekre váltanak."
+  },
+  {
+   "speaker": "noemi",
+   "section": "kina",
+   "chapter": "Kína",
+   "text": "És Kína a fő célpont."
+  },
+  {
+   "speaker": "tamas",
+   "section": "kina",
+   "chapter": "Kína",
+   "text": "Igen. A Caixin szerint a kínai árukra újabb húsz százalék jönne, így egyes termékeken negyvenöt százalék körül lenne a vám, legkorábban januártól, és a kereskedelmi fegyverszünet január tizedikén lejár. Peking közben két hónappal, január huszonhetedikéig kitolta a gallium, germánium és antimon exporttilalmának felfüggesztését, és egy kínai légitársaság ötven Boeinget rendelt. Klasszikus alku: mindkét fél a januári határidőre gyűjt adukat."
+  },
+  {
+   "speaker": "noemi",
+   "section": "vilag",
+   "chapter": "Világpolitika",
+   "text": "Végül a világ."
+  },
+  {
+   "speaker": "tamas",
+   "section": "vilag",
+   "chapter": "Világpolitika",
+   "text": "Az iráni háborúban a Gulf News szerint egy tanker aknára futott a Hormuzi-szorosnál, Trump pedig azt mondta, a háború január végéig finanszírozott. Az ukrán béketárgyalások toporognak: Lukasenka felajánlotta, hogy elkíséri Zelenszkijt Moszkvába, mire Zelenszkij visszakérdezett: mi vagyok én, a bőröndje? Kína közben új útvonalakat épít, újraindult a Kína–Mongólia–Oroszország vasút."
+  },
+  {
+   "speaker": "noemi",
+   "section": "palyazatok",
+   "chapter": "Pályázatok",
+   "text": "És a pályázatok, Tamás. Van új magyar felhívás kezdő startupoknak?"
+  },
+  {
+   "speaker": "tamas",
+   "section": "palyazatok",
+   "chapter": "Pályázatok",
+   "text": "Őszintén: harmadik hete nincs új, ötletfázisú magyar felhívás, és a három politikus, Tanács Zoltán, Kapitány István és Magyar Péter sem jelentett be konkrét új kiírást. Van viszont néhány nyitott, közeli határidő. Az első a Startup Hungary Frontier Fellowship: kutatóknak, mérnököknek, doktoranduszoknak szól, cég és kész ötlet sem kell hozzá. Háromhónapos, ingyenes mentorprogram, pénzt nem ad, a határidő december hetedike. A második az NKFIH IPARJOG programja: ha van védhető ötleted, száz százalékos, vissza nem térítendő támogatást kapsz a szabadalmaztatásra, legfeljebb hét és fél millió forintig, fix összegekkel, így egyszerű beadni. Utolsó határidő december tizennyolcadika. A harmadik a Hiventures tizenhét milliárdos korai fázisú tőkeprogramja: pre-seed és seed cégeknek, folyamatos jelentkezéssel, de magánbefektető is kell mellé."
+  },
+  {
+   "speaker": "noemi",
+   "section": "palyazatok",
+   "chapter": "Pályázatok",
+   "text": "És európai szinten?"
+  },
+  {
+   "speaker": "tamas",
+   "section": "palyazatok",
+   "chapter": "Pályázatok",
+   "text": "Az EIC Accelerator közzétette a 2027-es határidőket. Legfeljebb két és fél millió euró vissza nem térítendő támogatás jár, plusz tőke, mélytechnológiai cégeknek. Az első teljes határidő január huszadika, és mivel hat helyett csak négy kör lesz, a rövid pályázatot most érdemes beadni. Ha cégedet 2022 után jegyezték be, és fenntarthatósággal vagy dizájnnal foglalkozol, a Catalyse NEB fix huszonkétezer eurót ad mentorálással, egyszerű angol űrlappal, január tizenötödikéig. Az élelmiszeripari startupoknak az EIT Food proof-of-concept programja hétfőn délben zárul. Röviden: a december a pályázatírás hónapja."
+  },
+  {
+   "speaker": "noemi",
+   "section": "osszefugges",
+   "chapter": "Összefüggések",
+   "text": "Kössük össze a szálakat."
+  },
+  {
+   "speaker": "tamas",
+   "section": "osszefugges",
+   "chapter": "Összefüggések",
+   "text": "Az első lánc: vámok és drágább olaj, ebből infláció, ebből Fed-emelés, ebből erősebb dollár és gyengébb forint. Az MNB közben csökkentene, ezért szorul a forint kamatelőnye. A második: az állam mint tőkés. Washington beleszól az Nvidia vezetésébe és az Intel tulajdonába, Brüsszel ötvenmilliárdos tech-alapot javasol, Peking a légitársaságait vonná össze. A harmadik: az autóipar és a robotika összeolvad. Az Xpeng és a Tesla ugyanazt a tudást viszi át a robotokra, Brüsszel kvótája pedig Európába hozza a kínai gyárakat."
+  },
+  {
+   "speaker": "noemi",
+   "section": "lehetoseg",
+   "chapter": "Lehetőségek",
+   "text": "És mit lehet ebből kihozni?"
+  },
+  {
+   "speaker": "tamas",
+   "section": "lehetoseg",
+   "chapter": "Lehetőségek",
+   "text": "Kezdő vállalkozónak: a kvantumtörvény posztkvantum-titkosítási kötelezettsége piacot nyit a titkosítási eszközök felmérésére. A kockázat, hogy ez még csak javaslat, és évekig tarthat. Második: humanoidok telepítése, betanítása és bérbeadása Európában, ha 2027-ben megjönnek a kínai robotok. A kockázat, hogy az ütemtervek csúszhatnak. Harmadik: aki euróban számláz, a mostani árfolyamon részben fedezheti a bevételét, de a forint gyorsan vissza is erősödhet."
+  },
+  {
+   "speaker": "noemi",
+   "section": "zaras",
+   "chapter": "Zárás",
+   "text": "Ennyi volt a mai Reggeli Brief. A pontos forráslinkeket az appban találjátok, és ne feledjétek: ez nem befektetési tanácsadás. Köszönöm, Tamás!"
+  },
+  {
+   "speaker": "tamas",
+   "section": "zaras",
+   "chapter": "Zárás",
+   "text": "Köszönöm! Holnap a Black Friday és az uniós csúcs eredménye után jelentkezünk. Szép napot mindenkinek!"
+  }
+ ]
+}
