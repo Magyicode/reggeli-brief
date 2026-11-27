@@ -1,6 +1,12 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "title": "Patthelyzet Brüsszelben, AI-felpattanás és humanoidok a Volvónál",
+   "headline": "Megállapodás nélkül ért véget az EU-csúcs: nincs 2028–34-es költségvetés és nincs 2027-es ukrán hitel, Magyarország kimarad a hitelből. A piacok közben visszatértek az AI-hoz: Európa közel 2%-ot emelkedett, a Nasdaq határidős közel 3%-kal áll feljebb. A Volvo Gentben betanítja az első humanoidjait, Magyarország pedig utolsóként csatlakozott az európai startup-szövetséghez.",
+   "duration": 922.4
+  },
+  {
    "date": "2026-11-26",
    "title": "Vámhullám, Nvidia-hullámvasút és sorozatgyártásra kész humanoidok",
    "headline": "Washington újabb vámokat javasol 14 partnerre, köztük az EU-ra és Kínára, a 3,8%-os amerikai infláció mellett szinte biztos a decemberi Fed-emelés, a Nasdaq 100 napközben a medvepiac szélére esett. Közben az Xpeng januárban indítja humanoidja sorozatgyártását, Brüsszel 50 milliárd eurós szuverén tech-tőkealapot javasol, a forint pedig 373 fölé gyengült.",
@@ -28,7 +34,7 @@
    "date": "2026-10-27",
    "title": "Tőzsdére megy az Anthropic – az AI-építkezés már a tőkepiacból él",
    "headline": "Egyetlen nap alatt jött az Anthropic tőzsdei tájékoztatója, a Meta 95 milliárd dolláros részvénykibocsátása és a SpaceX 40 milliárdos GPU-lízingje: az AI-építkezés már nem fér bele a cégek saját cash flow-jába. Itthon a Fitch 2032-re teszi a legkorábbi euróbevezetést, a forint 367 körül várja a Fed szerdai és az EKB csütörtöki döntését.",
-   "duration": 914.8
+   "duration": 914.7
   },
   {
    "date": "2026-10-26",
